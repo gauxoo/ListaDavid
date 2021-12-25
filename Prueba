@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1,24h
+http://95.61.93.101:9981/stream/channelid/905258615
+#EXTINF:-1,24h HD
+http://95.61.93.101:9981/stream/channelid/39201827
+#EXTINF:-1,Alternativa TV
+http://95.61.93.101:9981/stream/channelid/308737837
+#EXTINF:-1,AndaluciaTV
+http://95.61.93.101:9981/stream/channelid/1650691821
+#EXTINF:-1,antena3
+http://95.61.93.101:9981/stream/channelid/1841326808
+#EXTINF:-1,antena3 HD
+http://95.61.93.101:9981/stream/channelid/541784825
+#EXTINF:-1,atreseries HD
+http://95.61.93.101:9981/stream/channelid/1049573840
+#EXTINF:-1,BeMad tv HD
+http://95.61.93.101:9981/stream/channelid/1691170078
+#EXTINF:-1,Boing
+http://95.61.93.101:9981/stream/channelid/86266343
+#EXTINF:-1,BOM
+http://95.61.93.101:9981/stream/channelid/369688061
+#EXTINF:-1,C.S.R. Málaga
+http://95.61.93.101:9981/stream/channelid/404209929
+#EXTINF:-1,CADENA 100
+http://95.61.93.101:9981/stream/channelid/912028007
+#EXTINF:-1,Canal Fiesta R.
+http://95.61.93.101:9981/stream/channelid/88254906
+#EXTINF:-1,CanalSur
+http://95.61.93.101:9981/stream/channelid/291352789
+#EXTINF:-1,CanalSur2
+http://95.61.93.101:9981/stream/channelid/1709563013
+#EXTINF:-1,CanalSurHD
+http://95.61.93.101:9981/stream/channelid/2141225301
+#EXTINF:-1,Clan
+http://95.61.93.101:9981/stream/channelid/1473668851
+#EXTINF:-1,Clan HD
+http://95.61.93.101:9981/stream/channelid/2024706438
+#EXTINF:-1,COPE
+http://95.61.93.101:9981/stream/channelid/1058548511
+#EXTINF:-1,Cuatro
+http://95.61.93.101:9981/stream/channelid/500786110
+#EXTINF:-1,Cuatro HD
+http://95.61.93.101:9981/stream/channelid/55713668
+#EXTINF:-1,DIAL
+http://95.61.93.101:9981/stream/channelid/1492169390
+#EXTINF:-1,Disney Channel
+http://95.61.93.101:9981/stream/channelid/147147827
+#EXTINF:-1,Divinity
+http://95.61.93.101:9981/stream/channelid/1395130600
+#EXTINF:-1,DKISS
+http://95.61.93.101:9981/stream/channelid/237212487
+#EXTINF:-1,DMAX
+http://95.61.93.101:9981/stream/channelid/1634817745
+#EXTINF:-1,El Toro TV
+http://95.61.93.101:9981/stream/channelid/1627331860
+#EXTINF:-1,Energy
+http://95.61.93.101:9981/stream/channelid/29423891
+#EXTINF:-1,esRadio
+http://95.61.93.101:9981/stream/channelid/1022159122
+#EXTINF:-1,ESTRELLA DEL PILAR
+http://95.61.93.101:9981/stream/channelid/1140245857
