@@ -1,325 +1,320 @@
-#EXTM3U
-#EXTINF:-1,#VAMOS
-http://88.11.103.116:8000/stream/channelid/419031480
-#EXTINF:-1,#VAMOS
-http://88.11.103.116:8000/stream/channelid/1362255490
-#EXTINF:-1,#VAMOS BAR2
-http://88.11.103.116:8000/stream/channelid/1600334421
-#EXTINF:-1,#VAMOSHD
-http://88.11.103.116:8000/stream/channelid/196084589
-#EXTINF:-1,LA 1 HD
-http://88.11.103.116:8000/stream/channelid/76109587
-#EXTINF:-1,2
-http://88.11.103.116:8000/stream/channelid/1736756645
-#EXTINF:-1,ANTENA 3 HD
-http://88.11.103.116:8000/stream/channelid/70085120
-#EXTINF:-1,CUATRO HD
-http://88.11.103.116:8000/stream/channelid/678457126
-#EXTINF:-1,TELECINCO HD
-http://88.11.103.116:8000/stream/channelid/1718295005
-#EXTINF:-1,LA SEXTA HD
-http://88.11.103.116:8000/stream/channelid/206894910
-#EXTINF:-1,#0 HD
-http://88.11.103.116:8000/stream/channelid/1447838519
-#EXTINF:-1,#VAMOSHD
-http://88.11.103.116:8000/stream/channelid/1025629066
-#EXTINF:-1,MULTIDEPORTE
-http://88.11.103.116:8000/stream/channelid/23796977
-#EXTINF:-1,M. SERIES HD
-http://88.11.103.116:8000/stream/channelid/894972387
-#EXTINF:-1,nia HD
-http://88.11.103.116:8000/stream/channelid/210104260
-#EXTINF:-1,FOX HD
-http://88.11.103.116:8000/stream/channelid/1609453385
+#EXTINF:-1,---- Spain [SP 4K Ultra] ----
+http://xfire.one:88/test1/test2/39956
+#EXTINF:-1,LA1 4K
+http://xfire.one:88/test1/test2/36117
+#EXTINF:-1,LA2 4K
+http://xfire.one:88/test1/test2/36119
+#EXTINF:-1,Antena 3 4K
+http://xfire.one:88/test1/test2/36121
+#EXTINF:-1,Cuatro 4K
+http://xfire.one:88/test1/test2/36123
+#EXTINF:-1,TeleCinco 4K
+http://xfire.one:88/test1/test2/36125
+#EXTINF:-1,La Sexta 4K
+http://xfire.one:88/test1/test2/36127
+#EXTINF:-1,Neox 4K
+http://xfire.one:88/test1/test2/39962
+#EXTINF:-1,Nova 4K
+http://xfire.one:88/test1/test2/39963
+#EXTINF:-1,Mega 4K
+http://xfire.one:88/test1/test2/39964
+#EXTINF:-1,FDF 4K
+http://xfire.one:88/test1/test2/39965
+#EXTINF:-1,Energy 4K
+http://xfire.one:88/test1/test2/39966
+#EXTINF:-1,Divinty 4K
+http://xfire.one:88/test1/test2/39967
+#EXTINF:-1,Andalucia TV 4K
+http://xfire.one:88/test1/test2/39968
+#EXTINF:-1,Aragon TV 4K
+http://xfire.one:88/test1/test2/39969
+#EXTINF:-1,BE MAD 4K
+http://xfire.one:88/test1/test2/39970
+#EXTINF:-1,✩✩✩✩ [SP] Ninos ✩✩✩✩
+http://xfire.one:88/test1/test2/39957
+#EXTINF:-1,Disney Channel 4K
+http://xfire.one:88/test1/test2/39971
+#EXTINF:-1,Disney Junior 4K
+http://xfire.one:88/test1/test2/39972
+#EXTINF:-1,Disney+ 4K
+http://xfire.one:88/test1/test2/39973
+#EXTINF:-1,M.Disney 4K
+http://xfire.one:88/test1/test2/39978
+#EXTINF:-1,Nickelodeon 4K
+http://xfire.one:88/test1/test2/36141
+#EXTINF:-1,Nick JR. 4K
+http://xfire.one:88/test1/test2/39974
+#EXTINF:-1,Clan TVE 4K
+http://xfire.one:88/test1/test2/36144
+#EXTINF:-1,Canal Panda 4K
+http://xfire.one:88/test1/test2/39975
+#EXTINF:-1,Baby TV 4K
+http://xfire.one:88/test1/test2/39976
+#EXTINF:-1,Boing 4K
+http://xfire.one:88/test1/test2/39977
+#EXTINF:-1,✩✩✩✩ [SP] Entretenimiento ✩✩✩✩
+http://xfire.one:88/test1/test2/39958
+#EXTINF:-1,Fox Channel 4K
+http://xfire.one:88/test1/test2/36155
+#EXTINF:-1,Fox Life 4K
+http://xfire.one:88/test1/test2/36157
+#EXTINF:-1,AXN 4K
+http://xfire.one:88/test1/test2/36161
+#EXTINF:-1,AXN White 4K
+http://xfire.one:88/test1/test2/36163
+#EXTINF:-1,AMC 4K
+http://xfire.one:88/test1/test2/36159
+#EXTINF:-1,SYFY 4K
+http://xfire.one:88/test1/test2/36165
+#EXTINF:-1,TNT 4K
+http://xfire.one:88/test1/test2/36167
+#EXTINF:-1,TCM 4K
+http://xfire.one:88/test1/test2/36169
+#EXTINF:-1,Calle 13 4K
+http://xfire.one:88/test1/test2/36171
+#EXTINF:-1,Hollywood 4K
+http://xfire.one:88/test1/test2/36152
+#EXTINF:-1,Cosmo 4K
+http://xfire.one:88/test1/test2/36176
+#EXTINF:-1,Comedy Central 4K
+http://xfire.one:88/test1/test2/36150
+#EXTINF:-1,Paramount Channel 4K
+http://xfire.one:88/test1/test2/39979
+#EXTINF:-1,Sundance 4K
+http://xfire.one:88/test1/test2/39980
+#EXTINF:-1,Blaze 4K
+http://xfire.one:88/test1/test2/39981
+#EXTINF:-1,MTV 4K
+http://xfire.one:88/test1/test2/39982
+#EXTINF:-1,✩✩✩✩ [SP] Moviestar ✩✩✩✩
+http://xfire.one:88/test1/test2/39959
+#EXTINF:-1,#0 4K
+http://xfire.one:88/test1/test2/36178
+#EXTINF:-1,M.Accion 4K
+http://xfire.one:88/test1/test2/36182
+#EXTINF:-1,M.Comedia 4K
+http://xfire.one:88/test1/test2/36184
+#EXTINF:-1,M.Drama 4K
+http://xfire.one:88/test1/test2/36186
+#EXTINF:-1,M.Estrenos 4K
+http://xfire.one:88/test1/test2/36180
+#EXTINF:-1,M.Series 4K
+http://xfire.one:88/test1/test2/36188
+#EXTINF:-1,M.Seriesmanía 4K
+http://xfire.one:88/test1/test2/36190
+#EXTINF:-1,M.CineDoc&Roll 4K
+http://xfire.one:88/test1/test2/36192
+#EXTINF:-1,✩✩✩✩ [SP] Sport ✩✩✩✩
+http://xfire.one:88/test1/test2/39960
+#EXTINF:-1,M.Deportes 4K
+http://xfire.one:88/test1/test2/36216
+#EXTINF:-1,M.Liga de Campeones 4K
+http://xfire.one:88/test1/test2/36220
+#EXTINF:-1,M.#Vamos 4K
+http://xfire.one:88/test1/test2/36206
+#EXTINF:-1,M.LaLiga Bar 4K
+http://xfire.one:88/test1/test2/36212
+#EXTINF:-1,M.Fútbol 4K
+http://xfire.one:88/test1/test2/36208
+#EXTINF:-1,M.MotoGP 4K
+http://xfire.one:88/test1/test2/36210
+#EXTINF:-1,M.Fórmula 1 4K
+http://xfire.one:88/test1/test2/36214
+#EXTINF:-1,M.Golf 4K
+http://xfire.one:88/test1/test2/36218
+#EXTINF:-1,Eurosport 1 4K
+http://xfire.one:88/test1/test2/36226
+#EXTINF:-1,✩✩✩✩ [SP] Cultura ✩✩✩✩
+http://xfire.one:88/test1/test2/39961
+#EXTINF:-1,National Geographic 4K
+http://xfire.one:88/test1/test2/36230
+#EXTINF:-1,National Geographic Wild 4K
+http://xfire.one:88/test1/test2/36232
+#EXTINF:-1,---- Spain [SP HD] ----
+http://xfire.one:88/test1/test2/19118
+#EXTINF:-1,LA1 HD
+http://xfire.one:88/test1/test2/36118
+#EXTINF:-1,LA2 HD
+http://xfire.one:88/test1/test2/36120
+#EXTINF:-1,Antena 3 HD
+http://xfire.one:88/test1/test2/36122
+#EXTINF:-1,Cuatro HD
+http://xfire.one:88/test1/test2/36124
+#EXTINF:-1,TeleCinco HD
+http://xfire.one:88/test1/test2/36126
+#EXTINF:-1,La Sexta HD
+http://xfire.one:88/test1/test2/36128
+#EXTINF:-1,Neox HD
+http://xfire.one:88/test1/test2/36129
+#EXTINF:-1,Nova HD
+http://xfire.one:88/test1/test2/36130
+#EXTINF:-1,Mega HD
+http://xfire.one:88/test1/test2/36131
+#EXTINF:-1,FDF HD
+http://xfire.one:88/test1/test2/36132
+#EXTINF:-1,Energy HD
+http://xfire.one:88/test1/test2/36134
+#EXTINF:-1,Divinty HD
+http://xfire.one:88/test1/test2/36133
+#EXTINF:-1,Andalucia TV HD
+http://xfire.one:88/test1/test2/36135
+#EXTINF:-1,Aragon TV HD
+http://xfire.one:88/test1/test2/36137
+#EXTINF:-1,BE MAD HD
+http://xfire.one:88/test1/test2/36136
+#EXTINF:-1,✩✩✩✩ [SP] Ninos ✩✩✩✩
+http://xfire.one:88/test1/test2/39948
+#EXTINF:-1,Disney Channel HD
+http://xfire.one:88/test1/test2/36139
+#EXTINF:-1,Disney Junior
+http://xfire.one:88/test1/test2/36140
+#EXTINF:-1,Disney+ HD
+http://xfire.one:88/test1/test2/36138
+#EXTINF:-1,M.Disney HD
+http://xfire.one:88/test1/test2/36149
+#EXTINF:-1,Nickelodeon HD
+http://xfire.one:88/test1/test2/36142
+#EXTINF:-1,Nick JR.
+http://xfire.one:88/test1/test2/36143
+#EXTINF:-1,Clan TVE HD
+http://xfire.one:88/test1/test2/36145
+#EXTINF:-1,Canal Panda HD
+http://xfire.one:88/test1/test2/36148
+#EXTINF:-1,Baby TV HD
+http://xfire.one:88/test1/test2/36146
+#EXTINF:-1,Boing HD
+http://xfire.one:88/test1/test2/36147
+#EXTINF:-1,✩✩✩✩ [SP] Entretenimiento ✩✩✩✩
+http://xfire.one:88/test1/test2/39949
+#EXTINF:-1,Fox Channel HD
+http://xfire.one:88/test1/test2/36156
+#EXTINF:-1,Fox Life HD
+http://xfire.one:88/test1/test2/36158
 #EXTINF:-1,AXN HD
-http://88.11.103.116:8000/stream/channelid/80186862
-#EXTINF:-1,TNT HD
-http://88.11.103.116:8000/stream/channelid/1299198102
-#EXTINF:-1,COMEDYCENTRALHD
-http://88.11.103.116:8000/stream/channelid/1461255385
-#EXTINF:-1,CALLE 13 HD
-http://88.11.103.116:8000/stream/channelid/438099356
-#EXTINF:-1,COSMO HD
-http://88.11.103.116:8000/stream/channelid/202223330
+http://xfire.one:88/test1/test2/36162
+#EXTINF:-1,AXN White HD
+http://xfire.one:88/test1/test2/36164
 #EXTINF:-1,AMC HD
-http://88.11.103.116:8000/stream/channelid/231962253
-#EXTINF:-1,FOX LIFE HD
-http://88.11.103.116:8000/stream/channelid/750653752
-#EXTINF:-1,AXN WHITE HD
-http://88.11.103.116:8000/stream/channelid/97244711
-#EXTINF:-1,M. LaLIGA 2
-http://88.11.103.116:8000/stream/channelid/2036522823
-#EXTINF:-1,M. LaLiga 6
-http://88.11.103.116:8000/stream/channelid/1006237502
-#EXTINF:-1,MTV ESPAÑA
-http://88.11.103.116:8000/stream/channelid/603805260
-#EXTINF:-1,FDF
-http://88.11.103.116:8000/stream/channelid/1166664302
-#EXTINF:-1,NEOX
-http://88.11.103.116:8000/stream/channelid/2016992778
-#EXTINF:-1,ENERGY
-http://88.11.103.116:8000/stream/channelid/933213988
-#EXTINF:-1,HD
-http://88.11.103.116:8000/stream/channelid/1386725375
-#EXTINF:-1,&Roll
-http://88.11.103.116:8000/stream/channelid/421654249
-#EXTINF:-1,M. DISNEY
-http://88.11.103.116:8000/stream/channelid/2009577568
-#EXTINF:-1,M. ACCIÓN HD
-http://88.11.103.116:8000/stream/channelid/1335021351
-#EXTINF:-1,HD
-http://88.11.103.116:8000/stream/channelid/719793427
-#EXTINF:-1,M. DRAMA HD
-http://88.11.103.116:8000/stream/channelid/2111406679
-#EXTINF:-1,M. Cine Español
-http://88.11.103.116:8000/stream/channelid/1948086502
+http://xfire.one:88/test1/test2/36160
+#EXTINF:-1,SYFY HD
+http://xfire.one:88/test1/test2/36166
+#EXTINF:-1,TNT HD
+http://xfire.one:88/test1/test2/36168
 #EXTINF:-1,TCM HD
-http://88.11.103.116:8000/stream/channelid/1884317849
-#EXTINF:-1,HOLLYWOODHD
-http://88.11.103.116:8000/stream/channelid/1004980851
-#EXTINF:-1,SUNDANCE TV
-http://88.11.103.116:8000/stream/channelid/202111808
-#EXTINF:-1,LTC
-http://88.11.103.116:8000/stream/channelid/1783822805
-#EXTINF:-1,M. LaLiga 7
-http://88.11.103.116:8000/stream/channelid/960501512
-#EXTINF:-1,M. LaLiga HD
-http://88.11.103.116:8000/stream/channelid/351054154
-#EXTINF:-1,M. LaLiga 1 HD
-http://88.11.103.116:8000/stream/channelid/1289760690
-#EXTINF:-1,DAZN 1 HD
-http://88.11.103.116:8000/stream/channelid/345063581
-#EXTINF:-1,DAZN 2 HD
-http://88.11.103.116:8000/stream/channelid/783820409
-#EXTINF:-1,ES
-http://88.11.103.116:8000/stream/channelid/1134642280
-#EXTINF:-1,1
-http://88.11.103.116:8000/stream/channelid/511491962
-#EXTINF:-1,2
-http://88.11.103.116:8000/stream/channelid/655089853
-#EXTINF:-1,M. DEPORTESHD
-http://88.11.103.116:8000/stream/channelid/1091729849
-#EXTINF:-1,M. DEPORTES1HD
-http://88.11.103.116:8000/stream/channelid/459304957
-#EXTINF:-1,M. DEPORTES7
-http://88.11.103.116:8000/stream/channelid/1470143382
-#EXTINF:-1,M. DEPORTES3
-http://88.11.103.116:8000/stream/channelid/17956444
-#EXTINF:-1,1HD
-http://88.11.103.116:8000/stream/channelid/1856130260
-#EXTINF:-1,M. GOLF HD
-http://88.11.103.116:8000/stream/channelid/206199139
-#EXTINF:-1,#VAMOS BAR
-http://88.11.103.116:8000/stream/channelid/1729933123
-#EXTINF:-1,EUROSPORT1HD
-http://88.11.103.116:8000/stream/channelid/1432932798
-#EXTINF:-1,EUROSPORT 2
-http://88.11.103.116:8000/stream/channelid/2113616321
-#EXTINF:-1,GOL
-http://88.11.103.116:8000/stream/channelid/848067260
-#EXTINF:-1,TELEDEPORTE
-http://88.11.103.116:8000/stream/channelid/409971312
-#EXTINF:-1,CAZAyPESCA HD
-http://88.11.103.116:8000/stream/channelid/1494854447
-#EXTINF:-1,IBERALIA TV
-http://88.11.103.116:8000/stream/channelid/509228574
-#EXTINF:-1,TOROS HD
-http://88.11.103.116:8000/stream/channelid/1429501679
-#EXTINF:-1,R. MADRID TV
-http://88.11.103.116:8000/stream/channelid/821683918
-#EXTINF:-1,BARÇA TV
-http://88.11.103.116:8000/stream/channelid/2096815391
-#EXTINF:-1,NAT GEO HD
-http://88.11.103.116:8000/stream/channelid/992128215
-#EXTINF:-1,NG WILD HD
-http://88.11.103.116:8000/stream/channelid/1189838633
-#EXTINF:-1,HISTORIA
-http://88.11.103.116:8000/stream/channelid/1505355966
-#EXTINF:-1,DISCOVERY
-http://88.11.103.116:8000/stream/channelid/1464873459
-#EXTINF:-1,CANAL ODISEA
-http://88.11.103.116:8000/stream/channelid/305438128
-#EXTINF:-1,BLAZE
-http://88.11.103.116:8000/stream/channelid/1492488163
-#EXTINF:-1,Movistar LaLiga 3
-http://88.11.103.116:8000/stream/channelid/96904430
-#EXTINF:-1,CRIMEN+INVES
-http://88.11.103.116:8000/stream/channelid/555445411
-#EXTINF:-1,CANAL COCINA
-http://88.11.103.116:8000/stream/channelid/479838151
-#EXTINF:-1,CANAL DECASA
-http://88.11.103.116:8000/stream/channelid/874058514
-#EXTINF:-1,DIVINITY
-http://88.11.103.116:8000/stream/channelid/226582598
-#EXTINF:-1,NOVA
-http://88.11.103.116:8000/stream/channelid/355868211
-#EXTINF:-1,BE MAD
-http://88.11.103.116:8000/stream/channelid/907040809
-#EXTINF:-1,DAZN 1
-http://88.11.103.116:8000/stream/channelid/122844946
-#EXTINF:-1,BABY TV
-http://88.11.103.116:8000/stream/channelid/77513348
-#EXTINF:-1,DISNEY JR
-http://88.11.103.116:8000/stream/channelid/2086590421
-#EXTINF:-1,CANAL PANDA
-http://88.11.103.116:8000/stream/channelid/1142614636
-#EXTINF:-1,NICK JR
-http://88.11.103.116:8000/stream/channelid/858058459
-#EXTINF:-1,NICKELODEONHD
-http://88.11.103.116:8000/stream/channelid/260507725
-#EXTINF:-1,DISNEY XD
-http://88.11.103.116:8000/stream/channelid/865178245
-#EXTINF:-1,DISNEY CH HD
-http://88.11.103.116:8000/stream/channelid/1176042639
-#EXTINF:-1,BOING
-http://88.11.103.116:8000/stream/channelid/906141240
-#EXTINF:-1,CLAN TVE
-http://88.11.103.116:8000/stream/channelid/177696714
-#EXTINF:-1,VH1
-http://88.11.103.116:8000/stream/channelid/1075693568
-#EXTINF:-1,MEZZO
-http://88.11.103.116:8000/stream/channelid/232461172
-#EXTINF:-1,MEZZO LIVE HD
-http://88.11.103.116:8000/stream/channelid/975160465
-#EXTINF:-1,CLASSICA
-http://88.11.103.116:8000/stream/channelid/1412723208
-#EXTINF:-1,PLAYBOY TV
-http://88.11.103.116:8000/stream/channelid/1923425750
-#EXTINF:-1,24 HORAS
-http://88.11.103.116:8000/stream/channelid/1740015189
-#EXTINF:-1,BBC World News Europe HD
-http://88.11.103.116:8000/stream/channelid/1317536064
-#EXTINF:-1,CNN Int.
-http://88.11.103.116:8000/stream/channelid/579871174
-#EXTINF:-1,FOX NEWS
-http://88.11.103.116:8000/stream/channelid/1226261541
-#EXTINF:-1,EURONEWS FRENCH SD
-http://88.11.103.116:8000/stream/channelid/2827458
-#EXTINF:-1,Al Jazeera English
-http://88.11.103.116:8000/stream/channelid/1229475892
-#EXTINF:-1,France 24 (in English)
-http://88.11.103.116:8000/stream/channelid/1477326918
-#EXTINF:-1,RT Esp HD
-http://88.11.103.116:8000/stream/channelid/1939917148
-#EXTINF:-1,CNBC Europe
-http://88.11.103.116:8000/stream/channelid/1766885364
-#EXTINF:-1,TV5MONDE EUROPE
-http://88.11.103.116:8000/stream/channelid/62101027
-#EXTINF:-1,Bloomberg Europe TV
-http://88.11.103.116:8000/stream/channelid/1640373728
-#EXTINF:-1,Sky News Intl
-http://88.11.103.116:8000/stream/channelid/264188900
-#EXTINF:-1,RT Esp
-http://88.11.103.116:8000/stream/channelid/2139508187
-#EXTINF:-1,RT France HD
-http://88.11.103.116:8000/stream/channelid/1245467410
-#EXTINF:-1,France 24 (en Français)
-http://88.11.103.116:8000/stream/channelid/1383142107
-#EXTINF:-1,France 24 (in Arabic)
-http://88.11.103.116:8000/stream/channelid/1971445334
-#EXTINF:-1,TV Record SD
-http://88.11.103.116:8000/stream/channelid/1779776628
-#EXTINF:-1,Cubavision Internacional
-http://88.11.103.116:8000/stream/channelid/387950773
-#EXTINF:-1,TELESUR HD
-http://88.11.103.116:8000/stream/channelid/557465810
-#EXTINF:-1,NHK WORLD-JPN
-http://88.11.103.116:8000/stream/channelid/1944595975
-#EXTINF:-1,Arirang TV
-http://88.11.103.116:8000/stream/channelid/1842571924
-#EXTINF:-1,LALIGATV BAR
-http://88.11.103.116:8000/stream/channelid/1706694626
-#EXTINF:-1,LALIGATVBAR1
-http://88.11.103.116:8000/stream/channelid/2146765280
-#EXTINF:-1,LALIGATVBAR2
-http://88.11.103.116:8000/stream/channelid/1968683176
-#EXTINF:-1,LALIGATVBAR3
-http://88.11.103.116:8000/stream/channelid/1236114723
-#EXTINF:-1,LALIGATVBAR4
-http://88.11.103.116:8000/stream/channelid/1836597438
-#EXTINF:-1,CANAL SUR A.
-http://88.11.103.116:8000/stream/channelid/599204150
-#EXTINF:-1,TVGA HD EUROPA
-http://88.11.103.116:8000/stream/channelid/872073631
-#EXTINF:-1,EXTREMADURA SAT
-http://88.11.103.116:8000/stream/channelid/96228608
-#EXTINF:-1,ARAGON TV INT
-http://88.11.103.116:8000/stream/channelid/1310554307
-#EXTINF:-1,TBN Espana
-http://88.11.103.116:8000/stream/channelid/1361104832
-#EXTINF:-1,Sonlife Broadcasting Network
-http://88.11.103.116:8000/stream/channelid/1243477215
-#EXTINF:-1,ALQUILER
-http://88.11.103.116:8000/stream/channelid/1608516501
-#EXTINF:-1,ALQUILER 1
-http://88.11.103.116:8000/stream/channelid/399384620
-#EXTINF:-1,ALQUILER 2
-http://88.11.103.116:8000/stream/channelid/1615090134
-#EXTINF:-1,ALQUILER 3
-http://88.11.103.116:8000/stream/channelid/819010397
-#EXTINF:-1,ALQUILER 4
-http://88.11.103.116:8000/stream/channelid/49575088
-#EXTINF:-1,ALQUILER 5
-http://88.11.103.116:8000/stream/channelid/853509384
-#EXTINF:-1,ALQUILER 6
-http://88.11.103.116:8000/stream/channelid/2041225936
-#EXTINF:-1,ALQUILER HD
-http://88.11.103.116:8000/stream/channelid/1225621426
-#EXTINF:-1,ALQUILER 2 HD
-http://88.11.103.116:8000/stream/channelid/1327944856
-#EXTINF:-1,ALQUILER X
-http://88.11.103.116:8000/stream/channelid/1761425679
-#EXTINF:-1,ALQUILER XX
-http://88.11.103.116:8000/stream/channelid/1620372105
-#EXTINF:-1,ALQ XXHARD
-http://88.11.103.116:8000/stream/channelid/754372213
-#EXTINF:-1,MULTI-X
-http://88.11.103.116:8000/stream/channelid/1806048582
-#EXTINF:-1,ALQUILER XY
-http://88.11.103.116:8000/stream/channelid/1762827425
-#EXTINF:-1,MULTI-X 1
-http://88.11.103.116:8000/stream/channelid/1979773767
-#EXTINF:-1,MULTI-X 2
-http://88.11.103.116:8000/stream/channelid/896767438
-#EXTINF:-1,MULTI-X 3
-http://88.11.103.116:8000/stream/channelid/2121215141
-#EXTINF:-1,M. DEPORTES 5
-http://88.11.103.116:8000/stream/channelid/1962136865
-#EXTINF:-1,M. LaLiga 5
-http://88.11.103.116:8000/stream/channelid/905902020
-#EXTINF:-1,M. LaLiga 6
-http://88.11.103.116:8000/stream/channelid/883002337
-#EXTINF:-1,M. LaLiga 7
-http://88.11.103.116:8000/stream/channelid/1500068008
-#EXTINF:-1,M. LaLiga 8
-http://88.11.103.116:8000/stream/channelid/1512885021
-#EXTINF:-1,M. LaLiga 9
-http://88.11.103.116:8000/stream/channelid/1861232723
-#EXTINF:-1,M. LaLiga 10
-http://88.11.103.116:8000/stream/channelid/1662400065
-#EXTINF:-1,3
-http://88.11.103.116:8000/stream/channelid/1023529559
-#EXTINF:-1,1
-http://88.11.103.116:8000/stream/channelid/1971342872
-#EXTINF:-1,5
-http://88.11.103.116:8000/stream/channelid/1838308950
-#EXTINF:-1,6
-http://88.11.103.116:8000/stream/channelid/96433976
-#EXTINF:-1,7
-http://88.11.103.116:8000/stream/channelid/879761895
-#EXTINF:-1,8
-http://88.11.103.116:8000/stream/channelid/868250560
-#EXTINF:-1,M. DEPORTES4
-http://88.11.103.116:8000/stream/channelid/1396263110
-#EXTINF:-1,N/A
-http://88.11.103.116:8000/stream/channelid/905985400
-#EXTINF:-1,M. LA LIGA 3
-http://88.11.103.116:8000/stream/channelid/1410111920
-#EXTINF:-1,M. DEPORTES7
-http://88.11.103.116:8000/stream/channelid/480698869
-#EXTINF:-1,#VAMOS BAR1
-http://88.11.103.116:8000/stream/channelid/1116082059
-#EXTINF:-1,TEST F1
-http://88.11.103.116:8000/stream/channelid/1520208405
-#EXTINF:-1,PORTADA
-http://88.11.103.116:8000/stream/channelid/649078654
+http://xfire.one:88/test1/test2/36170
+#EXTINF:-1,Calle 13 HD
+http://xfire.one:88/test1/test2/36172
+#EXTINF:-1,Hollywood HD
+http://xfire.one:88/test1/test2/36153
+#EXTINF:-1,Cosmo HD
+http://xfire.one:88/test1/test2/36177
+#EXTINF:-1,Comedy Central HD
+http://xfire.one:88/test1/test2/36151
+#EXTINF:-1,Paramount Channel
+http://xfire.one:88/test1/test2/36154
+#EXTINF:-1,Sundance
+http://xfire.one:88/test1/test2/36173
+#EXTINF:-1,Blaze
+http://xfire.one:88/test1/test2/36174
+#EXTINF:-1,MTV
+http://xfire.one:88/test1/test2/36175
+#EXTINF:-1,✩✩✩✩ [SP] Moviestar ✩✩✩✩
+http://xfire.one:88/test1/test2/39951
+#EXTINF:-1,#0 HD
+http://xfire.one:88/test1/test2/36179
+#EXTINF:-1,M.Accion HD
+http://xfire.one:88/test1/test2/36183
+#EXTINF:-1,M.Comedia HD
+http://xfire.one:88/test1/test2/36185
+#EXTINF:-1,M.Drama HD
+http://xfire.one:88/test1/test2/36187
+#EXTINF:-1,M.Estrenos HD
+http://xfire.one:88/test1/test2/36181
+#EXTINF:-1,M.Series HD
+http://xfire.one:88/test1/test2/36189
+#EXTINF:-1,M.Seriesmanía HD
+http://xfire.one:88/test1/test2/36191
+#EXTINF:-1,M.CineDoc&Roll HD
+http://xfire.one:88/test1/test2/36193
+#EXTINF:-1,✩✩✩✩ [SP] Moviestar Alquiler ✩✩✩✩
+http://xfire.one:88/test1/test2/39952
+#EXTINF:-1,M.Alquiler 1 HD
+http://xfire.one:88/test1/test2/36194
+#EXTINF:-1,M.Alquiler 2 HD
+http://xfire.one:88/test1/test2/36195
+#EXTINF:-1,M.Alquiler 3 HD
+http://xfire.one:88/test1/test2/36196
+#EXTINF:-1,M.Alquiler 4 HD
+http://xfire.one:88/test1/test2/36197
+#EXTINF:-1,M.Alquiler 5 HD
+http://xfire.one:88/test1/test2/36198
+#EXTINF:-1,M.Alquiler 6 HD
+http://xfire.one:88/test1/test2/36199
+#EXTINF:-1,✩✩✩✩ [SP] Moviestar Taquilla✩✩✩✩
+http://xfire.one:88/test1/test2/39953
+#EXTINF:-1,M.Taquilla 1 HD
+http://xfire.one:88/test1/test2/36200
+#EXTINF:-1,M.Taquilla 2 HD
+http://xfire.one:88/test1/test2/36201
+#EXTINF:-1,M.Taquilla 3 HD
+http://xfire.one:88/test1/test2/36202
+#EXTINF:-1,M.Taquilla 4 HD
+http://xfire.one:88/test1/test2/36203
+#EXTINF:-1,M.Taquilla 5 HD
+http://xfire.one:88/test1/test2/36204
+#EXTINF:-1,M.Taquilla 6 HD
+http://xfire.one:88/test1/test2/36205
+#EXTINF:-1,✩✩✩✩ [SP] Sport ✩✩✩✩
+http://xfire.one:88/test1/test2/39954
+#EXTINF:-1,M.Deporte info
+http://xfire.one:88/test1/test2/36229
+#EXTINF:-1,M.Deportes HD
+http://xfire.one:88/test1/test2/36217
+#EXTINF:-1,M.Liga de Campeones HD
+http://xfire.one:88/test1/test2/36221
+#EXTINF:-1,M.#Vamos HD
+http://xfire.one:88/test1/test2/36207
+#EXTINF:-1,M.LaLiga Bar HD
+http://xfire.one:88/test1/test2/36213
+#EXTINF:-1,M.Fútbol HD
+http://xfire.one:88/test1/test2/36209
+#EXTINF:-1,M.MotoGP HD
+http://xfire.one:88/test1/test2/36211
+#EXTINF:-1,M.Fórmula 1 HD
+http://xfire.one:88/test1/test2/36215
+#EXTINF:-1,M.Golf HD
+http://xfire.one:88/test1/test2/36219
+#EXTINF:-1,Gol Televisión
+http://xfire.one:88/test1/test2/36222
+#EXTINF:-1,Real Madrid TV
+http://xfire.one:88/test1/test2/36223
+#EXTINF:-1,Barca TV
+http://xfire.one:88/test1/test2/36224
+#EXTINF:-1,Teledeporte
+http://xfire.one:88/test1/test2/36225
+#EXTINF:-1,Eurosport 1 HD
+http://xfire.one:88/test1/test2/36227
+#EXTINF:-1,Eurosport 2
+http://xfire.one:88/test1/test2/36228
+#EXTINF:-1,✩✩✩✩ [SP] Cultura ✩✩✩✩
+http://xfire.one:88/test1/test2/39955
+#EXTINF:-1,National Geographic HD
+http://xfire.one:88/test1/test2/36231
+#EXTINF:-1,National Geographic Wild HD
+http://xfire.one:88/test1/test2/36233
+#EXTINF:-1,Discovery Channel
+http://xfire.one:88/test1/test2/36234
+#EXTINF:-1,Crimen + Investigación HD
+http://xfire.one:88/test1/test2/36237
+#EXTINF:-1,Historia
+http://xfire.one:88/test1/test2/36236
+#EXTINF:-1,Viajar HD
+http://xfire.one:88/test1/test2/36235
+#EXTINF:-1,Caza y Pesca HD
+http://xfire.one:88/test1/test2/36238
+#EXTINF:-1,Canal Odisea
+http://xfire.one:88/test1/test2/36239
+#EXTINF:-1,Canal Decasa
+http://xfire.one:88/test1/test2/36240
+#EXTINF:-1,Canal Cocina
+http://xfire.one:88/test1/test2/36241
