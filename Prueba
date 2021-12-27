@@ -1,68 +1,284 @@
-#EXTM3U x-tvg-url="http://localhd.tv:8080/anto2b/AEMkgjuKkh/10330
-#EXTM3U x-tvg-url="http://localhd.tv:8080/anto2b/AEMkgjuKkh/10311
-#EXTM3U x-tvg-url="http://localhd.tv:8080/anto2b/AEMkgjuKkh/10320                     
-#EXTM3U x-tvg-url="http://localhd.tv:8080/anto2b/AEMkgjuKkh/10320
-#EXTINF:-1,|ES| AMC FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/10317
-#EXTINF:-1,|ES| AXN FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/10316
-#EXTINF:-1,|ES| AXN WHITE FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/10315
-#EXTINF:-1,|ES| BEIN LALIGA FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/10313
-#EXTINF:-1,|ES| BEIN SPORTS ESPANAA FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/10314
-#EXTINF:-1,|ES| BEMAD FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/10310
-#EXTINF:-1,|ES| CLAN TV FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/10309
-#EXTINF:-1,|ES| COSMO FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/10308
-#EXTINF:-1,|ES| MOVISTAR ACCION FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/10325
-#EXTINF:-1,|ES| MOVISTAR CINEDOC&ROLL FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/10326
-#EXTINF:-1,|ES| MOVISTAR COMEDIA FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/10324
-#EXTINF:-1,|ES| MOVISTAR SERIESMANIA FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/10323
-#EXTINF:-1,|ES| TCM FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/10312
-#EXTINF:-1,|ES| ANTENA 3 FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/5434
-#EXTINF:-1,|ES| BEIN SPORTS LA LIGA FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/5417
-#EXTINF:-1,|ES| COMEDY CENTRAL FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/5426
-#EXTINF:-1,|ES| CUATRO FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/5433
-#EXTINF:-1,|ES| HOLLYWOOD FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/5424
-#EXTINF:-1,|ES| LA 1 FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/5435
-#EXTINF:-1,|ES| MOVISTAR DCINE FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/5429
-#EXTINF:-1,|ES| MOVISTAR XTRA FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/5428
-#EXTINF:-1,|ES| SYFY FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/5423
-#EXTINF:-1,|ES| TELECINCO FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/5432
-#EXTINF:-1,|ES| NATIONAL GEO FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/10345
-#EXTINF:-1,|ES| TNT FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/5422
-#EXTINF:-1,|ES| MOVISTAR GOLF FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/10900
-#EXTINF:-1,----------- BOUQUET ESPAGNE -----------
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3273
-#EXTINF:-1,|ES|  FDF HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/9542
-#EXTINF:-1,|ES|  LA UNA 1 HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3182
-#EXTINF:-1,|ES|  LA DOS 2 HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3183
-#EXTINF:-1,|ES|  TV3 CATALONIA
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3589
-#EXTINF:-1,|ES|  ANTENA 3 HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3184
+#EXTM3U
+#EXTINF:-1,TR: A Haber HD
+#EXTINF:-1,ES: La 1 HD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4407
+#EXTINF:-1,ES: La 2
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4408
+#EXTINF:-1,ES: 24 Horas HD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4409
+#EXTINF:-1,ES: Clan TV HD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4410
+#EXTINF:-1,ES: Antena 3 HD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4411
+#EXTINF:-1,ES: Cuatro HD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4412
+#EXTINF:-1,ES: La Sexta HD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4413
+#EXTINF:-1,ES: 7RM Radio Televisión Murcia
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4414
+#EXTINF:-1,ES: AMC HD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4415
+#EXTINF:-1,ES: Boing HD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4416
+#EXTINF:-1,ES: Calle 13 HD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4417
+#EXTINF:-1,ES: Canal Extremadura TV
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4418
+#EXTINF:-1,ES: Hollywood
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4419
+#EXTINF:-1,ES: Canal Panda
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4420
+#EXTINF:-1,ES: Clan TVE
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4421
+#EXTINF:-1,ES: Comedy Central HD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4422
+#EXTINF:-1,ES: Crimen Investigacion
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4423
+#EXTINF:-1,ES: Castilla-La Mancha Media
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4424
+#EXTINF:-1,ES: Disney Channel HD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4425
+#EXTINF:-1,ES: Divinity
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4426
+#EXTINF:-1,ES: DMAX
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4427
+#EXTINF:-1,ES: Energy
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4428
+#EXTINF:-1,ES: ETB 1 HD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4429
+#EXTINF:-1,ES: ETB 2 HD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4430
+#EXTINF:-1,ES: FOX
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4431
+#EXTINF:-1,ES: FOX HD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4432
+#EXTINF:-1,ES: FOX FHD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4433
+#EXTINF:-1,ES: FOX Life
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4434
+#EXTINF:-1,ES: FOX Life HD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4435
+#EXTINF:-1,ES: FOX Life FHD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4436
+#EXTINF:-1,ES: ETB SAT
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4437
+#EXTINF:-1,ES: ETB 1 HD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4438
+#EXTINF:-1,ES: ETB 2 HD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4439
+#EXTINF:-1,ES: MEGA HD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4440
+#EXTINF:-1,ES: Movistar Accion
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4441
+#EXTINF:-1,ES: Movistar Accion HD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4442
+#EXTINF:-1,ES: Movistar Accion FHD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4443
+#EXTINF:-1,ES: Movistar Cine
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4444
+#EXTINF:-1,ES: Movistar Cine Español FHD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4445
+#EXTINF:-1,ES: Movistar CineDoc&Roll
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4446
+#EXTINF:-1,ES: Movistar Accion FHD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4447
+#EXTINF:-1,ES: Movistar CineDoc&Roll FHD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4448
+#EXTINF:-1,ES: Movistar Comedia
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4449
+#EXTINF:-1,ES: Movistar Comedia HD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4450
+#EXTINF:-1,ES: Movistar Comedia FHD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4451
+#EXTINF:-1,ES: Movistar Drama FHD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4454
+#EXTINF:-1,ES: Movistar Estrenos
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4455
+#EXTINF:-1,ES: Movistar Estrenos HD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4456
+#EXTINF:-1,ES: Movistar Estrenos FHD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4457
+#EXTINF:-1,ES: Movistar Series
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4458
+#EXTINF:-1,ES: Movistar Series HD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4459
+#EXTINF:-1,ES: Movistar Series hevc
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4460
+#EXTINF:-1,ES: Movistar Seriesmania
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4461
+#EXTINF:-1,ES: Movistar Seriesmania HD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4462
+#EXTINF:-1,ES: Movistar Seriesmania FHD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4463
+#EXTINF:-1,ES: Movistar Disney+
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4464
+#EXTINF:-1,ES: DAZN 1 FHD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4479
+#EXTINF:-1,ES: DAZN 2 FHD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4500
+#EXTINF:-1,ES: DAZN 3 FHD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4503
+#EXTINF:-1,SP: ES: Movistar Golf
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4466
+#EXTINF:-1,SP: ES: Eurosport 1
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4467
+#EXTINF:-1,SP: ES: Eurosport 1 HD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4468
+#EXTINF:-1,SP: ES: Eurosport 2
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4469
+#EXTINF:-1,ES: MTV España
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4470
+#EXTINF:-1,ES: Neox HD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4471
+#EXTINF:-1,ES: Nickelodeon HD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4472
+#EXTINF:-1,ES: Nova
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4473
+#EXTINF:-1,ES: Odisea HD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4474
+#EXTINF:-1,ES: SyFy HD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4475
+#EXTINF:-1,ES: Telecinco HD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4476
+#EXTINF:-1,ES: Teledeporte FHD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4477
+#EXTINF:-1,ES: Telemadrid HD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4478
+#EXTINF:-1,ES: Ten
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4480
+#EXTINF:-1,ES: TVE
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4481
+#EXTINF:-1,ES: Viajar HD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4482
+#EXTINF:-1,ES: Blaze
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4483
+#EXTINF:-1,ES: Discovery Channel
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4484
+#EXTINF:-1,ES: Discovery Channel HD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4485
+#EXTINF:-1,ES: Historia HD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4486
+#EXTINF:-1,ES: Nat Geo Wild
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4487
+#EXTINF:-1,ES: Nat Geo Wild HD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4488
+#EXTINF:-1,ES: National Geographic
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4489
+#EXTINF:-1,ES: National Geographic HD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4490
+#EXTINF:-1,ES: SyFy HD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4491
+#EXTINF:-1,ES: TNT HD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4492
+#EXTINF:-1,ES: Disney Junior
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4493
+#EXTINF:-1,ES: Nick Jr
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4494
+#EXTINF:-1,ES: Nickelodeon
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4495
+#EXTINF:-1,ES: Canal Panda
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4496
+#EXTINF:-1,ES: Baby TV
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4497
+#EXTINF:-1,ES: Interalmeria FHD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4498
+#EXTINF:-1,ES: PTV Cordoba HD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4499
+#EXTINF:-1,ES: Canal Malaga
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4501
+#EXTINF:-1,ES: Aragon TV
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4502
+#EXTINF:-1,ES: Canal 25 Barbastro TV
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4504
+#EXTINF:-1,ES: EL Pinguino TV HD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4505
+#EXTINF:-1,ES: Popular TV
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4506
+#EXTINF:-1,SP: Sky Sports Liga Española HD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4507
+#EXTINF:-1,SP: BEIN Sports N
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4508
+#EXTINF:-1,SP: Fox Sports 2 Sur HD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4510
+#EXTINF:-1,ES : Claro Sports HD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4511
+#EXTINF:-1,SP: MX: Fox Sports 1 HD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4512
+#EXTINF:-1,SP:  Fox Sports 2
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4513
+#EXTINF:-1,SP: MX: Fox Sports 3
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4514
+#EXTINF:-1,SP: Espn 1 Sur
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4515
+#EXTINF:-1,SP: Espn 2 Sur
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4516
+#EXTINF:-1,SP: Espn 3 Sur
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/4517
+#EXTINF:-1,ES: CANAL SUR 1 HD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/15204
+#EXTINF:-1,ES: Movistar Estrenos FHD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/15205
+#EXTINF:-1,ES: MOVISTAR DEPORTES 1 HD+
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/15206
+#EXTINF:-1,ES: Taquilla 1
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/15208
+#EXTINF:-1,ES: Taquilla 2
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/15209
+#EXTINF:-1,ES: Taquilla 3
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/15210
+#EXTINF:-1,ES: Taquilla 4
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/15211
+#EXTINF:-1,ES: A&E
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/15212
+#EXTINF:-1,ES: ANTENA 3 Series FHD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/15213
+#EXTINF:-1,ES: AXN
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/15214
+#EXTINF:-1,ES: AXN White
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/15215
+#EXTINF:-1,ES: BARCA TV
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/15216
+#EXTINF:-1,ES: COSMO
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/15217
+#EXTINF:-1,ES: Fox
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/15219
+#EXTINF:-1,ES: La Liga BAR
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/15220
+#EXTINF:-1,ES: MOVISTAR TOROS
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/15221
+#EXTINF:-1,ES: MOVISTAR Vamos HD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/15222
+#EXTINF:-1,ES: MOVISTAR DEPORTE 1
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/15223
+#EXTINF:-1,ES: MOVISTAR DEPORTE 2
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/15224
+#EXTINF:-1,ES: Movistar Liga Campeones FHD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/15225
+#EXTINF:-1,ES: REAL MADRID TV HD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/15226
+#EXTINF:-1,ES: Sundance
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/15227
+#EXTINF:-1,ES: TCM
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/15228
+#EXTINF:-1,ES: TV3 FHD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/15229
+#EXTINF:-1,ES: TVE INTERNACIONAL
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/15230
+#EXTINF:-1,ES: MEZZO LIVE FHD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/15255
+#EXTINF:-1,ES: MOVISTAR LaLiga 1 FHD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/15256
+#EXTINF:-1,ES: MOVISTAR F1 FHD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/15257
+#EXTINF:-1,CL: TVN HD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/17923
+#EXTINF:-1,CL: TV Chile HD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/17924
+#EXTINF:-1,CL: Canal 13 HD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/17925
+#EXTINF:-1,CL: Chilevision HD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/17926
+#EXTINF:-1,CL: Mega HD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/17927
+#EXTINF:-1,ES : FOX Life FHD
+http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/17928
