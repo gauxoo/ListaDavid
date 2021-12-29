@@ -282,3 +282,23 @@ http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/17926
 http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/17927
 #EXTINF:-1,ES : FOX Life FHD
 http://cmsupro.com:8080/Tomasarana/Y3GSzRhkHJDzByJq/17928
+#EXTINF:-1,RTVC
+https://rtvc-live1-rm.flumotion.com/playlist.m3u8
+#EXTINF:-1,MIRAME
+https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
+#EXTINF:-1,CANAL 4 TENERIFE
+https://5940924978228.streamlock.net/Directo3/Directo3/playlist.m3u8
+#EXTINF:-1,BIOESFERA
+https://tvdatta.com:3785/live/biosferatvlive.m3u8
+#EXTINF:-1,MORTEVISION
+http://amaru.dyndns.org:8870/0.m3u8
+#EXTINF:-1,EL TORO
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+#EXTINF:-1,MOGAN
+https://cloudvideo.servers10.com:8081/8028/index.m3u8
+#EXTINF:-1,LANCELOT
+https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8
+#EXTINF:-1,NOROESTE
+https://cloudvideo.servers10.com:8081/8032/index.m3u8
+
+
