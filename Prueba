@@ -1,5 +1,4 @@
-#EXTM3U#
-#EXTINF:-1,RTVC
+#EXTM3U#EXTINF:-1,RTVC
 https://rtvc-live1-rm.flumotion.com/playlist.m3u8
 #EXTINF:-1,MIRAME
 https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
