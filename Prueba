@@ -1,5 +1,10 @@
 #EXTM3U
-#EXTINF:-1,|FR|
+#EXTINF:-1,### 24H  ###
+http://0mas0.com:16004/Jesusrey/Manu-xivo/4
+#EXTINF:-1,LA 1
+http://0mas0.com:16004/Jesusrey/Manu-xivo/5
+#EXTINF:-1,LA 1 HD
+http://0mas0.com:16004/Jesusrey/Manu-xivo/42593
 #EXTINF:-1,CANAL 4 TENERIFE
 https://5940924978228.streamlock.net/Directo3/Directo3/playlist.m3u8
 #EXTINF:-1,BIOESFERA
@@ -299,5 +304,15 @@ http://localhd.tv:8080/anto2b/AEMkgjuKkh/10279
 #EXTINF:-1,|ES| MOVISTAR ALQUILER 9 HD
 http://localhd.tv:8080/anto2b/AEMkgjuKkh/10280
 #EXTINF:-1,MIRAME_1
-https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
+https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8#EXTINF:-1,Carnaval (2021)
+http://0mas0.com:16004/movie/Jesusrey/Manu-xivo/44351.mp4
+#EXTINF:-1,Cazador contra cazador (2020)
+http://0mas0.com:16004/movie/Jesusrey/Manu-xivo/44352.mp4
+#EXTINF:-1,Cena en América (2020)
+http://0mas0.com:16004/movie/Jesusrey/Manu-xivo/44353.mkv
+#EXTINF:-1,Cenicienta (2021)
+http://0mas0.com:16004/movie/Jesusrey/Manu-xivo/44354.mp4
+#EXTINF:-1,Chaos Walking (2021)
+http://0mas0.com:16004/movie/Jesusrey/Manu-xivo/44355.mp4
+
 
