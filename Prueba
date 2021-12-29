@@ -1,5 +1,4 @@
-#EXTM3U#EXTINF:-1,RTVC
-https://rtvc-live1-rm.flumotion.com/playlist.m3u8
+#EXTM3U#EXTINF:-1
 #EXTINF:-1,MIRAME
 https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
 #EXTINF:-1,CANAL 4 TENERIFE
@@ -74,8 +73,6 @@ http://localhd.tv:8080/anto2b/AEMkgjuKkh/10345
 http://localhd.tv:8080/anto2b/AEMkgjuKkh/5422
 #EXTINF:-1,|ES| MOVISTAR GOLF FHD
 http://localhd.tv:8080/anto2b/AEMkgjuKkh/10900
-#EXTINF:-1,----------- BOUQUET ESPAGNE -----------
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3273
 #EXTINF:-1,|ES|  FDF HD
 http://localhd.tv:8080/anto2b/AEMkgjuKkh/9542
 #EXTINF:-1,|ES|  LA UNA 1 HD
@@ -104,8 +101,6 @@ http://localhd.tv:8080/anto2b/AEMkgjuKkh/3976
 http://localhd.tv:8080/anto2b/AEMkgjuKkh/3974
 #EXTINF:-1,|ES|  TV GALICIA
 http://localhd.tv:8080/anto2b/AEMkgjuKkh/3139
-#EXTINF:-1,======== CINE ========
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3630
 #EXTINF:-1,|ES|  PARAMOUNT CHANNEL
 http://localhd.tv:8080/anto2b/AEMkgjuKkh/4040
 #EXTINF:-1,|ES|  MOVISTAR ACCION HD
@@ -122,8 +117,6 @@ http://localhd.tv:8080/anto2b/AEMkgjuKkh/3268
 http://localhd.tv:8080/anto2b/AEMkgjuKkh/3153
 #EXTINF:-1,|ES|  TNT HD
 http://localhd.tv:8080/anto2b/AEMkgjuKkh/3140
-#EXTINF:-1,======== ENTRETENIMIENTO ========
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3634
 #EXTINF:-1,|ES| ENERGY HD
 http://localhd.tv:8080/anto2b/AEMkgjuKkh/3972
 #EXTINF:-1,|ES| NOVA HD
@@ -166,8 +159,6 @@ http://localhd.tv:8080/anto2b/AEMkgjuKkh/3236
 http://localhd.tv:8080/anto2b/AEMkgjuKkh/3186
 #EXTINF:-1,|ES| CANAL+ TOROS
 http://localhd.tv:8080/anto2b/AEMkgjuKkh/3189
-#EXTINF:-1,======== DEPORTES ========
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3631
 #EXTINF:-1,|ES| CANAL  GOL
 http://localhd.tv:8080/anto2b/AEMkgjuKkh/3928
 #EXTINF:-1,|ES| LIGA 123 HD
@@ -212,8 +203,6 @@ http://localhd.tv:8080/anto2b/AEMkgjuKkh/3221
 http://localhd.tv:8080/anto2b/AEMkgjuKkh/3622
 #EXTINF:-1,|ES| CANAL 26 HD
 http://localhd.tv:8080/anto2b/AEMkgjuKkh/3585
-#EXTINF:-1,----------- CULTURA Y DECOUVERT -----------
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3965
 #EXTINF:-1,|ES| DMAX HD
 http://localhd.tv:8080/anto2b/AEMkgjuKkh/10285
 #EXTINF:-1,|ES| VIAJAR HD
@@ -244,8 +233,6 @@ http://localhd.tv:8080/anto2b/AEMkgjuKkh/3587
 http://localhd.tv:8080/anto2b/AEMkgjuKkh/3929
 #EXTINF:-1,|ES| TRECE HD
 http://localhd.tv:8080/anto2b/AEMkgjuKkh/3588
-#EXTINF:-1,======== NINOS ========
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3640
 #EXTINF:-1,|ES| BABY TV
 http://localhd.tv:8080/anto2b/AEMkgjuKkh/4330
 #EXTINF:-1,|ES| TVE CLAN
@@ -268,16 +255,12 @@ http://localhd.tv:8080/anto2b/AEMkgjuKkh/3933
 http://localhd.tv:8080/anto2b/AEMkgjuKkh/4043
 #EXTINF:-1,|ES| BOING HD
 http://localhd.tv:8080/anto2b/AEMkgjuKkh/3246
-#EXTINF:-1,========  Musica ========
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3648
 #EXTINF:-1,|ES| MEZZO LIVE HD
 http://localhd.tv:8080/anto2b/AEMkgjuKkh/9581
 #EXTINF:-1,|ES| MTV ESPANA
 http://localhd.tv:8080/anto2b/AEMkgjuKkh/3642
 #EXTINF:-1,|ES| DIVINITY HD
 http://localhd.tv:8080/anto2b/AEMkgjuKkh/4039
-#EXTINF:-1,========Taquilla ========
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3819
 #EXTINF:-1,|ES| TAQUILLA 1
 http://localhd.tv:8080/anto2b/AEMkgjuKkh/3643
 #EXTINF:-1,|ES| TAQUILLA 2
