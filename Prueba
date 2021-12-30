@@ -1,10 +1,470 @@
 #EXTM3U
-#EXTINF:-1,### 24H  ###
-http://0mas0.com:16004/Jesusrey/Manu-xivo/4
-#EXTINF:-1,LA 1
-http://0mas0.com:16004/Jesusrey/Manu-xivo/5
-#EXTINF:-1,LA 1 HD
-http://0mas0.com:16004/Jesusrey/Manu-xivo/42593
+#EXTINF:-1,|FR|
+#EXTINF:-1,|ES|LA 1 HD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17622
+#EXTINF:-1,|ES|LA 2
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17620
+#EXTINF:-1,|ES|ANTENA 3 HD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17617
+#EXTINF:-1,|ES|CUATRO HD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17614
+#EXTINF:-1,|ES|TELECINCO HD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17611
+#EXTINF:-1,|ES|LA SEXTA HD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17608
+#EXTINF:-1,|ES|24 Horas FHD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17605
+#EXTINF:-1,|ES|HOLLYWOOD HD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17602
+#EXTINF:-1,|ES|TCM FHD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17600
+#EXTINF:-1,|ES|MOVISTAR SERIES HD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17599
+#EXTINF:-1,|ES|MOVISTAR SERIESMANIA HD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17597
+#EXTINF:-1,|ES|CALLE 13 FULLHD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17594
+#EXTINF:-1,|ES|FOX FULLHD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17592
+#EXTINF:-1,|ES|FOX LIFE FULLHD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17590
+#EXTINF:-1,|ES|AXN FULL HD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17588
+#EXTINF:-1,|ES|AXN WHITE FHD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17586
+#EXTINF:-1,|ES|AMC FHD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17584
+#EXTINF:-1,|ES|TNT HD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17582
+#EXTINF:-1,|ES|SYFY HD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17580
+#EXTINF:-1,|ES|COSMOPOLITAN  FULLHD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17578
+#EXTINF:-1,|ES|COMEDY CENTRAL FULLHD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17577
+#EXTINF:-1,|ES|SYFY
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17576
+#EXTINF:-1,|ES|COSMOS
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17574
+#EXTINF:-1,|ES|PARAMOUNT CHANNEL
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17573
+#EXTINF:-1,|ES|TCM
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17572
+#EXTINF:-1,|ES|XTREM
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17571
+#EXTINF:-1,|ES|DIVINITY
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17570
+#EXTINF:-1,|ES|A3SERIES HD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17569
+#EXTINF:-1,|ES|NEOX
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17568
+#EXTINF:-1,|ES|NOVA
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17567
+#EXTINF:-1,|ES|TRECE
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17566
+#EXTINF:-1,|ES|FDF
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17565
+#EXTINF:-1,|ES|ENERGY
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17564
+#EXTINF:-1,|ES|MEGA
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17563
+#EXTINF:-1,|ES|DARK FHD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17562
+#EXTINF:-1,|ES|XTREM FULLHD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17561
+#EXTINF:-1,|ES|SOMOS FHD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17560
+#EXTINF:-1,|ES|MTV
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17559
+#EXTINF:-1,|ES|SOL Music
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17558
+#EXTINF:-1,|ES|SUNDANCE
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17557
+#EXTINF:-1,|ES|SUNDANCE HD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17556
+#EXTINF:-1,|ES|SUNDANCE Fullhd
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17555
+#EXTINF:-1,|ES|MOVISTAR CERO HD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17553
+#EXTINF:-1,|ES|MOVISTAR ESTRENOS HD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17551
+#EXTINF:-1,|ES|MOVISTAR ACCION HD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17549
+#EXTINF:-1,|ES|MOVISTAR COMEDIA HD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17547
+#EXTINF:-1,|ES|MOVISTAR DRAMA HD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/175454
+#EXTINF:-1,|ES|MOVISTAR CINEDOC&amp;ROLL HD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17543
+#EXTINF:-1,|ES|MOVISTAR CERO
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17541
+#EXTINF:-1,|ES|MOVISTAR ESTRENOS
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17540
+#EXTINF:-1,|ES|MOVISTAR COMEDIA
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17539
+#EXTINF:-1,|ES|MOVISTAR  ACCION
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17538
+#EXTINF:-1,|ES|MOVISTAR DRAMA
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17537
+#EXTINF:-1,|ES|MOVISTAR DCINE Ñ
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17536
+#EXTINF:-1,|ES|MOVISTAR CINEDOC&amp;ROLL
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17535
+#EXTINF:-1,|ES|MOVISTAR SERIES
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17534
+#EXTINF:-1,|ES|MOVISTAR SERIESMANIA
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17533
+#EXTINF:-1,|ES|MOVISTAR  TOROS
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17532
+#EXTINF:-1,|ES|MOVISTAR #VAMOS
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17531
+#EXTINF:-1,|ES|BARCA TV
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17530
+#EXTINF:-1,|ES|DECASA FULLHD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17513
+#EXTINF:-1,|ES|CANAL COCINA FULLHD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17512
+#EXTINF:-1,|ES|BE MAD HD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17511
+#EXTINF:-1,|ES|ODISEA FHD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17509
+#EXTINF:-1,|ES|BLAZE FHD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17508
+#EXTINF:-1,|ES|HISTORIA FULLHD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17507
+#EXTINF:-1,|ES|DISCOVERY CHANNEL
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17506
+#EXTINF:-1,|ES|NAT GEO FHD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17505
+#EXTINF:-1,|ES|NATIONAL GEOGRAFIC WILD HD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17504
+#EXTINF:-1,|ES|NATIONAL GEOGRAFIC WILD FHD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17503
+#EXTINF:-1,|ES|VIAJAR FULLHD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17502
+#EXTINF:-1,|ES|CAZA Y PESCA FULLHD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17501
+#EXTINF:-1,|ES|Viajar
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17500
+#EXTINF:-1,|ES|CAZA  Y PESCA
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17499
+#EXTINF:-1,|ES|IBERALIA TV
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17498
+#EXTINF:-1,|ES|DISCOVERY  CHANNEL
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17497
+#EXTINF:-1,|ES|ODISEA
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17496
+#EXTINF:-1,|ES|CANAL COCINA
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17495
+#EXTINF:-1,|ES|DECASA
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17494
+#EXTINF:-1,|ES|BE MAD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17493
+#EXTINF:-1,|ES|TEN
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17492
+#EXTINF:-1,|ES|DMAX
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17491
+#EXTINF:-1,|ES|BLAZE
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17490
+#EXTINF:-1,|ES|NATIONAL GEOGRAPHIC
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17489
+#EXTINF:-1,|ES|NATIONAL GEOGRAFIC WILD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17488
+#EXTINF:-1,|ES|CRIMEN  + INVESTIGACION
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17487
+#EXTINF:-1,|ES|HISTORIA
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17486
+#EXTINF:-1,|ES|Mola TV
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17484
+#EXTINF:-1,|ES|Disney+
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17483
+#EXTINF:-1,|ES|Super3/33
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17482
+#EXTINF:-1,|ES|DKISS
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17481
+#EXTINF:-1,|ES|VH1
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17480
+#EXTINF:-1,|ES|BETIS TV
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17479
+#EXTINF:-1,|ES|SEVILLA TV
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17478
+#EXTINF:-1,|ES|24/7 Star Wars: La Resistencia
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17477
+#EXTINF:-1,|ES|24/7 Star Wars Rebels
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17476
+#EXTINF:-1,|ES|24/7 Crónicas vampíricas
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17474
+#EXTINF:-1,|ES|24/7 The Expanse
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17473
+#EXTINF:-1,|ES|TAQUILLA 8 ROMANCE
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17469
+#EXTINF:-1,|ES|TAQUILLA ESTNO
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17468
+#EXTINF:-1,|ES|24/7 Futurama
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17467
+#EXTINF:-1,|ES|24/7 Élite
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17466
+#EXTINF:-1,|ES|24/7 Los Soprano
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17465
+#EXTINF:-1,|ES|24/7 Juego de Tronos
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17464
+#EXTINF:-1,|ES|24/7 Zoo
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17463
+#EXTINF:-1,|ES|TAQUILLA 1 ACCION
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17462
+#EXTINF:-1,|ES|TAQUILLA 2 ANIMACION
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17461
+#EXTINF:-1,|ES|TAQUILLA 4 CRIMEN
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17460
+#EXTINF:-1,|ES|TAQUILLA 5 TERROR
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17459
+#EXTINF:-1,|ES|TAQUILLA 6 DRAMA
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17458
+#EXTINF:-1,|ES|TAQUILLA 7 COMEDIA
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17457
+#EXTINF:-1,|ES|TAQUILLA 9 FAMILIA
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17456
+#EXTINF:-1,|ES|TAQUILLA STAR WARS
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17455
+#EXTINF:-1,|ES|TAQUILLA HARRY POTTER
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17454
+#EXTINF:-1,|ES|TAQUILLA X-MEN
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17453
+#EXTINF:-1,|ES|TRIOLOGIA SEÑOR DE LOS ANILLOS
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17452
+#EXTINF:-1,|ES|24/7 24
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17451
+#EXTINF:-1,|ES|24/7 Aída
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17450
+#EXTINF:-1,|ES|24/7 Castle
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17449
+#EXTINF:-1,|ES|24/7 Dragon Ball Super
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17448
+#EXTINF:-1,|ES|24/7 Dragon Ball Z
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17447
+#EXTINF:-1,|ES|24/7 Dragon Ball GT
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17446
+#EXTINF:-1,|ES|24/7 Los Caballeros del Zodiaco
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17445
+#EXTINF:-1,|ES|24/7 Los Simpson
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17444
+#EXTINF:-1,|ES|24/7 Madres
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17443
+#EXTINF:-1,|ES|24/7 The Mandalorian
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17442
+#EXTINF:-1,|ES|24/7 Star Wars: The Clone Wars
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17441
+#EXTINF:-1,|ES|24/7 The Purge
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17440
+#EXTINF:-1,|ES|24/7 Mazinger Z
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17439
+#EXTINF:-1,|ES|24/7 Vis a vis
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17438
+#EXTINF:-1,|ES|TAQUILLA PLANETA DE LOS SIMIOS
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17437
+#EXTINF:-1,|ES|TAQUILLA Agente 007
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17436
+#EXTINF:-1,|ES|TAQUILLA SAW
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17435
+#EXTINF:-1,|ES|TAQUILLA 3 CIENCIA FICCION
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17434
+#EXTINF:-1,|ES|HIT TV
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17433
+#EXTINF:-1,|ES|INTERECONOMIA
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17432
+#EXTINF:-1,|ES|LA OTRA
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17431
+#EXTINF:-1,|ES|Teleonuba
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17430
+#EXTINF:-1,|ES|ARAGON TV
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17429
+#EXTINF:-1,|ES|ESPORT 3
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17428
+#EXTINF:-1,|ES|ETB 1
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17427
+#EXTINF:-1,|ES|TV3
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17426
+#EXTINF:-1,|ES|3/24
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17425
+#EXTINF:-1,|ES|324 Exclusiu
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17424
+#EXTINF:-1,|ES|Lebrija TV
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17423
+#EXTINF:-1,|ES|8Tv
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17422
+#EXTINF:-1,|ES|7RM FULLHD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17421
+#EXTINF:-1,|ES|EXTREMADURA TV
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17420
+#EXTINF:-1,|ES|DAZN 1 FHD ES
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17418
+#EXTINF:-1,|ES|DAZAN HD 1 ESP
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17417
+#EXTINF:-1,|ES|DAZN 2 FHD ES
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17416
+#EXTINF:-1,|ES|MOVISTAR VAMOS HD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17415
+#EXTINF:-1,|ES|MOVISTAR VAMOS FHD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17414
+#EXTINF:-1,|ES|LIGATV BAR FHD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17413
+#EXTINF:-1,|ES|Liga 4k
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17412
+#EXTINF:-1,|ES|MOVISTAR LIGA 2K
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17411
+#EXTINF:-1,|ES|MOVISTAR LALIGA HD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17410
+#EXTINF:-1,|ES|MOVISTAR LA LIGA FULLHD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17409
+#EXTINF:-1,|ES|MOVISTAR LIGA FHD OPCION 2 DEC 1
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17408
+#EXTINF:-1,|ES|MOVISTAR LIGA FHD OPCION 3
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17407
+#EXTINF:-1,|ES|MOVISTAR LA LIGA 1 FULLHD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17406
+#EXTINF:-1,|ES|MOVISTAR LIGA 1 HD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17405
+#EXTINF:-1,|ES|MOVISTAR LA LIGA 2 FHD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17404
+#EXTINF:-1,|ES|MOVISTAR LA LIGA 3 FULLHD ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17403
+#EXTINF:-1,|ES|MOVISTAR LIGA CAMPEONES HD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17402
+#EXTINF:-1,|ES|MOVISTAR LIGA CAMPEONES FHD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17401
+#EXTINF:-1,|ES|MOVISTAR LIGA CAMPEONES 1 FULLHD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17400
+#EXTINF:-1,|ES|MOVISTAR LIGA CAMPEONES 2 FULLHD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17399
+#EXTINF:-1,|ES|MOVISTAR DEPORTE HD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17398
+#EXTINF:-1,|ES|MOVISTAR DEPORTE FULLHD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17397
+#EXTINF:-1,|ES|MOVISTAR DEPORTE 1 FULLHD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17396
+#EXTINF:-1,|ES|MOVISTAR DEPORTE 6
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17395
+#EXTINF:-1,|ES|MOVISTAR DEPORTE 7 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17394
+#EXTINF:-1,|ES|EUROSPORT HD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17393
+#EXTINF:-1,|ES|EUROSPORT FULL HD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17392
+#EXTINF:-1,|ES|MOVISTAR F1 HD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17391
+#EXTINF:-1,|ES|MOVISTAR F1 FULLHD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17390
+#EXTINF:-1,|ES|MOVISTAR GOLF HD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17389
+#EXTINF:-1,|ES|MOVISTAR GOLF FHD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17388
+#EXTINF:-1,|ES|BARCA TV FHD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17387
+#EXTINF:-1,|ES|REAL MADRID FHD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17386
+#EXTINF:-1,|ES|GOL TV FULLHD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17385
+#EXTINF:-1,|ES|TELEDEPORTE FULL HD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17384
+#EXTINF:-1,|ES|MOVISTAR TOROS HD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17383
+#EXTINF:-1,|ES|MOVISTAR TOROS FULLHD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17382
+#EXTINF:-1,|ES|MEZZO LIVE
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17381
+#EXTINF:-1,|ES|MEZZO LIVE FULL HD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17380
+#EXTINF:-1,|ES|CANAL SUR
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17379
+#EXTINF:-1,|ES|CANAL SUR FHD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17378
+#EXTINF:-1,|ES|CMM FULLHD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17377
+#EXTINF:-1,|ES|TELEMADRID FHD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17376
+#EXTINF:-1,|ES|FOX NEWS
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17375
+#EXTINF:-1,|ES|CLASSICA
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17374
+#EXTINF:-1,|ES|TV 3 CAMERES
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17373
+#EXTINF:-1,|ES|TV3 FHD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17372
+#EXTINF:-1,|ES|FIBRACAT
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17371
+#EXTINF:-1,|ES|ETB 2
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17370
+#EXTINF:-1,|ES|BLAZE FULLHD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17369
+#EXTINF:-1,|ES|TV Galicia
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17368
+#EXTINF:-1,|ES|InterAlmeria TV
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17367
+#EXTINF:-1,|ES|PTV Malaga
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17366
+#EXTINF:-1,|ES|CONDAVISION
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17365
+#EXTINF:-1,|ES|EUROSPORT 2
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17364
+#EXTINF:-1,|ES|EurosSport 2 FHD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17363
+#EXTINF:-1,|ES|DAZN SD 2 ESP
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17362
+#EXTINF:-1,|ES|MOVISTAR LA LIGA
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17361
+#EXTINF:-1,|ES|MOVISTAR LIGA SD
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17360
+#EXTINF:-1,|ES|MOVISTAR LA LIGA 1
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17359
+#EXTINF:-1,|ES|MOVISTAR  LA LIGA 2
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17358
+#EXTINF:-1,|ES|MOVISTAR  LA LIGA 3
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17357
+#EXTINF:-1,|ES|MOVISTAR LA LIGA 4
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17356
+#EXTINF:-1,|ES|MOVISTAR LA LIGA 5 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17355
+#EXTINF:-1,|ES|MOVISTAR LALIGA 6 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17354
+#EXTINF:-1,|ES|MOVISTAR LA LIGA 7  ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17353
+#EXTINF:-1,|ES|MOVISTAR LA LIGA 8 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17352
+#EXTINF:-1,|ES|MOVISTAR LA LIGA 9 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17351
+#EXTINF:-1,|ES|MOVISTAR LA LIGA 10 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17350
+#EXTINF:-1,|ES|MOVISTAR LIGA CAMPEONES
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17349
+#EXTINF:-1,|ES|MOVISTAR LIGA CAMPEONES 1
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17348
+#EXTINF:-1,|ES|MOVISTAR LIGA DE CAMPEONES 2  ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17347
+#EXTINF:-1,|ES|MOVISTAR LIGA CAMPEONES 3   ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17346
+#EXTINF:-1,|ES|MOVISTAR LIGA DE CAMPEONES 4  ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17345
+#EXTINF:-1,|ES|MOVISTAR LIGA CAMPEONES 5 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17344
+#EXTINF:-1,|ES|MOVISTAR LIGA CAMPEONES 6  ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17343
+#EXTINF:-1,|ES|MOVISTAR LIGA CAMPEONES 7 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17342
+#EXTINF:-1,|ES|MOVISTAR LIGA CAMPEONES 8 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17341
+#EXTINF:-1,|ES|MOVISTAR DEPORTE
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17340
+#EXTINF:-1,|ES|MOVISTAR DEPORTE 1
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17339
+#EXTINF:-1,|ES|MOVISTAR DEPORTE 2  ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17338
+#EXTINF:-1,|ES|MOVISTAR DEPORTE 3  ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17337
+#EXTINF:-1,|ES|MOVISTAR DEPORTE 4 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17336
+#EXTINF:-1,|ES|MOVISTAR DEPORTE 5 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://nocables.net:8080/jvg2501qi/u07ehrgpdi/17335
+
 #EXTINF:-1,CANAL 4 TENERIFE
 https://5940924978228.streamlock.net/Directo3/Directo3/playlist.m3u8
 #EXTINF:-1,BIOESFERA
@@ -19,300 +479,3 @@ https://cloudvideo.servers10.com:8081/8028/index.m3u8
 https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8
 #EXTINF:-1,NOROESTE
 https://cloudvideo.servers10.com:8081/8032/index.m3u8
-#EXTINF:-1,|ES| #0 FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/10330
-#EXTINF:-1,|ES| 7RM FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/10311
-#EXTINF:-1,|ES| A3 SERIES FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/10320
-#EXTINF:-1,|ES| AMC FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/10317
-#EXTINF:-1,|ES| AXN FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/10316
-#EXTINF:-1,|ES| AXN WHITE FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/10315
-#EXTINF:-1,|ES| BEIN LALIGA FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/10313
-#EXTINF:-1,|ES| BEIN SPORTS ESPANAA FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/10314
-#EXTINF:-1,|ES| BEMAD FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/10310
-#EXTINF:-1,|ES| CLAN TV FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/10309
-#EXTINF:-1,|ES| COSMO FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/10308
-#EXTINF:-1,|ES| MOVISTAR ACCION FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/10325
-#EXTINF:-1,|ES| MOVISTAR CINEDOC&ROLL FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/10326
-#EXTINF:-1,|ES| MOVISTAR COMEDIA FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/10324
-#EXTINF:-1,|ES| MOVISTAR SERIESMANIA FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/10323
-#EXTINF:-1,|ES| TCM FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/10312
-#EXTINF:-1,|ES| ANTENA 3 FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/5434
-#EXTINF:-1,|ES| BEIN SPORTS LA LIGA FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/5417
-#EXTINF:-1,|ES| COMEDY CENTRAL FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/5426
-#EXTINF:-1,|ES| CUATRO FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/5433
-#EXTINF:-1,|ES| HOLLYWOOD FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/5424
-#EXTINF:-1,|ES| LA 1 FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/5435
-#EXTINF:-1,|ES| MOVISTAR DCINE FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/5429
-#EXTINF:-1,|ES| MOVISTAR XTRA FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/5428
-#EXTINF:-1,|ES| SYFY FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/5423
-#EXTINF:-1,|ES| TELECINCO FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/5432
-#EXTINF:-1,|ES| NATIONAL GEO FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/10345
-#EXTINF:-1,|ES| TNT FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/5422
-#EXTINF:-1,|ES| MOVISTAR GOLF FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/10900
-#EXTINF:-1,|ES|  FDF HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/9542
-#EXTINF:-1,|ES|  LA UNA 1 HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3182
-#EXTINF:-1,|ES|  LA DOS 2 HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3183
-#EXTINF:-1,|ES|  TV3 CATALONIA
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3589
-#EXTINF:-1,|ES|  ANTENA 3 HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3184
-#EXTINF:-1,|ES|  CUATRO HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3277
-#EXTINF:-1,|ES|  TELECINCO
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3141
-#EXTINF:-1,|ES|  LA SEXTA HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3185
-#EXTINF:-1,|ES|  TCM HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3253
-#EXTINF:-1,|ES|  CANAL 24 HORAS
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3242
-#EXTINF:-1,|ES|  CANAL ORBE21
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3187
-#EXTINF:-1,|ES|  TELEDEPORTE
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3976
-#EXTINF:-1,|ES|  ANDALUCIA TV
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3974
-#EXTINF:-1,|ES|  TV GALICIA
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3139
-#EXTINF:-1,|ES|  PARAMOUNT CHANNEL
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/4040
-#EXTINF:-1,|ES|  MOVISTAR ACCION HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3198
-#EXTINF:-1,|ES|  MOVISTAR COMEDIA HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3152
-#EXTINF:-1,|ES|  MOVISTAR DCINE HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3151
-#EXTINF:-1,|ES|  MOVISTAR ESTRENOS FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3190
-#EXTINF:-1,|ES|  HOLLYWOOD HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3268
-#EXTINF:-1,|ES|  MOVISTAR XTRA
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3153
-#EXTINF:-1,|ES|  TNT HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3140
-#EXTINF:-1,|ES| ENERGY HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3972
-#EXTINF:-1,|ES| NOVA HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3975
-#EXTINF:-1,|ES| NEOX TV
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3927
-#EXTINF:-1,|ES| AMC HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3679
-#EXTINF:-1,|ES| FOX HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3194
-#EXTINF:-1,|ES| FOX LIFE HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3195
-#EXTINF:-1,|ES| MOVISTAR CINE N
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/10271
-#EXTINF:-1,|ES| MOVISTAR CINEDOC&ROLL HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/10286
-#EXTINF:-1,|ES| MOVISTAR SERIES HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3149
-#EXTINF:-1,|ES| MOVISTAR SERIESMANIA
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3148
-#EXTINF:-1,|ES| MOVISTAR DRAMA FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/9539
-#EXTINF:-1,|ES| MOVISTAR DRAMA HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/9540
-#EXTINF:-1,|ES| MOVISTAR SERIESMANIA HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/9541
-#EXTINF:-1,|ES| AXN HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3259
-#EXTINF:-1,|ES| AXN WHITE HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3260
-#EXTINF:-1,|ES| SYFY HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3267
-#EXTINF:-1,|ES| CALLE 13 HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3197
-#EXTINF:-1,|ES| COMEDY CENTRAL
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3196
-#EXTINF:-1,|ES| COSMO
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3236
-#EXTINF:-1,|ES| CANAL+ COCINA
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3186
-#EXTINF:-1,|ES| CANAL+ TOROS
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3189
-#EXTINF:-1,|ES| CANAL  GOL
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3928
-#EXTINF:-1,|ES| LIGA 123 HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/4044
-#EXTINF:-1,|ES| LA LIGA 1
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3191
-#EXTINF:-1,|ES| MOVISTAR DEPORTES 1
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3155
-#EXTINF:-1,|ES| MOVISTAR LIGA CAMPEONES HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/10284
-#EXTINF:-1,|ES| MOVISTAR VAMOS FHD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3154
-#EXTINF:-1,|ES| CANAL GOL
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3192
-#EXTINF:-1,|ES| BEIN-SPORT SPAIN
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3258
-#EXTINF:-1,|ES| BEIN LA LIGA HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3636
-#EXTINF:-1,|ES| BEIN LIGA 2
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3637
-#EXTINF:-1,|ES| BEIN LIGA 3
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3638
-#EXTINF:-1,|ES| LA LIGATV BAR HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3635
-#EXTINF:-1,|ES| REAL MADRID  TV
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3143
-#EXTINF:-1,|ES| BARCA TV
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3255
-#EXTINF:-1,|ES| MOVISTAR GOLF HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3639
-#EXTINF:-1,|ES| MOVISTAR F1 HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3147
-#EXTINF:-1,|ES| MOVISTAR FUTBOL
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3150
-#EXTINF:-1,|ES| MOVISTAR MOTO GP
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3146
-#EXTINF:-1,|ES| EUROSPORT 1
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3222
-#EXTINF:-1,|ES| EUROSPORT 2
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3221
-#EXTINF:-1,|ES| ESPN
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3622
-#EXTINF:-1,|ES| CANAL 26 HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3585
-#EXTINF:-1,|ES| DMAX HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/10285
-#EXTINF:-1,|ES| VIAJAR HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3641
-#EXTINF:-1,|ES| SUNDANCE
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/4042
-#EXTINF:-1,|ES| NATIONAL GEOGRAPHIC HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3145
-#EXTINF:-1,|ES| NAT GEO WILD HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3144
-#EXTINF:-1,|ES| DISCOVERY CHANNEL
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3214
-#EXTINF:-1,|ES| DISCOVERY MAX
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/4038
-#EXTINF:-1,|ES| ODISEA HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3265
-#EXTINF:-1,|ES| CANAL DECASA
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3193
-#EXTINF:-1,|ES| A&E HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3239
-#EXTINF:-1,|ES| CAZA Y PESCA
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3215
-#EXTINF:-1,|ES| CRIME & INVESTIGATION
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3212
-#EXTINF:-1,|ES| MEGA HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3587
-#EXTINF:-1,|ES| HISTORIA HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3929
-#EXTINF:-1,|ES| TRECE HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3588
-#EXTINF:-1,|ES| BABY TV
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/4330
-#EXTINF:-1,|ES| TVE CLAN
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3243
-#EXTINF:-1,|ES| CLAN TVE
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3973
-#EXTINF:-1,|ES| CANAL PANDA
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3188
-#EXTINF:-1,|ES| DISNEY CHANNEL
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3247
-#EXTINF:-1,|ES| DISNEY JUNIOR
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3966
-#EXTINF:-1,|ES| DISNEY XD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3249
-#EXTINF:-1,|ES| NICKELODEON HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3931
-#EXTINF:-1,|ES| NICK JUNIOR
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3933
-#EXTINF:-1,|ES| PANDA
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/4043
-#EXTINF:-1,|ES| BOING HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3246
-#EXTINF:-1,|ES| MEZZO LIVE HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/9581
-#EXTINF:-1,|ES| MTV ESPANA
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3642
-#EXTINF:-1,|ES| DIVINITY HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/4039
-#EXTINF:-1,|ES| TAQUILLA 1
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3643
-#EXTINF:-1,|ES| TAQUILLA 2
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3644
-#EXTINF:-1,|ES| TAQUILLA 3
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3645
-#EXTINF:-1,|ES| TAQUILLA 4
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3646
-#EXTINF:-1,|ES| TAQUILLA 5
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3132
-#EXTINF:-1,|ES| TAQUILLA 6
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3647
-#EXTINF:-1,|ES| TAQUILLA 7
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3134
-#EXTINF:-1,|ES| TAQUILLA 8
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3135
-#EXTINF:-1,|ES| TAQUILLA 9
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3136
-#EXTINF:-1,|ES| TAQUILLA 10
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/3801
-#EXTINF:-1,|ES| MOVISTAR ALQUILER 1 HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/10272
-#EXTINF:-1,|ES| MOVISTAR ALQUILER 2 HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/10273
-#EXTINF:-1,|ES| MOVISTAR ALQUILER 3 HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/10274
-#EXTINF:-1,|ES| MOVISTAR ALQUILER 4 HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/10275
-#EXTINF:-1,|ES| MOVISTAR ALQUILER 5 HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/10276
-#EXTINF:-1,|ES| MOVISTAR ALQUILER 6 HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/10277
-#EXTINF:-1,|ES| MOVISTAR ALQUILER 7 HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/10278
-#EXTINF:-1,|ES| MOVISTAR ALQUILER 8 HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/10279
-#EXTINF:-1,|ES| MOVISTAR ALQUILER 9 HD
-http://localhd.tv:8080/anto2b/AEMkgjuKkh/10280
-#EXTINF:-1,MIRAME_1
-https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8#EXTINF:-1,Carnaval (2021)
-http://0mas0.com:16004/movie/Jesusrey/Manu-xivo/44351.mp4
-#EXTINF:-1,Cazador contra cazador (2020)
-http://0mas0.com:16004/movie/Jesusrey/Manu-xivo/44352.mp4
-#EXTINF:-1,Cena en América (2020)
-http://0mas0.com:16004/movie/Jesusrey/Manu-xivo/44353.mkv
-#EXTINF:-1,Cenicienta (2021)
-http://0mas0.com:16004/movie/Jesusrey/Manu-xivo/44354.mp4
-#EXTINF:-1,Chaos Walking (2021)
-http://0mas0.com:16004/movie/Jesusrey/Manu-xivo/44355.mp4
-
-
