@@ -100,8 +100,6 @@ http://38971899473267855.niceyes.xyz:80/CDLYWZAK84/3262457057/267855
 http://38971899473267858.niceyes.xyz:80/CDLYWZAK84/3262457057/267858
 #EXTINF:-1,ES: BARCA TV HD
 http://38971899473267866.niceyes.xyz:80/CDLYWZAK84/3262457057/267866
-#EXTINF:-1,ES: BARCA TV FHD
-http://38971899473267867.niceyes.xyz:80/CDLYWZAK84/3262457057/267867
 #EXTINF:-1,ES: CALLE 13 HD
 http://38971899473267872.niceyes.xyz:80/CDLYWZAK84/3262457057/267872
 #EXTINF:-1,ES: CALLE 13 SD
@@ -409,11 +407,32 @@ https://cloudvideo.servers10.com:8081/8028/index.m3u8
 https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8
 #EXTINF:-1,NOROESTE
 https://cloudvideo.servers10.com:8081/8032/index.m3u8
-#EXTINF:-1,Pink Zadruga 1
-http://flus3pnl.xyz:25461/speedhdhd/acjQyHovsC/229
-#EXTINF:-1,Pink Zadruga 2
-http://flus3pnl.xyz:25461/speedhdhd/acjQyHovsC/230
-#EXTINF:-1,Pink Zadruga 3
-http://flus3pnl.xyz:25461/speedhdhd/acjQyHovsC/231
-#EXTINF:-1,Pink Zadruga 4
-http://flus3pnl.xyz:25461/speedhdhd/acjQyHovsC/232
+#EXTINF:-1,EX-YU | Pink Zadruga 1
+http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/234890.ts
+#EXTINF:-1,EX-YU | Pink Zadruga 2
+http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/234891.ts
+#EXTINF:-1,EX-YU | Pink Zadruga 3
+http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/234892.ts
+#EXTINF:-1,EX-YU | Pink Zadruga 4
+http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/234893.t
+http://opanak.xyz:80/r4rks7PusZ/P7DBp2ajvw/3362
+https://rtvc-live1-rm.flumotion.com/playlist.m3u8 
+http://sansat.net:25461/yuyrvtgqvTjbvsa/Nqk17j13UTHNEOE/94581
+#EXTINF:-1,PT: TVI REALITY CAM 1
+http://cdnrede.com:80/maikoncristian/maktub23/207211
+#EXTINF:-1,PT: TVI REALITY CAM 2
+http://cdnrede.com:80/maikoncristian/maktub23/207218
+#EXTINF:-1,PT: TVI REALITY CAM 3
+http://cdnrede.com:80/maikoncristian/maktub23/207219
+#EXTINF:-1,PT: TVI REALITY CAM 4
+http://cdnrede.com:80/maikoncristian/maktub23/207220
+#EXTINF:-1,ES: RTVC HD
+http://38971899473287430.niceyes.xyz:80/CDLYWZAK84/3262457057/287430
+#EXTINF:-1,Zadruga 1
+http://opanak.xyz:80/r4rks7PusZ/P7DBp2ajvw/3358
+#EXTINF:-1,Zadruga 2
+http://opanak.xyz:80/r4rks7PusZ/P7DBp2ajvw/3360
+#EXTINF:-1,Zadruga 3
+http://opanak.xyz:80/r4rks7PusZ/P7DBp2ajvw/3361
+#EXTINF:-1,Zadruga 4
+http://opanak.xyz:80/r4rks7PusZ/P7DBp2ajvw/3362
