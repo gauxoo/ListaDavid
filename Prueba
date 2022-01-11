@@ -353,14 +353,6 @@ https://cloudvideo.servers10.com:8081/8028/index.m3u8
 https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8
 #EXTINF:-1,NOROESTE
 https://cloudvideo.servers10.com:8081/8032/index.m3u8
-#EXTINF:-1,EX-YU | Pink Zadruga 1
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/234890.ts
-#EXTINF:-1,EX-YU | Pink Zadruga 2
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/234891.ts
-#EXTINF:-1,EX-YU | Pink Zadruga 3
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/234892.ts
-#EXTINF:-1,EX-YU | Pink Zadruga 4
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/234893.t
 EXTINF:-1,Zadruga 1
 http://opanak.xyz:80/r4rks7PusZ/P7DBp2ajvw/3358
 #EXTINF:-1,iptvtools_1
@@ -387,14 +379,6 @@ http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/234891.ts
 http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/234892.ts
 #EXTINF:-1,EX-YU | Pink Zadruga 4
 http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/234893.ts
-#EXTINF:-1,Zadruga Live 1 RS
-http://tv.raabjoern.xdns.pro:80/live/w1EAGEo417/zinEqj4120/35327.m3u8
-#EXTINF:-1,Zadruga Live 2 RS
-http://tv.raabjoern.xdns.pro:80/live/w1EAGEo417/zinEqj4120/35328.m3u8
-#EXTINF:-1,Zadruga Live 3 RS
-http://tv.raabjoern.xdns.pro:80/live/w1EAGEo417/zinEqj4120/35329.m3u8
-#EXTINF:-1,Zadruga Live 4 RS
-http://tv.raabjoern.xdns.pro:80/live/w1EAGEo417/zinEqj4120/35330.m3u8
 #EXTINF:-1,YU206:Zadruga 1
 http://ay32.aatvbox.club:8880/wh12m10643/w5CeUmFnyZ/49030
 #EXTINF:-1,YU207:Zadruga 2
