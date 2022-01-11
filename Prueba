@@ -325,14 +325,14 @@ http://38971899473147797.niceyes.xyz:80/movie/CDLYWZAK84/3262457057/147797.avi
 http://38971899473147798.niceyes.xyz:80/movie/CDLYWZAK84/3262457057/147798.mp4
 #EXTINF:-1,iptvtools_32
 http://38971899473147799.niceyes.xyz:80/movie/CDLYWZAK84/3262457057/147799.mp4
+#EXTINF:-1,PT: TVI REALITY
+http://cdnrede.com:80/Erik123/Erik321/207294
 #EXTINF:-1,PT: TVI REALITY CAM 2
 http://cdnrede.com:80/Erik123/Erik321/207218
 #EXTINF:-1,PT: TVI REALITY CAM 3
 http://cdnrede.com:80/Erik123/Erik321/207219
 #EXTINF:-1,PT: TVI REALITY CAM 4
 http://cdnrede.com:80/Erik123/Erik321/207220
-#EXTINF:-1,PT: TVI REALITY
-http://cdnrede.com:80/Erik123/Erik321/207294
 #EXTINF:-1,ES: RTVC HD
 http://38971899473287430.niceyes.xyz:80/CDLYWZAK84/3262457057/287430
 #EXTINF:-1,ES: MIRAME TV HD
@@ -371,21 +371,12 @@ http://ay32.aatvbox.club:8880/wh12m10643/w5CeUmFnyZ/49029
 http://ay32.aatvbox.club:8880/wh12m10643/w5CeUmFnyZ/49028
 #EXTINF:-1,YU209:Zadruga 4
 http://ay32.aatvbox.club:8880/wh12m10643/w5CeUmFnyZ/49027
-#EXTINF:-1,EX-YU | Pink Zadruga 1
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/234890.ts
-#EXTINF:-1,EX-YU | Pink Zadruga 2
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/234891.ts
-#EXTINF:-1,EX-YU | Pink Zadruga 3
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/234892.ts
-#EXTINF:-1,EX-YU | Pink Zadruga 4
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/234893.ts
-#EXTINF:-1,YU206:Zadruga 1
+#EXTINF:-1,YU206:Zadruga 5
 http://ay32.aatvbox.club:8880/wh12m10643/w5CeUmFnyZ/49030
-#EXTINF:-1,YU207:Zadruga 2
+#EXTINF:-1,YU207:Zadruga 6
 http://ay32.aatvbox.club:8880/wh12m10643/w5CeUmFnyZ/49029
-#EXTINF:-1,YU208:Zadruga 3
+#EXTINF:-1,YU208:Zadruga 7
 http://ay32.aatvbox.club:8880/wh12m10643/w5CeUmFnyZ/49028
-#EXTINF:-1,YU209:Zadruga 4
+#EXTINF:-1,YU209:Zadruga 8
 http://ay32.aatvbox.club:8880/wh12m10643/w5CeUmFnyZ/49027
-#EXTINF:-1,Zadruga Live 4 RS
-http://tv.raabjoern.xdns.pro:80/live/w1EAGEo417/zinEqj4120/35330.m3u8
+
