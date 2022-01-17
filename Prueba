@@ -334,12 +334,21 @@ http://cdn.iptvprovider.org:8080/Robair08/Ua8M4uxpHO/16221
 http://cdn.iptvprovider.org:8080/Robair08/Ua8M4uxpHO/16222
 #EXTINF:-1,[EXYU]Zadruga 4
 http://cdn.iptvprovider.org:8080/Robair08/Ua8M4uxpHO/16223
-#EXTINF:-1,iptvtools_20
-http://user.tvcluboficial.com/stream/nov/nov/58.m3u8
-#EXTINF:-1,iptvtools_21
-http://user.tvcluboficial.com/stream/nov/nov/62.m3u8
-#EXTINF:-1,iptvtools_22
-http://user.tvcluboficial.com/stream/nov/nov/300.m3u8
-#EXTINF:-1,iptvtools_23
-http://user.tvcluboficial.com/stream/nov/nov/64.m3u8
-
+#EXTINF:-1,|ES| MOVISTAR ALQUILER 1 HD
+http://localhd.tv:8080/anto2b/AEMkgjuKkh/10272
+#EXTINF:-1,|ES| MOVISTAR ALQUILER 2 HD
+http://localhd.tv:8080/anto2b/AEMkgjuKkh/10273
+#EXTINF:-1,|ES| MOVISTAR ALQUILER 3 HD
+http://localhd.tv:8080/anto2b/AEMkgjuKkh/10274
+#EXTINF:-1,|ES| MOVISTAR ALQUILER 4 HD
+http://localhd.tv:8080/anto2b/AEMkgjuKkh/10275
+#EXTINF:-1,|ES| MOVISTAR ALQUILER 5 HD
+http://localhd.tv:8080/anto2b/AEMkgjuKkh/10276
+#EXTINF:-1,|ES| MOVISTAR ALQUILER 6 HD
+http://localhd.tv:8080/anto2b/AEMkgjuKkh/10277
+#EXTINF:-1,|ES| MOVISTAR ALQUILER 7 HD
+http://localhd.tv:8080/anto2b/AEMkgjuKkh/10278
+#EXTINF:-1,|ES| MOVISTAR ALQUILER 8 HD
+http://localhd.tv:8080/anto2b/AEMkgjuKkh/10279
+#EXTINF:-1,|ES| MOVISTAR ALQUILER 9 HD
+http://localhd.tv:8080/anto2b/AEMkgjuKkh/10280
