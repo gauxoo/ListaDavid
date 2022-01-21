@@ -277,45 +277,86 @@ https://cloudvideo.servers10.com:8081/8028/index.m3u8
 https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8
 #EXTINF:-1,NOROESTE
 https://cloudvideo.servers10.com:8081/8032/index.m3u8
-#EXTINF:-1,[EXYU]ZADRUGA 24 H 1
-http://cdn.iptvprovider.org:8080/Robair08/Ua8M4uxpHO/16220
-#EXTINF:-1,[EXYU]ZADRUGA 24 H 2
-http://cdn.iptvprovider.org:8080/Robair08/Ua8M4uxpHO/16221
-#EXTINF:-1,[EXYU]ZADRUGA 24 H 3
-http://cdn.iptvprovider.org:8080/Robair08/Ua8M4uxpHO/16222
-#EXTINF:-1,[EXYU]Zadruga 4
-http://cdn.iptvprovider.org:8080/Robair08/Ua8M4uxpHO/16223
 #EXTINF:-1,AR: NETFLIX SPANISH
 http://sonyiptv.net:8080/7172/7172/205919
 #EXTINF:-1,AR: NETFLIX SPANISH 2
 http://sonyiptv.net:8080/7172/7172/205920
-#EXTINF:-1,RS: Zadruga 1 HD
-http://mstv.xyz:8080/frank77/SSGcx6Yasx/337123
-#EXTINF:-1,RS: Zadruga 2 HD
-http://mstv.xyz:8080/frank77/SSGcx6Yasx/337122
-#EXTINF:-1,RS: Zadruga 3 FHD
-http://mstv.xyz:8080/frank77/SSGcx6Yasx/337121
-#EXTINF:-1,RS: Zadruga 4 HD
-http://mstv.xyz:8080/frank77/SSGcx6Yasx/337120
-#EXTINF:-1,ZADRUGA LIVE 1
-http://kobraiptv.com:80/AndreaBosnjakWB/7guLYuYV3o/6334
-#EXTINF:-1,ZADRUGA LIVE 2
-http://kobraiptv.com:80/AndreaBosnjakWB/7guLYuYV3o/8217
-#EXTINF:-1,ZADRUGA LIVE 3
-http://kobraiptv.com:80/AndreaBosnjakWB/7guLYuYV3o/8218
-#EXTINF:-1,ZADRUGA LIVE 4
-http://kobraiptv.com:80/AndreaBosnjakWB/7guLYuYV3o/8501
-#EXTINF:-1,PT: TVI Reality
-http://jjkdomain123.one:80/Charlie/Charlie/654604
-#EXTINF:-1,PT: TVI Reality CAM 1
-http://jjkdomain123.one:80/Charlie/Charlie/654546
-#EXTINF:-1,PT: TVI Reality CAM 2
-http://jjkdomain123.one:80/Charlie/Charlie/654545
-#EXTINF:-1,PT: TVI Reality CAM 3
-http://jjkdomain123.one:80/Charlie/Charlie/654544
-#EXTINF:-1,PT: TVI Reality CAM 4
-http://jjkdomain123.one:80/Charlie/Charlie/654543
-#EXTINF:-1,PT: TVI Reality Mosaico
-http://jjkdomain123.one:80/Charlie/Charlie/654547
-
+#EXTINF:-1,Zadruga Live 1 RS
+http://iptvworld.xyz:2095/t9m28tPG/j4PdbhNF/103773
+#EXTINF:-1,Zadruga Live 2 HD RS
+http://iptvworld.xyz:2095/t9m28tPG/j4PdbhNF/47073
+#EXTINF:-1,Zadruga Live 3 HD RS
+http://iptvworld.xyz:2095/t9m28tPG/j4PdbhNF/47074
+#EXTINF:-1,Zadruga Live 3 RS
+http://iptvworld.xyz:2095/t9m28tPG/j4PdbhNF/103775
+#EXTINF:-1,Zadruga Live 4 HD RS
+http://iptvworld.xyz:2095/t9m28tPG/j4PdbhNF/54535
+#EXTINF:-1,Zadruga Live 4 RS
+http://iptvworld.xyz:2095/t9m28tPG/j4PdbhNF/103776
+#EXTINF:-1,|SP| FOOTTERS 1
+http://ip771.tk:80/NGrHuBxehCSoFsX/izEi836aqr/282436
+#EXTINF:-1,|SP| FOOTTERS 2
+http://ip771.tk:80/NGrHuBxehCSoFsX/izEi836aqr/282427
+#EXTINF:-1,|SP| FOOTTERS 3
+http://ip771.tk:80/NGrHuBxehCSoFsX/izEi836aqr/282428
+#EXTINF:-1,|SP| FOOTTERS 4
+http://ip771.tk:80/NGrHuBxehCSoFsX/izEi836aqr/282429
+#EXTINF:-1,|SP| FOOTTERS 5
+http://ip771.tk:80/NGrHuBxehCSoFsX/izEi836aqr/282430
+#EXTINF:-1,|SP| FOOTTERS 6
+http://ip771.tk:80/NGrHuBxehCSoFsX/izEi836aqr/282431
+#EXTINF:-1,|SP| FOOTTERS 7
+http://ip771.tk:80/NGrHuBxehCSoFsX/izEi836aqr/282432
+#EXTINF:-1,|SP| FOOTTERS 8
+http://ip771.tk:80/NGrHuBxehCSoFsX/izEi836aqr/282433
+#EXTINF:-1,|SP| FOOTTERS 9
+http://ip771.tk:80/NGrHuBxehCSoFsX/izEi836aqr/282434
+#EXTINF:-1,|SP| FOOTTERS 10
+http://ip771.tk:80/NGrHuBxehCSoFsX/izEi836aqr/282435
+#EXTINF:-1,|SP| ALQUILER 1 HD
+http://ip771.tk:80/NGrHuBxehCSoFsX/izEi836aqr/289578
+#EXTINF:-1,|SP| ALQUILER 2 HD
+http://ip771.tk:80/NGrHuBxehCSoFsX/izEi836aqr/289579
+#EXTINF:-1,|SP| ALQUILER 3 HD
+http://ip771.tk:80/NGrHuBxehCSoFsX/izEi836aqr/289580
+#EXTINF:-1,|SP| ALQUILER 4 HD
+http://ip771.tk:80/NGrHuBxehCSoFsX/izEi836aqr/289581
+#EXTINF:-1,|SP| ALQUILER 5 HD
+http://ip771.tk:80/NGrHuBxehCSoFsX/izEi836aqr/289582
+#EXTINF:-1,|SP| ALQUILER 6 HD
+http://ip771.tk:80/NGrHuBxehCSoFsX/izEi836aqr/289583
+#EXTINF:-1,|SP| ALQUILER 7 HD
+http://ip771.tk:80/NGrHuBxehCSoFsX/izEi836aqr/289584
+#EXTINF:-1,|SP| ALQUILER 8 HD
+http://ip771.tk:80/NGrHuBxehCSoFsX/izEi836aqr/289585
+#EXTINF:-1,|SP| ALQUILER 9 HD
+http://ip771.tk:80/NGrHuBxehCSoFsX/izEi836aqr/289586
+#EXTINF:-1,|SP| ALQUILER 10 HD
+http://ip771.tk:80/NGrHuBxehCSoFsX/izEi836aqr/289587
+#EXTINF:-1,|SP| ALQUILER 11 HD
+http://ip771.tk:80/NGrHuBxehCSoFsX/izEi836aqr/289588
+#EXTINF:-1,|SP| ALQUILER 12 HD
+http://ip771.tk:80/NGrHuBxehCSoFsX/izEi836aqr/289589
+#EXTINF:-1,|SP| POP MOVIES CHRISTMAS
+http://ip771.tk:80/NGrHuBxehCSoFsX/izEi836aqr/285160
+#EXTINF:-1,|SP| POP MOVIES NETFLIX
+http://ip771.tk:80/NGrHuBxehCSoFsX/izEi836aqr/289599
+#EXTINF:-1,|PT-NOS| TVI REALITY HD
+http://ip771.tk:80/NGrHuBxehCSoFsX/izEi836aqr/287287
+#EXTINF:-1,|PT-NOS| TVI REALITY CAMARA 1
+http://ip771.tk:80/NGrHuBxehCSoFsX/izEi836aqr/287286
+#EXTINF:-1,|PT-NOS| TVI REALITY CAMARA 2
+http://ip771.tk:80/NGrHuBxehCSoFsX/izEi836aqr/287285
+#EXTINF:-1,|PT-NOS| TVI REALITY CAMARA 3
+http://ip771.tk:80/NGrHuBxehCSoFsX/izEi836aqr/287284
+#EXTINF:-1,|PT-NOS| TVI REALITY CAMARA 4
+http://ip771.tk:80/NGrHuBxehCSoFsX/izEi836aqr/287283
+#EXTINF:-1,|SRB| ZADRUGA UZIVO 1
+http://ip771.tk:80/NGrHuBxehCSoFsX/izEi836aqr/4342
+#EXTINF:-1,|SRB| ZADRUGA UZIVO 2
+http://ip771.tk:80/NGrHuBxehCSoFsX/izEi836aqr/4341
+#EXTINF:-1,|SRB| ZADRUGA UZIVO 3
+http://ip771.tk:80/NGrHuBxehCSoFsX/izEi836aqr/4340
+#EXTINF:-1,|SRB| ZADRUGA UZIVO 4
+http://ip771.tk:80/NGrHuBxehCSoFsX/izEi836aqr/98651
 
