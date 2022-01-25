@@ -281,18 +281,24 @@ https://cloudvideo.servers10.com:8081/8032/index.m3u8
 http://sonyiptv.net:8080/7172/7172/205919
 #EXTINF:-1,AR: NETFLIX SPANISH 2
 http://sonyiptv.net:8080/7172/7172/205920
-#EXTINF:-1,Zadruga Live 1 RS
-http://iptvworld.xyz:2095/t9m28tPG/j4PdbhNF/103773
-#EXTINF:-1,Zadruga Live 2 HD RS
-http://iptvworld.xyz:2095/t9m28tPG/j4PdbhNF/47073
-#EXTINF:-1,Zadruga Live 3 HD RS
-http://iptvworld.xyz:2095/t9m28tPG/j4PdbhNF/47074
-#EXTINF:-1,Zadruga Live 3 RS
-http://iptvworld.xyz:2095/t9m28tPG/j4PdbhNF/103775
-#EXTINF:-1,Zadruga Live 4 HD RS
-http://iptvworld.xyz:2095/t9m28tPG/j4PdbhNF/54535
-#EXTINF:-1,Zadruga Live 4 RS
-http://iptvworld.xyz:2095/t9m28tPG/j4PdbhNF/103776
+#EXTINF:-1,EX-YOU: ZADRUGA LIVE 1 L2
+http://dontuse.offshorerev.cc:80/SPIDER_FzMcrg/XYcKfpRNUG/109399
+#EXTINF:-1,EX-YOU: ZADRUGA LIVE 2 L2
+http://dontuse.offshorerev.cc:80/SPIDER_FzMcrg/XYcKfpRNUG/109401
+#EXTINF:-1,EX-YOU: ZADRUGA LIVE 3 L2
+http://dontuse.offshorerev.cc:80/SPIDER_FzMcrg/XYcKfpRNUG/109403
+#EXTINF:-1,EX-YU: ZADRUGA LIVE 4 L2
+http://dontuse.offshorerev.cc:80/SPIDER_FzMcrg/XYcKfpRNUG/109405
+#EXTINF:-1,ZADRUGA LIVE 4
+http://kobraiptv.com:80/AndreaBosnjakWB/7guLYuYV3o/8501
+#EXTINF:-1,Ex-Yu: Zadruga 1 Live
+http://localiptv.site:25461/GoranB/GoranBPwd@/1285
+#EXTINF:-1,Ex-Yu: Zadruga 2 Live
+http://localiptv.site:25461/GoranB/GoranBPwd@/19632
+#EXTINF:-1,Ex-Yu: Zadruga Live 3 
+http://localiptv.site:25461/GoranB/GoranBPwd@/19633
+#EXTINF:-1,PT: TVI Reality
+http://jjkdomain123.one:80/Charlie/Charlie/654604
 #EXTINF:-1,PT: TVI Reality CAM 1
 http://jjkdomain123.one:80/Charlie/Charlie/654546
 #EXTINF:-1,PT: TVI Reality CAM 2
@@ -303,45 +309,27 @@ http://jjkdomain123.one:80/Charlie/Charlie/654544
 http://jjkdomain123.one:80/Charlie/Charlie/654543
 #EXTINF:-1,PT: TVI Reality HD (1080P)
 http://jjkdomain123.one:80/Charlie/Charlie/654548
-#EXTINF:-1,PT: TVI Reality Mosaico
-http://jjkdomain123.one:80/Charlie/Charlie/654547
-#EXTINF:-1,Zadruga Live 21 HD RS
-http://iptvworld.xyz:2095/t9m28tPG/j4PdbhNF/30758
-#EXTINF:-1,Zadruga Live 22 HD RS
-http://iptvworld.xyz:2095/t9m28tPG/j4PdbhNF/47073
-#EXTINF:-1,Zadruga Live 23 HD RS
-http://iptvworld.xyz:2095/t9m28tPG/j4PdbhNF/47074
-#EXTINF:-1,Zadruga Live 24 HD RS
-http://iptvworld.xyz:2095/t9m28tPG/j4PdbhNF/54535
-#EXTINF:-1,XXX: VENUS TV
+#EXTINF:-1,iptvtools_21
 http://qqtv.nl:8080/dj2014/dj2014/86990
-#EXTINF:-1,XXX: SEXTREME LA4
+#EXTINF:-1,iptvtools_22
 http://qqtv.nl:8080/dj2014/dj2014/87023
-#EXTINF:-1,XXX: VIVID RED HD
+#EXTINF:-1,iptvtools_23
 http://qqtv.nl:8080/dj2014/dj2014/86988
-#EXTINF:-1,XXX: Reality Kings TV
+#EXTINF:-1,iptvtools_24
 http://qqtv.nl:8080/dj2014/dj2014/86991
-#EXTINF:-1,XXX: Erotic 06
+#EXTINF:-1,iptvtools_25
 http://qqtv.nl:8080/dj2014/dj2014/87011
-#EXTINF:-1,XXX: XXL TV
+#EXTINF:-1,iptvtools_26
 http://qqtv.nl:8080/dj2014/dj2014/87006
-#EXTINF:-1,XXX: Hot
+#EXTINF:-1,iptvtools_27
 http://qqtv.nl:8080/dj2014/dj2014/87022
-#EXTINF:-1,XXX: PLAY BOY US
+#EXTINF:-1,iptvtools_28
 http://qqtv.nl:8080/dj2014/dj2014/86989
-#EXTINF:-1,XXX: Erotic 02
+#EXTINF:-1,iptvtools_29
 http://qqtv.nl:8080/dj2014/dj2014/86671
-#EXTINF:-1,XXX: PINK EROTIC 2
+#EXTINF:-1,iptvtools_210
 http://qqtv.nl:8080/dj2014/dj2014/86679
-#EXTINF:-1,XXX: SUPER ONE HD
+#EXTINF:-1,iptvtools_30
 http://qqtv.nl:8080/dj2014/dj2014/87026
-#EXTINF:-1,XXX: SEXTREME LA5
+#EXTINF:-1,iptvtools_31
 http://qqtv.nl:8080/dj2014/dj2014/86680
-#EXTINF:-1,PT: TVI REALITY CAM 1
-http://vmp343.ddnsking.com:80/6TsHqtha5/Wbz13J8d2w/524772
-#EXTINF:-1,PT: TVI REALITY CAM 2
-http://vmp343.ddnsking.com:80/6TsHqtha5/Wbz13J8d2w/524773
-#EXTINF:-1,PT: TVI REALITY CAM 3
-http://vmp343.ddnsking.com:80/6TsHqtha5/Wbz13J8d2w/524774
-#EXTINF:-1,PT: TVI REALITY CAM 4
-http://vmp343.ddnsking.com:80/6TsHqtha5/Wbz13J8d2w/524775
