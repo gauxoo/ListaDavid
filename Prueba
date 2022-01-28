@@ -281,34 +281,34 @@ https://cloudvideo.servers10.com:8081/8032/index.m3u8
 http://sonyiptv.net:8080/7172/7172/205919
 #EXTINF:-1,AR: NETFLIX SPANISH 2
 http://sonyiptv.net:8080/7172/7172/205920
-#EXTINF:-1,EX-YOU: ZADRUGA LIVE 1 L2
-http://dontuse.offshorerev.cc:80/SPIDER_FzMcrg/XYcKfpRNUG/109399
-#EXTINF:-1,EX-YOU: ZADRUGA LIVE 2 L2
-http://dontuse.offshorerev.cc:80/SPIDER_FzMcrg/XYcKfpRNUG/109401
-#EXTINF:-1,EX-YOU: ZADRUGA LIVE 3 L2
-http://dontuse.offshorerev.cc:80/SPIDER_FzMcrg/XYcKfpRNUG/109403
-#EXTINF:-1,EX-YU: ZADRUGA LIVE 4 L2
-http://dontuse.offshorerev.cc:80/SPIDER_FzMcrg/XYcKfpRNUG/109405
-#EXTINF:-1,Ex-Yu: Zadruga 1 Live
-http://localiptv.site:25461/GoranB/GoranBPwd@/1285
-#EXTINF:-1,Ex-Yu: Zadruga 2 Live
-http://localiptv.site:25461/GoranB/GoranBPwd@/19632
-#EXTINF:-1,Ex-Yu: Zadruga Live 3 
-http://localiptv.site:25461/GoranB/GoranBPwd@/19633
-#EXTINF:-1,ZADRUGA LIVE 4
+#EXTINF:-1 tvg-id="" tvg-name="ZADRUGA LIVE 1" tvg-logo="" group-title="SRBIJA",ZADRUGA LIVE 1
+http://kobraiptv.com:80/AndreaBosnjakWB/7guLYuYV3o/6334
+#EXTINF:-1 tvg-id="" tvg-name="ZADRUGA LIVE 2" tvg-logo="" group-title="SRBIJA",ZADRUGA LIVE 2
+http://kobraiptv.com:80/AndreaBosnjakWB/7guLYuYV3o/8217
+#EXTINF:-1 tvg-id="" tvg-name="ZADRUGA LIVE 3" tvg-logo="" group-title="SRBIJA",ZADRUGA LIVE 3
+http://kobraiptv.com:80/AndreaBosnjakWB/7guLYuYV3o/8218
+#EXTINF:-1 tvg-id="" tvg-name="ZADRUGA LIVE 4" tvg-logo="" group-title="SRBIJA",ZADRUGA LIVE 4
 http://kobraiptv.com:80/AndreaBosnjakWB/7guLYuYV3o/8501
-#EXTINF:-1,Ex-Yu: Zadruga Live 4
-http://localiptv.site:25461/GoranB/GoranBPwd@/19634
-#EXTINF:-1,PT: TVI REALITY CAM 1
-http://vmp343.ddnsking.com:80/6TsHqtha5/Wbz13J8d2w/524772
-#EXTINF:-1,PT: TVI REALITY CAM 2
-http://vmp343.ddnsking.com:80/6TsHqtha5/Wbz13J8d2w/524773
-#EXTINF:-1,PT: TVI REALITY CAM 3
-http://vmp343.ddnsking.com:80/6TsHqtha5/Wbz13J8d2w/524774
-#EXTINF:-1,PT: TVI REALITY CAM 4
-http://vmp343.ddnsking.com:80/6TsHqtha5/Wbz13J8d2w/524775
+#EXTINF:-1,PT: TVI Reality 
+http://4iptv.xyz:8080/sofia/sofia/11394
 #EXTINF:-1,PT: TVI REALITY MOSAICO
 http://vmp343.ddnsking.com:80/6TsHqtha5/Wbz13J8d2w/524776
+#EXTINF:-1,PT: TVI Reality Camara 1
+http://4iptv.xyz:8080/sofia/sofia/80813
+#EXTINF:-1,PT: TVI Reality Camara 2
+http://4iptv.xyz:8080/sofia/sofia/80812
+#EXTINF:-1,PT: TVI Reality Camara 3
+http://4iptv.xyz:8080/sofia/sofia/80811
+#EXTINF:-1,PT: TVI Reality Camara 4
+http://4iptv.xyz:8080/sofia/sofia/80810
+#EXTINF:-1,ZADRUGA LIVE 1
+http://kobraiptv.com:80/AndreaBosnjakWB/7guLYuYV3o/6334
+#EXTINF:-1,ZADRUGA LIVE 2
+http://kobraiptv.com:80/AndreaBosnjakWB/7guLYuYV3o/8217
+#EXTINF:-1,ZADRUGA LIVE 3
+http://kobraiptv.com:80/AndreaBosnjakWB/7guLYuYV3o/8218
+#EXTINF:-1,ZADRUGA LIVE 4
+http://kobraiptv.com:80/AndreaBosnjakWB/7guLYuYV3o/8501
 #EXTINF:-1,iptvtools_21
 http://qqtv.nl:8080/dj2014/dj2014/86990
 #EXTINF:-1,iptvtools_22
