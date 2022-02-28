@@ -3,46 +3,16 @@
 http://834174406244268032.nicebig.xyz:80/T38OVMM4JU/6375610038/268032
 #EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: LA 1 HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/TVE" group-title="ES 01 MOVISTAR+ VIP",ES: LA 1 HD
 http://834174406244268033.nicebig.xyz:80/T38OVMM4JU/6375610038/268033
-#EXTINF:-1 tvg-id="La1.TV" tvg-name="ES: LA 1 SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/TVE" group-title="ES 01 MOVISTAR+ VIP",ES: LA 1 SD
-http://834174406244272419.nicebig.xyz:80/T38OVMM4JU/6375610038/272419
-#EXTINF:-1 tvg-id="La1.TV" tvg-name="ES: LA 2 FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/LA2" group-title="ES 01 MOVISTAR+ VIP",ES: LA 2 FHD
-http://834174406244268035.nicebig.xyz:80/T38OVMM4JU/6375610038/268035
 #EXTINF:-1 tvg-id="la2.es" tvg-name="ES: LA 2 HD" tvg-logo="http://live.fauconteam.com/la2.png" group-title="ES 01 MOVISTAR+ VIP",ES: LA 2 HD
 http://834174406244268036.nicebig.xyz:80/T38OVMM4JU/6375610038/268036
-#EXTINF:-1 tvg-id="la2.es" tvg-name="ES: LA 2 SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/LA2" group-title="ES 01 MOVISTAR+ VIP",ES: LA 2 SD
-http://834174406244268037.nicebig.xyz:80/T38OVMM4JU/6375610038/268037
-#EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-name="ES: ANTENA 3 FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/A3" group-title="ES 01 MOVISTAR+ VIP",ES: ANTENA 3 FHD
-http://834174406244267819.nicebig.xyz:80/T38OVMM4JU/6375610038/267819
 #EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-name="ES: ANTENA 3 HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/A3" group-title="ES 01 MOVISTAR+ VIP",ES: ANTENA 3 HD
 http://834174406244267820.nicebig.xyz:80/T38OVMM4JU/6375610038/267820
-#EXTINF:-1 tvg-id="antena3.es" tvg-name="ES: ANTENA 3 SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/A3" group-title="ES 01 MOVISTAR+ VIP",ES: ANTENA 3 SD
-http://834174406244267821.nicebig.xyz:80/T38OVMM4JU/6375610038/267821
-#EXTINF:-1 tvg-id="CUATRO HD" tvg-name="ES: CUATRO FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/C4" group-title="ES 01 MOVISTAR+ VIP",ES: CUATRO FHD
-http://834174406244267917.nicebig.xyz:80/T38OVMM4JU/6375610038/267917
 #EXTINF:-1 tvg-id="CUATRO HD" tvg-name="ES: CUATRO HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/C4" group-title="ES 01 MOVISTAR+ VIP",ES: CUATRO HD
 http://834174406244267918.nicebig.xyz:80/T38OVMM4JU/6375610038/267918
-#EXTINF:-1 tvg-id="CUATRO HD" tvg-name="ES: CUATRO SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/C4" group-title="ES 01 MOVISTAR+ VIP",ES: CUATRO SD
-http://834174406244267919.nicebig.xyz:80/T38OVMM4JU/6375610038/267919
-#EXTINF:-1 tvg-id="TELECINCO FHD" tvg-name="ES: TELECINCO FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/T5" group-title="ES 01 MOVISTAR+ VIP",ES: TELECINCO FHD
-http://834174406244268181.nicebig.xyz:80/T38OVMM4JU/6375610038/268181
 #EXTINF:-1 tvg-id="Telecinco.TV" tvg-name="ES: TELECINCO HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/T5" group-title="ES 01 MOVISTAR+ VIP",ES: TELECINCO HD
 http://834174406244268182.nicebig.xyz:80/T38OVMM4JU/6375610038/268182
-#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES: TELECINCO SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/T5" group-title="ES 01 MOVISTAR+ VIP",ES: TELECINCO SD
-http://834174406244268183.nicebig.xyz:80/T38OVMM4JU/6375610038/268183
-#EXTINF:-1 tvg-id="lasxta.es" tvg-name="ES: LA SEXTA FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/SEXTA" group-title="ES 01 MOVISTAR+ VIP",ES: LA SEXTA FHD
-http://834174406244268039.nicebig.xyz:80/T38OVMM4JU/6375610038/268039
 #EXTINF:-1 tvg-id="LA SEXTA HD" tvg-name="ES: LA SEXTA HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/SEXTA" group-title="ES 01 MOVISTAR+ VIP",ES: LA SEXTA HD
 http://834174406244268040.nicebig.xyz:80/T38OVMM4JU/6375610038/268040
-#EXTINF:-1 tvg-id="lasexta.es" tvg-name="ES: LA SEXTA SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/SEXTA" group-title="ES 01 MOVISTAR+ VIP",ES: LA SEXTA SD
-http://834174406244268041.nicebig.xyz:80/T38OVMM4JU/6375610038/268041
-#EXTINF:-1 tvg-id="BabyTV.es" tvg-name="ES: BABY TV FHD" tvg-logo="http://fauconteam.com/logo/BABY-TV-HD.png" group-title="ES 01 MOVISTAR+ VIP",ES: BABY TV FHD
-http://834174406244267864.nicebig.xyz:80/T38OVMM4JU/6375610038/267864
-#EXTINF:-1 tvg-id="babytv.es" tvg-name="ES: BABY TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6e80d3d1f2b8abb84a77de8c5d2c9f54.png" group-title="ES 01 MOVISTAR+ VIP",ES: BABY TV HD
-http://834174406244267865.nicebig.xyz:80/T38OVMM4JU/6375610038/267865
-#EXTINF:-1 tvg-id="BABY TV" tvg-name="ES: BABY TV SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/BABY" group-title="ES 01 MOVISTAR+ VIP",ES: BABY TV SD
-http://834174406244267851.nicebig.xyz:80/T38OVMM4JU/6375610038/267851
-#EXTINF:-1 tvg-id="AMC FHD" tvg-name="ES: AMC FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/AMC" group-title="ES 01 MOVISTAR+ VIP",ES: AMC FHD
-http://834174406244267815.nicebig.xyz:80/T38OVMM4JU/6375610038/267815
 #EXTINF:-1 tvg-id="AMC HD" tvg-name="ES: AMC HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/AMC" group-title="ES 01 MOVISTAR+ VIP",ES: AMC HD
 http://834174406244267816.nicebig.xyz:80/T38OVMM4JU/6375610038/267816
 #EXTINF:-1 tvg-id="amc.es" tvg-name="ES: AMC SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/AMC" group-title="ES 01 MOVISTAR+ VIP",ES: AMC SD
@@ -113,14 +83,6 @@ http://834174406244282465.nicebig.xyz:80/T38OVMM4JU/6375610038/282465
 http://834174406244282466.nicebig.xyz:80/T38OVMM4JU/6375610038/282466
 #EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 8 HD (OP1)" tvg-logo="http://tegustalatele.vip:8000/images/logos/campeones8.png" group-title="ES 04 M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 8 HD (OP1)
 http://834174406244282467.nicebig.xyz:80/T38OVMM4JU/6375610038/282467
-#EXTINF:-1,PINK:Zadruga 1
-http://s2.pandatv.tn:8000/131495913257/04003169/21423
-#EXTINF:-1,PINK:Zadruga 2
-http://s2.pandatv.tn:8000/131495913257/04003169/21424
-#EXTINF:-1,PINK:Zadruga 3
-http://s2.pandatv.tn:8000/131495913257/04003169/21425
-#EXTINF:-1,PINK:Zadruga 4
-http://s2.pandatv.tn:8000/131495913257/04003169/21426
 #EXTINF:-1 tvg-id="" tvg-name="EX-YU: Zadruga Uživo 1" tvg-logo="http://ky-iptv.com:80/images/c807033430b9691f8d479c90d6d4d643.png" group-title="EX-YU",EX-YU: Zadruga Uživo 1
 http://ky-iptv.com:80/REDSOX/REDSOX/225657.ts
 #EXTINF:-1 tvg-id="" tvg-name="EX-YU: Zadruga Uživo 2" tvg-logo="http://ky-iptv.com:25461/images/6140b759d3287c134cbc76b22b87ae25.png" group-title="EX-YU",EX-YU: Zadruga Uživo 2
@@ -137,15 +99,6 @@ http://vhaabyx.xyz:8080/4bePJJhBRQ/muPbbfANqv/33670
 http://vhaabyx.xyz:8080/4bePJJhBRQ/muPbbfANqv/33671
 #EXTINF:-1 tvg-ID="" tvg-name="VIP RS: Zadruga Uživo 4" tvg-logo="" group-title="Live: Srbija & MN",VIP RS: Zadruga Uživo 4
 http://vhaabyx.xyz:8080/4bePJJhBRQ/muPbbfANqv/33672
-#EXTINF:-1 tvg-id="" tvg-name="[PT] TVI Reality Camara 1" tvg-logo="" group-title="Portugalia",[PT] TVI Reality Camara 1
-http://perfect-planet.net:8080/AnastassiaDorot/teurasc12/79017
-#EXTINF:-1 tvg-id="" tvg-name="[PT] TVI Reality Camara 2" tvg-logo="" group-title="Portugalia",[PT] TVI Reality Camara 2
-http://perfect-planet.net:8080/AnastassiaDorot/teurasc12/79016
-#EXTINF:-1 tvg-id="" tvg-name="[PT] TVI Reality Camara 3" tvg-logo="" group-title="Portugalia",[PT] TVI Reality Camara 3
-http://perfect-planet.net:8080/AnastassiaDorot/teurasc12/79015
-#EXTINF:-1 tvg-id="" tvg-name="[PT] TVI Reality Camara 4" tvg-logo="" group-title="Portugalia",[PT] TVI Reality Camara 4
-http://perfect-planet.net:8080/AnastassiaDorot/teurasc12/79014
-#EXTINF:-1 tvg-id="" tvg-name="BE: 192 TV " tvg-logo="" group-title="Belgia",BE: 192 TV
 #EXTINF:-1,24 HORAS | CASO CERRADO
 http://xdgo.live:8080/mxnavarj22/bmDb5Z5JhC/27612
 #EXTINF:-1 tvg-id="" tvg-name="Pink Zadruga 1" tvg-logo="" group-title="PN | PINK NETWORK",Pink Zadruga 1
@@ -156,10 +109,6 @@ http://fasttvuk.com:2086/5776/5776/65052
 http://fasttvuk.com:2086/5776/5776/65053
 #EXTINF:-1 tvg-id="" tvg-name="Pink Zadruga 4" tvg-logo="" group-title="PN | PINK NETWORK",Pink Zadruga 4
 http://fasttvuk.com:2086/5776/5776/65054
-#EXTINF:-1,CANAL4_3
-https://5940924978228.streamlock.net/Directo3/Directo3/playlist.m3u8?HasBahCa
-#EXTINF:-1,CANAL 4 TENERIFE
-https://5940924978228.streamlock.net/Directo3/Directo3/playlist.m3u8
 #EXTINF:-1,BIOESFERA
 https://tvdatta.com:3785/live/biosferatvlive.m3u8
 #EXTINF:-1,MORTEVISION
@@ -237,6 +186,50 @@ http://834174406244279018.nicebig.xyz:80/T38OVMM4JU/6375610038/279018
 #EXTINF:-1 tvg-id="" tvg-name="ES: MTV DANCE FHD" tvg-logo="" group-title="ES 01 MOVISTAR+ VIP",ES: MTV DANCE FHD
 http://834174406244279019.nicebig.xyz:80/T38OVMM4JU/6375610038/279019
 #EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA TV BAR HD" tvg-logo="https://files.laliga.es/seccion_logos/laliga-h-1200x1200_20
+#EXTINF:-1,|ADULT| PLAYSEX TV HD
+http://line.4k-iptv.com:80/dami11/dami11/18760
+#EXTINF:-1,|ADULT| Pinko TV
+http://line.4k-iptv.com:80/dami11/dami11/18759
+#EXTINF:-1,|ADULT| Reality Kings TV
+http://line.4k-iptv.com:80/dami11/dami11/18758
+#EXTINF:-1,|ADULT| BIGASS
+http://line.4k-iptv.com:80/dami11/dami11/18757
+#EXTINF:-1,|ADULT| SEX MEX CHANNEL
+http://line.4k-iptv.com:80/dami11/dami11/18756
+#EXTINF:-1,|ADULT| XPLUS FETİSH  HD
+http://line.4k-iptv.com:80/dami11/dami11/18755
+#EXTINF:-1,|ADULT| FAP TV 2
+http://line.4k-iptv.com:80/dami11/dami11/18754
+#EXTINF:-1,|ADULT| FAP TV 3
+http://line.4k-iptv.com:80/dami11/dami11/18753
+#EXTINF:-1,|ADULT| FAP TV 4
+http://line.4k-iptv.com:80/dami11/dami11/18752
+#EXTINF:-1,|ADULT| FAP TV Anal
+http://line.4k-iptv.com:80/dami11/dami11/18751
+#EXTINF:-1,|ADULT| FAP TV Parody
+http://line.4k-iptv.com:80/dami11/dami11/18750
+#EXTINF:-1,|ADULT| FAP TV Teens
+http://line.4k-iptv.com:80/dami11/dami11/18749
+#EXTINF:-1,|ADULT| FAP TV Compilation
+http://line.4k-iptv.com:80/dami11/dami11/18748
+#EXTINF:-1,|ADULT| FAP TV BBW
+http://line.4k-iptv.com:80/dami11/dami11/18747
+#EXTINF:-1,|ADULT| FAP TV Trans
+http://line.4k-iptv.com:80/dami11/dami11/18746
+#EXTINF:-1,|ADULT| FAP TV Lesbian
+http://line.4k-iptv.com:80/dami11/dami11/18745
+#EXTINF:-1,|ADULT| Tushy 2 TV FHD
+http://line.4k-iptv.com:80/dami11/dami11/18744
+#EXTINF:-1,|ADULT| XY MIX HD
+http://line.4k-iptv.com:80/dami11/dami11/18743
+#EXTINF:-1,Zadruga 1
+http://line.4k-iptv.com:80/dami11/dami11/7982
+#EXTINF:-1,Zadruga 2
+http://line.4k-iptv.com:80/dami11/dami11/87
+#EXTINF:-1,Zadruga 3
+http://line.4k-iptv.com:80/dami11/dami11/88
+#EXTINF:-1,Zadruga 4
+http://line.4k-iptv.com:80/dami11/dami11/86
 
 
 
