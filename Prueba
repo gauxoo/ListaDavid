@@ -1,4 +1,28 @@
 #EXTM3U
+##EXTINF:-1,ES: XTRM FHD
+http://smartsw.xyz:8080/zahra/zahra/1340511
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP RS: Zadruga Uživo 1" tvg-logo="" group-title="Live: Srbija & MN",VIP RS: Zadruga Uživo 1
+http://vhaabyx.xyz:8080/4bePJJhBRQ/muPbbfANqv/33669
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP RS: Zadruga Uživo 2" tvg-logo="" group-title="Live: Srbija & MN",VIP RS: Zadruga Uživo 2
+http://vhaabyx.xyz:8080/4bePJJhBRQ/muPbbfANqv/33670
+#EXTINF:-1 tvg-ID="" tvg-name="VIP RS: Zadruga Uživo 3" tvg-logo="" group-title="Live: Srbija & MN",VIP RS: Zadruga Uživo 3
+http://vhaabyx.xyz:8080/4bePJJhBRQ/muPbbfANqv/33671
+#EXTINF:-1 tvg-ID="" tvg-name="VIP RS: Zadruga Uživo 4" tvg-logo="" group-title="Live: Srbija & MN",VIP RS: Zadruga Uživo 4
+http://vhaabyx.xyz:8080/4bePJJhBRQ/muPbbfANqv/33672
+#EXTINF:-1,ES: Vision 6 TV HD
+http://smartsw.xyz:8080/zahra/zahra/1340510
+#EXTINF:-1,ES: Viajar FHD
+http://smartsw.xyz:8080/zahra/zahra/1340509
+#EXTINF:-1,ES: Ventdelnord TV HD
+http://smartsw.xyz:8080/zahra/zahra/1340508
+#EXTINF:-1,ES: Vallenato Internacional HD
+http://smartsw.xyz:8080/zahra/zahra/1340507
+#EXTINF:-1,ES: TVG Infantil HD
+http://smartsw.xyz:8080/zahra/zahra/1340506
+#EXTINF:-1,ES: TVG Europa HD
+http://smartsw.xyz:8080/zahra/zahra/1340505
+#EXTINF:-1,ES: TVG Cultural HD
+http://smartsw.xyz:8080/zahra/zahra/1340504
 #EXTINF:-1 tvg-id="La1.TV" tvg-name="ES: LA 1 FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/TVE" group-title="ES 01 MOVISTAR+ VIP",ES: LA 1 FHD
 http://834174406244268032.nicebig.xyz:80/T38OVMM4JU/6375610038/268032
 #EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: LA 1 HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/TVE" group-title="ES 01 MOVISTAR+ VIP",ES: LA 1 HD
