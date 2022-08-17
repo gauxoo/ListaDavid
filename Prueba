@@ -6,16 +6,24 @@ http://89420613914272419.eurencode.xyz:80/452PH2BG5R/5517499056/272419
 http://89420613914268036.eurencode.xyz:80/452PH2BG5R/5517499056/268036
 #EXTINF:-1 tvg-id="antena3.es" tvg-name="ES: ANTENA 3 SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/A3" group-title="ES 01 MOVISTAR+ VIP",ES: ANTENA 3 SD
 http://89420613914267821.eurencode.xyz:80/452PH2BG5R/5517499056/267821
-#EXTINF:-1 tvg-id="CUATRO HD" tvg-name="ES: CUATRO HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/C4" group-title="ES 01 MOVISTAR+ VIP",ES: CUATRO HD
-http://89420613914267918.eurencode.xyz:80/452PH2BG5R/5517499056/267918
+#EXTINF:-1 tvg-id="CUATRO HD" tvg-name="ES: CUATRO SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/C4" group-title="ES 01 MOVISTAR+ VIP",ES: CUATRO SD
+http://89420613914267919.eurencode.xyz:80/452PH2BG5R/5517499056/267919
+#EXTINF:-1 tvg-id="TELECINCO FHD" tvg-name="ES: TELECINCO FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/T5" group-title="ES 01 MOVISTAR+ VIP",ES: TELECINCO FHD
+http://89420613914268181.eurencode.xyz:80/452PH2BG5R/5517499056/268181
 #EXTINF:-1 tvg-id="Telecinco.TV" tvg-name="ES: TELECINCO HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/T5" group-title="ES 01 MOVISTAR+ VIP",ES: TELECINCO HD
 http://89420613914268182.eurencode.xyz:80/452PH2BG5R/5517499056/268182
-#EXTINF:-1 tvg-id="LA SEXTA HD" tvg-name="ES: LA SEXTA HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/SEXTA" group-title="ES 01 MOVISTAR+ VIP",ES: LA SEXTA HD
-http://89420613914268040.eurencode.xyz:80/452PH2BG5R/5517499056/268040
+#EXTINF:-1 tvg-id="lasxta.es" tvg-name="ES: LA SEXTA FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/SEXTA" group-title="ES 01 MOVISTAR+ VIP",ES: LA SEXTA FHD
+http://89420613914268039.eurencode.xyz:80/452PH2BG5R/5517499056/268039
+#EXTINF:-1 tvg-id="0.es" tvg-name="ES: #0 FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/MV3" group-title="ES 01 MOVISTAR+ VIP",ES: #0 FHD
+http://89420613914267789.eurencode.xyz:80/452PH2BG5R/5517499056/267789
 #EXTINF:-1 tvg-id="#0 HD" tvg-name="ES: #0 HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/MV3" group-title="ES 01 MOVISTAR+ VIP",ES: #0 HD
 http://89420613914267790.eurencode.xyz:80/452PH2BG5R/5517499056/267790
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES: #VAMOS FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/VAMOSD" group-title="ES 01 MOVISTAR+ VIP",ES: #VAMOS FHD
+http://89420613914267793.eurencode.xyz:80/452PH2BG5R/5517499056/267793
 #EXTINF:-1 tvg-id="#VAMOS HD" tvg-name="ES: #VAMOS HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/VAMOSD" group-title="ES 01 MOVISTAR+ VIP",ES: #VAMOS HD
 http://89420613914267794.eurencode.xyz:80/452PH2BG5R/5517499056/267794
+#EXTINF:-1 tvg-id="mega.es" tvg-name="ES: MEGA FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/MEGA" group-title="ES 01 MOVISTAR+ VIP",ES: MEGA FHD
+http://89420613914268047.eurencode.xyz:80/452PH2BG5R/5517499056/268047
 #EXTINF:-1 tvg-id="" tvg-name="LA MEGA MUNDIAL HD" tvg-logo="https://graph.facebook.com/lamegaworldwide/picture?width=320&height=320" group-title="ES 09 MUSICALES",LA MEGA MUNDIAL HD
 http://89420613914294835.eurencode.xyz:80/452PH2BG5R/5517499056/294835
 #EXTINF:-1 tvg-id="GOL ASTRA SD 1.sp" tvg-name="ES: GOL TV FHD" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/gol-television.png" group-title="ES 09 DEPORTES",ES: GOL TV FHD
