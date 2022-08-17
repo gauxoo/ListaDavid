@@ -16,8 +16,6 @@ http://89420613914268182.eurencode.xyz:80/452PH2BG5R/5517499056/268182
 http://89420613914268039.eurencode.xyz:80/452PH2BG5R/5517499056/268039
 #EXTINF:-1 tvg-id="0.es" tvg-name="ES: #0 FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/MV3" group-title="ES 01 MOVISTAR+ VIP",ES: #0 FHD
 http://89420613914267789.eurencode.xyz:80/452PH2BG5R/5517499056/267789
-#EXTINF:-1 tvg-id="#0 HD" tvg-name="ES: #0 HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/MV3" group-title="ES 01 MOVISTAR+ VIP",ES: #0 HD
-http://89420613914267790.eurencode.xyz:80/452PH2BG5R/5517499056/267790
 #EXTINF:-1 tvg-id="vamos.es" tvg-name="ES: #VAMOS FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/VAMOSD" group-title="ES 01 MOVISTAR+ VIP",ES: #VAMOS FHD
 http://89420613914267793.eurencode.xyz:80/452PH2BG5R/5517499056/267793
 #EXTINF:-1 tvg-id="#VAMOS HD" tvg-name="ES: #VAMOS HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/VAMOSD" group-title="ES 01 MOVISTAR+ VIP",ES: #VAMOS HD
@@ -32,6 +30,8 @@ http://89420613914165443.eurencode.xyz:80/452PH2BG5R/5517499056/165443
 http://89420613914165449.eurencode.xyz:80/452PH2BG5R/5517499056/165449
 #EXTINF:-1 tvg-id="GOL ASTRA SD 1.sp" tvg-name="ES: GOL TV SD" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/gol-television.png" group-title="ES 09 DEPORTES",ES: GOL TV SD
 http://89420613914165441.eurencode.xyz:80/452PH2BG5R/5517499056/165441
+#EXTINF:-1 tvg-id="TEN.TV" tvg-name="ES: TEN SD" tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/TEN" group-title="ES 01 MOVISTAR+ VIP",ES: TEN SD
+http://89420613914268189.eurencode.xyz:80/452PH2BG5R/5517499056/268189
 #EXTINF:-1 tvg-id="M. LaLiga HD" tvg-name="ES: M LALIGA FHD" tvg-logo="https://files.laliga.es/seccion_logos/laliga-h-1200x1200_2018.png" group-title="ES 03 MOVISTAR + LALIGA",ES: M LALIGA FHD
 http://89420613914165385.eurencode.xyz:80/452PH2BG5R/5517499056/165385
 #EXTINF:-1 tvg-id="M. LaLiga HD" tvg-name="ES: M LALIGA HD" tvg-logo="https://files.laliga.es/seccion_logos/laliga-h-1200x1200_2018.png" group-title="ES 03 MOVISTAR + LALIGA",ES: M LALIGA HD
@@ -60,8 +60,26 @@ http://89420613914228395.eurencode.xyz:80/452PH2BG5R/5517499056/228395
 http://89420613914228398.eurencode.xyz:80/452PH2BG5R/5517499056/228398
 #EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DAZN 4 SD" tvg-logo="" group-title="ES 08 DAZN",ES: MOVISTAR DAZN 4 SD
 http://89420613914228399.eurencode.xyz:80/452PH2BG5R/5517499056/228399
-#EXTINF:-1 tvg-id="AMC HD" tvg-name="ES: AMC HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/AMC" group-title="ES 01 MOVISTAR+ VIP",ES: AMC HD
-http://89420613914267816.eurencode.xyz:80/452PH2BG5R/5517499056/267816
+#EXTINF:-1 tvg-id="TELEDEPORTE FHD" tvg-name="ES: TELEDEPORTE FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/TDEP" group-title="ES 01 MOVISTAR+ VIP",ES: TELEDEPORTE FHD
+http://89420613914268185.eurencode.xyz:80/452PH2BG5R/5517499056/268185 
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAPIO.png" group-title="ES 04 M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES FHD
+http://89420613914246282.eurencode.xyz:80/452PH2BG5R/5517499056/246282
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAPIO.png" group-title="ES 04 M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES HD
+http://89420613914165358.eurencode.xyz:80/452PH2BG5R/5517499056/165358
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAPIO.png" group-title="ES 04 M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES SD
+http://89420613914165359.eurencode.xyz:80/452PH2BG5R/5517499056/165359
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES FHD HEVC" tvg-logo="http://tegustalatele.vip:8000/images/2522338a0f3b7a6fc14491e053518c60.png" group-title="ES 04 M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES FHD HEVC
+http://89420613914262412.eurencode.xyz:80/452PH2BG5R/5517499056/262412
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 4K" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAPIO.png" group-title="ES 04 M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 4K
+http://89420613914282468.eurencode.xyz:80/452PH2BG5R/5517499056/282468
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 1 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAPIO.png" group-title="ES 04 M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 1 FHD
+http://89420613914282456.eurencode.xyz:80/452PH2BG5R/5517499056/282456
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="ES: NATIONAL GEOGRAPHIC WILD SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/NATGW" group-title="ES 01 MOVISTAR+ VIP",ES: NATIONAL GEOGRAPHIC WILD SD
+http://89420613914268130.eurencode.xyz:80/452PH2BG5R/5517499056/268130
+#EXTINF:-1 tvg-id="Neox.TV" tvg-name="ES: NEOX FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/NEOX" group-title="ES 01 MOVISTAR+ VIP",ES: NEOX FHD
+http://89420613914268132.eurencode.xyz:80/452PH2BG5R/5517499056/268132
+#EXTINF:-1 tvg-id="CANAL DECASA" tvg-name="ES: DECASA TV FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/DECASA" group-title="ES 01 MOVISTAR+ VIP",ES: DECASA TV FHD
+http://89420613914272408.eurencode.xyz:80/452PH2BG5R/5517499056/272408
 #EXTINF:-1 tvg-id="" tvg-name="ES: ESPN DEPORTES HD" tvg-logo="" group-title="ES 09 DEPORTES",ES: ESPN DEPORTES HD
 http://89420613914165467.eurencode.xyz:80/452PH2BG5R/5517499056/165467
 #EXTINF:-1 tvg-id="CALLE 13 HD" tvg-name="ES: CALLE 13 HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CL13" group-title="ES 01 MOVISTAR+ VIP",ES: CALLE 13 HD
@@ -80,6 +98,8 @@ http://89420613914165257.eurencode.xyz:80/452PH2BG5R/5517499056/165257
 http://89420613914267854.eurencode.xyz:80/452PH2BG5R/5517499056/267854
 #EXTINF:-1 tvg-id="Mega HD" tvg-name="ES: MEGA HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/MEGA" group-title="ES 01 MOVISTAR+ VIP",ES: MEGA HD
 http://89420613914268048.eurencode.xyz:80/452PH2BG5R/5517499056/268048
+#EXTINF:-1 tvg-id="" tvg-name="ES: TRECE TV HD" tvg-logo="" group-title="ES 01 MOVISTAR+ VIP",ES: TRECE TV HD
+http://89420613914287447.eurencode.xyz:80/452PH2BG5R/5517499056/287447
 #EXTINF:-1 tvg-id="" tvg-name="XXX: ALBA XXX 2 HD" tvg-logo="" group-title="ADULTS",XXX: ALBA XXX 2 HD
 http://89420613914284855.eurencode.xyz:80/452PH2BG5R/5517499056/284855
 #EXTINF:-1 tvg-id="" tvg-name="XXX: ALBA XXX 3 HD" tvg-logo="" group-title="ADULTS",XXX: ALBA XXX 3 HD
@@ -110,9 +130,70 @@ http://89420613914267889.eurencode.xyz:80/452PH2BG5R/5517499056/267889
 http://89420613914267998.eurencode.xyz:80/452PH2BG5R/5517499056/267998
 #EXTINF:-1 tvg-id="CAZAyPESCA HD" tvg-name="ES: CAZA Y PESCA HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CAZPES" group-title="ES 01 MOVISTAR+ VIP",ES: CAZA Y PESCA HD
 http://89420613914267892.eurencode.xyz:80/452PH2BG5R/5517499056/267892
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="ES: COSTADELSOL TV HD" tvg-logo="" group-title="ES 01 MOVISTAR+ VIP",ES: COSTADELSOL TV HD
+http://89420613914290223.eurencode.xyz:80/452PH2BG5R/5517499056/290223
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOOTTERS 01 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Logo_Footters.png" group-title="ES 06 FOOTTERS",ES: FOOTTERS 01 FHD
+http://89420613914290323.eurencode.xyz:80/452PH2BG5R/5517499056/290323
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOOTTERS 02 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Logo_Footters.png" group-title="ES 06 FOOTTERS",ES: FOOTTERS 02 FHD
+http://89420613914290324.eurencode.xyz:80/452PH2BG5R/5517499056/290324
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOOTTERS 03 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Logo_Footters.png" group-title="ES 06 FOOTTERS",ES: FOOTTERS 03 FHD
+http://89420613914290325.eurencode.xyz:80/452PH2BG5R/5517499056/290325
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOOTTERS 04 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Logo_Footters.png" group-title="ES 06 FOOTTERS",ES: FOOTTERS 04 FHD
+http://89420613914290326.eurencode.xyz:80/452PH2BG5R/5517499056/290326
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOOTTERS 05 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Logo_Footters.png" group-title="ES 06 FOOTTERS",ES: FOOTTERS 05 FHD
+http://89420613914290327.eurencode.xyz:80/452PH2BG5R/5517499056/290327
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOOTTERS 06 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Logo_Footters.png" group-title="ES 06 FOOTTERS",ES: FOOTTERS 06 FHD
+http://89420613914290328.eurencode.xyz:80/452PH2BG5R/5517499056/290328
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOOTTERS 07 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Logo_Footters.png" group-title="ES 06 FOOTTERS",ES: FOOTTERS 07 FHD
+http://89420613914290329.eurencode.xyz:80/452PH2BG5R/5517499056/290329
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOOTTERS 08 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Logo_Footters.png" group-title="ES 06 FOOTTERS",ES: FOOTTERS 08 FHD
+http://89420613914290330.eurencode.xyz:80/452PH2BG5R/5517499056/290330
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOOTTERS 09 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Logo_Footters.png" group-title="ES 06 FOOTTERS",ES: FOOTTERS 09 FHD
+http://89420613914290331.eurencode.xyz:80/452PH2BG5R/5517499056/290331
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOOTTERS 10 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Logo_Footters.png" group-title="ES 06 FOOTTERS",ES: FOOTTERS 10 FHD
+http://89420613914290332.eurencode.xyz:80/452PH2BG5R/5517499056/290332
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOOTTERS 11 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Logo_Footters.png" group-title="ES 06 FOOTTERS",ES: FOOTTERS 11 FHD
+http://89420613914290333.eurencode.xyz:80/452PH2BG5R/5517499056/290333
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOOTTERS 12 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Logo_Footters.png" group-title="ES 06 FOOTTERS",ES: FOOTTERS 12 FHD
+http://89420613914290334.eurencode.xyz:80/452PH2BG5R/5517499056/290334
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOOTTERS 13 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Logo_Footters.png" group-title="ES 06 FOOTTERS",ES: FOOTTERS 13 FHD
+http://89420613914290335.eurencode.xyz:80/452PH2BG5R/5517499056/290335
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOOTTERS 14 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Logo_Footters.png" group-title="ES 06 FOOTTERS",ES: FOOTTERS 14 FHD
+http://89420613914290336.eurencode.xyz:80/452PH2BG5R/5517499056/290336
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOOTTERS 15 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Logo_Footters.png" group-title="ES 06 FOOTTERS",ES: FOOTTERS 15 FHD
+http://89420613914290337.eurencode.xyz:80/452PH2BG5R/5517499056/290337
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOOTTERS 16 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Logo_Footters.png" group-title="ES 06 FOOTTERS",ES: FOOTTERS 16 FHD
+http://89420613914290338.eurencode.xyz:80/452PH2BG5R/5517499056/290338
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOOTTERS 17 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Logo_Footters.png" group-title="ES 06 FOOTTERS",ES: FOOTTERS 17 FHD
+http://89420613914290339.eurencode.xyz:80/452PH2BG5R/5517499056/290339
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOOTTERS 18 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Logo_Footters.png" group-title="ES 06 FOOTTERS",ES: FOOTTERS 18 FHD
+http://89420613914290340.eurencode.xyz:80/452PH2BG5R/5517499056/290340
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOOTTERS 19 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Logo_Footters.png" group-title="ES 06 FOOTTERS",ES: FOOTTERS 19 FHD
+http://89420613914290341.eurencode.xyz:80/452PH2BG5R/5517499056/290341
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOOTTERS 20 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Logo_Footters.png" group-title="ES 06 FOOTTERS",ES: FOOTTERS 20 FHD
+http://89420613914290342.eurencode.xyz:80/452PH2BG5R/5517499056/290342
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOOTTERS 21 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Logo_Footters.png" group-title="ES 06 FOOTTERS",ES: FOOTTERS 21 FHD
+http://89420613914290343.eurencode.xyz:80/452PH2BG5R/5517499056/290343
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOOTTERS 22 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Logo_Footters.png" group-title="ES 06 FOOTTERS",ES: FOOTTERS 22 FHD
+http://89420613914290344.eurencode.xyz:80/452PH2BG5R/5517499056/290344
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOOTTERS 23 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Logo_Footters.png" group-title="ES 06 FOOTTERS",ES: FOOTTERS 23 FHD
+http://89420613914290345.eurencode.xyz:80/452PH2BG5R/5517499056/290345
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOOTTERS 24 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Logo_Footters.png" group-title="ES 06 FOOTTERS",ES: FOOTTERS 24 FHD
+http://89420613914290346.eurencode.xyz:80/452PH2BG5R/5517499056/290346
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOOTTERS 25 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Logo_Footters.png" group-title="ES 06 FOOTTERS",ES: FOOTTERS 25 FHD
+http://89420613914290347.eurencode.xyz:80/452PH2BG5R/5517499056/290347
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla vs. Kong (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJTk4eqQd9Yo5REpFbTSOMkbSgn.jpg" group-title="VOD ESPAÑOL 2021",Godzilla vs. Kong (2021)
+http://89420613914279441.eurencode.xyz:80/movie/452PH2BG5R/5517499056/279441.avi
+#EXTINF:-1 tvg-id="" tvg-name="Horario Estelar (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yWlb4vtjUYabK9hqigW0hqdVMtE.jpg" group-title="VOD ESPAÑOL 2021",Horario Estelar (2021)
+http://89420613914279442.eurencode.xyz:80/movie/452PH2BG5R/5517499056/279442.avi
+#EXTINF:-1 tvg-id="" tvg-name="I Care a Lot (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6W5wMVPfaxX5JAGMv1G1kMA2MHZ.jpg" group-title="VOD ESPAÑOL 2021",I Care a Lot (2021)
+http://89420613914279443.eurencode.xyz:80/movie/452PH2BG5R/5517499056/279443.avi
+#EXTINF:-1 tvg-id="" tvg-name="Igor Grom contra el Doctor Peste (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zI4yOVjcC51FNI1K3H5poIfm8Wn.jpg" group-title="VOD ESPAÑOL 2021",Igor Grom contra el Doctor Peste (2021)
+http://89420613914279444.eurencode.xyz:80/movie/452PH2BG5R/5517499056/279444.avi
+#EXTINF:-1 tvg-id="" tvg-name="Ilusiones mortales (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wj0PpS8cvXCNB3Wvhe6w5k0Nnke.jpg" group-title="VOD ESPAÑOL 2021",Ilusiones mortales (2021)
+http://89420613914279445.eurencode.xyz:80/movie/452PH2BG5R/5517499056/279445.avi
+#EXTINF:-1 tvg-id="" tvg-name="Jagame Thandhiram" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wj0PpS8cvXCNB3Wvhe6w5k0Nnke.jpg" group-title="VOD ESPAÑOL 2021",Jagame Thandhiram
+http://89420613914279446.eurencode.xyz:80/movie/452PH2BG5R/5517499056/279446.mkv
 #EXTM3U #EXTINF:-1,-= Spain =-
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/14913
 #EXTINF:-1,LA 1 ES
