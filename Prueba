@@ -1,21 +1,120 @@
+#EXTM3U#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: LA 1 HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/TVE" group-title="ES 01 MOVISTAR+ VIP",ES: LA 1 HD
+http://89420613914268033.eurencode.xyz:80/452PH2BG5R/5517499056/268033
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="ES: LA 1 SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/TVE" group-title="ES 01 MOVISTAR+ VIP",ES: LA 1 SD
+http://89420613914272419.eurencode.xyz:80/452PH2BG5R/5517499056/272419
+#EXTINF:-1 tvg-id="la2.es" tvg-name="ES: LA 2 HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/LA2" group-title="ES 01 MOVISTAR+ VIP",ES: LA 2 HD
+http://89420613914268036.eurencode.xyz:80/452PH2BG5R/5517499056/268036
+#EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-name="ES: ANTENA 3 HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/A3" group-title="ES 01 MOVISTAR+ VIP",ES: ANTENA 3 HD
+http://89420613914267820.eurencode.xyz:80/452PH2BG5R/5517499056/267820
+#EXTINF:-1 tvg-id="CUATRO HD" tvg-name="ES: CUATRO HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/C4" group-title="ES 01 MOVISTAR+ VIP",ES: CUATRO HD
+http://89420613914267918.eurencode.xyz:80/452PH2BG5R/5517499056/267918
+#EXTINF:-1 tvg-id="Telecinco.TV" tvg-name="ES: TELECINCO HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/T5" group-title="ES 01 MOVISTAR+ VIP",ES: TELECINCO HD
+http://89420613914268182.eurencode.xyz:80/452PH2BG5R/5517499056/268182
+#EXTINF:-1 tvg-id="LA SEXTA HD" tvg-name="ES: LA SEXTA HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/SEXTA" group-title="ES 01 MOVISTAR+ VIP",ES: LA SEXTA HD
+http://89420613914268040.eurencode.xyz:80/452PH2BG5R/5517499056/268040
+#EXTINF:-1 tvg-id="#0 HD" tvg-name="ES: #0 HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/MV3" group-title="ES 01 MOVISTAR+ VIP",ES: #0 HD
+http://89420613914267790.eurencode.xyz:80/452PH2BG5R/5517499056/267790
+#EXTINF:-1 tvg-id="#VAMOS HD" tvg-name="ES: #VAMOS HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/VAMOSD" group-title="ES 01 MOVISTAR+ VIP",ES: #VAMOS HD
+http://89420613914267794.eurencode.xyz:80/452PH2BG5R/5517499056/267794
+#EXTINF:-1 tvg-id="" tvg-name="LA MEGA MUNDIAL HD" tvg-logo="https://graph.facebook.com/lamegaworldwide/picture?width=320&height=320" group-title="ES 09 MUSICALES",LA MEGA MUNDIAL HD
+http://89420613914294835.eurencode.xyz:80/452PH2BG5R/5517499056/294835
+#EXTINF:-1 tvg-id="GOL ASTRA SD 1.sp" tvg-name="ES: GOL TV FHD" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/gol-television.png" group-title="ES 09 DEPORTES",ES: GOL TV FHD
+http://89420613914165443.eurencode.xyz:80/452PH2BG5R/5517499056/165443
+#EXTINF:-1 tvg-id="" tvg-name="ES: GOL TV HD" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/gol-television.png" group-title="ES 09 DEPORTES",ES: GOL TV HD
+http://89420613914165449.eurencode.xyz:80/452PH2BG5R/5517499056/165449
+#EXTINF:-1 tvg-id="GOL ASTRA SD 1.sp" tvg-name="ES: GOL TV SD" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/gol-television.png" group-title="ES 09 DEPORTES",ES: GOL TV SD
+http://89420613914165441.eurencode.xyz:80/452PH2BG5R/5517499056/165441
+#EXTINF:-1 tvg-id="M. LaLiga HD" tvg-name="ES: M LALIGA FHD" tvg-logo="https://files.laliga.es/seccion_logos/laliga-h-1200x1200_2018.png" group-title="ES 03 MOVISTAR + LALIGA",ES: M LALIGA FHD
+http://89420613914165385.eurencode.xyz:80/452PH2BG5R/5517499056/165385
+#EXTINF:-1 tvg-id="M. LaLiga HD" tvg-name="ES: M LALIGA HD" tvg-logo="https://files.laliga.es/seccion_logos/laliga-h-1200x1200_2018.png" group-title="ES 03 MOVISTAR + LALIGA",ES: M LALIGA HD
+http://89420613914165392.eurencode.xyz:80/452PH2BG5R/5517499056/165392
+#EXTINF:-1 tvg-id="M. LaLiga HD" tvg-name="ES: M LALIGA SD" tvg-logo="https://files.laliga.es/seccion_logos/laliga-h-1200x1200_2018.png" group-title="ES 03 MOVISTAR + LALIGA",ES: M LALIGA SD
+http://89420613914165393.eurencode.xyz:80/452PH2BG5R/5517499056/165393
+#EXTINF:-1 tvg-id="M. LaLiga FHD" tvg-name="ES: LA LIGA FHD (H 265)" tvg-logo="https://files.laliga.es/seccion_logos/laliga-h-1200x1200_2018.png" group-title="ES 03 MOVISTAR + LALIGA",ES: LA LIGA FHD (H 265)
+http://89420613914262413.eurencode.xyz:80/452PH2BG5R/5517499056/262413
+#EXTINF:-1 tvg-id="" tvg-name="ES: M LALIGA MULTI 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="ES 03 MOVISTAR + LALIGA",ES: M LALIGA MULTI 1 HD
+http://89420613914165396.eurencode.xyz:80/452PH2BG5R/5517499056/165396
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DAZN 1 FHD" tvg-logo="https://i.pinimg.com/474x/67/21/0a/67210a52f8c3a001ac0710e63324ad30.jpg" group-title="ES 08 DAZN",ES: MOVISTAR DAZN 1 FHD
+http://89420613914228384.eurencode.xyz:80/452PH2BG5R/5517499056/228384
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DAZN 1 HD" tvg-logo="https://i.pinimg.com/474x/67/21/0a/67210a52f8c3a001ac0710e63324ad30.jpg" group-title="ES 08 DAZN",ES: MOVISTAR DAZN 1 HD
+http://89420613914228385.eurencode.xyz:80/452PH2BG5R/5517499056/228385
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DAZN 2 HD" tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_7a_b_85_c00000_0_0_0.png" group-title="ES 08 DAZN",ES: MOVISTAR DAZN 2 HD
+http://89420613914228388.eurencode.xyz:80/452PH2BG5R/5517499056/228388
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DAZN 2 SD" tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_7a_b_85_c00000_0_0_0.png" group-title="ES 08 DAZN",ES: MOVISTAR DAZN 2 SD
+http://89420613914228389.eurencode.xyz:80/452PH2BG5R/5517499056/228389
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DAZN 1 FHD (H265)" tvg-logo="https://i.pinimg.com/474x/67/21/0a/67210a52f8c3a001ac0710e63324ad30.jpg" group-title="ES 08 DAZN",ES: MOVISTAR DAZN 1 FHD (H265)
+http://89420613914228390.eurencode.xyz:80/452PH2BG5R/5517499056/228390
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DAZN 3 HD" tvg-logo="" group-title="ES 08 DAZN",ES: MOVISTAR DAZN 3 HD
+http://89420613914228394.eurencode.xyz:80/452PH2BG5R/5517499056/228394
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DAZN 3 SD" tvg-logo="" group-title="ES 08 DAZN",ES: MOVISTAR DAZN 3 SD
+http://89420613914228395.eurencode.xyz:80/452PH2BG5R/5517499056/228395
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DAZN 4 HD" tvg-logo="" group-title="ES 08 DAZN",ES: MOVISTAR DAZN 4 HD
+http://89420613914228398.eurencode.xyz:80/452PH2BG5R/5517499056/228398
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DAZN 4 SD" tvg-logo="" group-title="ES 08 DAZN",ES: MOVISTAR DAZN 4 SD
+http://89420613914228399.eurencode.xyz:80/452PH2BG5R/5517499056/228399
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="ES: AMC HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/AMC" group-title="ES 01 MOVISTAR+ VIP",ES: AMC HD
+http://89420613914267816.eurencode.xyz:80/452PH2BG5R/5517499056/267816
+#EXTINF:-1 tvg-id="" tvg-name="ES: ESPN DEPORTES HD" tvg-logo="" group-title="ES 09 DEPORTES",ES: ESPN DEPORTES HD
+http://89420613914165467.eurencode.xyz:80/452PH2BG5R/5517499056/165467
+#EXTINF:-1 tvg-id="CALLE 13 HD" tvg-name="ES: CALLE 13 HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CL13" group-title="ES 01 MOVISTAR+ VIP",ES: CALLE 13 HD
+http://89420613914267872.eurencode.xyz:80/452PH2BG5R/5517499056/267872
+#EXTINF:-1 tvg-id="calle13.es" tvg-name="ES: CALLE 13 SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CL13" group-title="ES 01 MOVISTAR+ VIP",ES: CALLE 13 SD
+http://89420613914267873.eurencode.xyz:80/452PH2BG5R/5517499056/267873
+#EXTINF:-1 tvg-id="CANAL COCINA FHD" tvg-name="ES: CANAL COCINA HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CACOC" group-title="ES 01 MOVISTAR+ VIP",ES: CANAL COCINA HD
+http://89420613914267875.eurencode.xyz:80/452PH2BG5R/5517499056/267875
+#EXTINF:-1 tvg-id="CANAL COCINA FHD" tvg-name="ES: CANAL COCINA HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CACOC" group-title="ES 01 MOVISTAR+ VIP",ES: CANAL COCINA HD
+http://89420613914267877.eurencode.xyz:80/452PH2BG5R/5517499056/267877
+#EXTINF:-1 tvg-id="dark.es" tvg-name="ES: CANAL DARK HD" tvg-logo="https://fest.darktv.es/media/concursos/darkfest/img/darkfoot.png" group-title="ES 01 MOVISTAR+ VIP",ES: CANAL DARK HD
+http://89420613914267880.eurencode.xyz:80/452PH2BG5R/5517499056/267880
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: MOVISTAR FORMULA 1 SD" tvg-logo="http://www.tbs-tv.com:8080/images/nwmbi3XU54kch4GiaQp8f2JBgILNXeLX.png" group-title="ES 05 FORMULA",ES: MOVISTAR FORMULA 1 SD
+http://89420613914165257.eurencode.xyz:80/452PH2BG5R/5517499056/165257
+#EXTINF:-1 tvg-id="bemad.es" tvg-name="ES: BE MAD FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/BEMAD" group-title="ES 01 MOVISTAR+ VIP",ES: BE MAD FHD
+http://89420613914267854.eurencode.xyz:80/452PH2BG5R/5517499056/267854
+#EXTINF:-1 tvg-id="Mega HD" tvg-name="ES: MEGA HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/MEGA" group-title="ES 01 MOVISTAR+ VIP",ES: MEGA HD
+http://89420613914268048.eurencode.xyz:80/452PH2BG5R/5517499056/268048
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ALBA XXX 2 HD" tvg-logo="" group-title="ADULTS",XXX: ALBA XXX 2 HD
+http://89420613914284855.eurencode.xyz:80/452PH2BG5R/5517499056/284855
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ALBA XXX 3 HD" tvg-logo="" group-title="ADULTS",XXX: ALBA XXX 3 HD
+http://89420613914284856.eurencode.xyz:80/452PH2BG5R/5517499056/284856
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ALBA XXX 4 HD" tvg-logo="" group-title="ADULTS",XXX: ALBA XXX 4 HD
+http://89420613914284857.eurencode.xyz:80/452PH2BG5R/5517499056/284857
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ALBA XXX 5 HD" tvg-logo="" group-title="ADULTS",XXX: ALBA XXX 5 HD
+http://89420613914284858.eurencode.xyz:80/452PH2BG5R/5517499056/284858
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ALBA XXX-HD2 HD" tvg-logo="" group-title="ADULTS",XXX: ALBA XXX-HD2 HD
+http://89420613914284859.eurencode.xyz:80/452PH2BG5R/5517499056/284859
+#EXTINF:-1 tvg-id="" tvg-name="XXX: AMATEUR BOXXX HD" tvg-logo="" group-title="ADULTS",XXX: AMATEUR BOXXX HD
+http://89420613914284860.eurencode.xyz:80/452PH2BG5R/5517499056/284860
+#EXTINF:-1 tvg-id="Atreseries HD" tvg-name="ES: ATRESERIES HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ATRESS" group-title="ES 01 MOVISTAR+ VIP",ES: ATRESERIES HD
+http://89420613914267825.eurencode.xyz:80/452PH2BG5R/5517499056/267825
+#EXTINF:-1 tvg-id="Atreseries HD" tvg-name="ES: ATRESERIES SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ATRESS" group-title="ES 01 MOVISTAR+ VIP",ES: ATRESERIES SD
+http://89420613914267826.eurencode.xyz:80/452PH2BG5R/5517499056/267826
+#EXTINF:-1 tvg-id="AXN FHD" tvg-name="ES: AXN FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/AXN" group-title="ES 01 MOVISTAR+ VIP",ES: AXN FHD
+http://89420613914267828.eurencode.xyz:80/452PH2BG5R/5517499056/267828
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="ES: AXN HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/AXN" group-title="ES 01 MOVISTAR+ VIP",ES: AXN HD
+http://89420613914267829.eurencode.xyz:80/452PH2BG5R/5517499056/267829
+#EXTINF:-1 tvg-id="AXN WHITE HD" tvg-name="ES: AXN WHITE HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/SET" group-title="ES 01 MOVISTAR+ VIP",ES: AXN WHITE HD
+http://89420613914267832.eurencode.xyz:80/452PH2BG5R/5517499056/267832
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELEMADRID HD" tvg-logo="" group-title="ES 02 AUTONOMICOS",ES: TELEMADRID HD
+http://89420613914165351.eurencode.xyz:80/452PH2BG5R/5517499056/165351
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL SUR FHD" tvg-logo="" group-title="ES 01 MOVISTAR+ VIP",ES: CANAL SUR FHD
+http://89420613914267889.eurencode.xyz:80/452PH2BG5R/5517499056/267889
+#EXTINF:-1 tvg-id="factoriaficcion.es" tvg-name="ES: FDF HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/FDFIC" group-title="ES 01 MOVISTAR+ VIP",ES: FDF HD
+http://89420613914267998.eurencode.xyz:80/452PH2BG5R/5517499056/267998
+#EXTINF:-1 tvg-id="CAZAyPESCA HD" tvg-name="ES: CAZA Y PESCA HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CAZPES" group-title="ES 01 MOVISTAR+ VIP",ES: CAZA Y PESCA HD
+http://89420613914267892.eurencode.xyz:80/452PH2BG5R/5517499056/267892
+
+
+
 #EXTM3U #EXTINF:-1,-= Spain =-
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/14913
 #EXTINF:-1,LA 1 ES
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/48744
-#EXTINF:-1,LA 1 FHD ES
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/48743
 #EXTINF:-1,LA 2 ES
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/48746
-#EXTINF:-1,LA 2 FHD ES
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/48745
 #EXTINF:-1,Antena 3 ES
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/48656
-#EXTINF:-1,Antena 3 FHD ES
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/48655
 #EXTINF:-1,La Cuatro ES
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/48750
-#EXTINF:-1,La Cuatro FHD ES
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/48749
 #EXTINF:-1,Telecinco ES
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/48882
 #EXTINF:-1,Telecinco FHD ES
@@ -436,14 +535,6 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/47074
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/54535
 #EXTINF:-1,Zadruga Live 4 ex-Yu
 http://user.safeclient.live:8080/o5rzvjUZBK/4t2PNB9qIn/78194
-#EXTINF:-1,RS: Zadruga 1
-http://quality-restream.com:8080/Houngst20001/8exj9Q7FFed3B3va/3410
-#EXTINF:-1,RS: Zadruga 2
-http://quality-restream.com:8080/Houngst20001/8exj9Q7FFed3B3va/3411
-#EXTINF:-1,RS: Zadruga 3
-http://quality-restream.com:8080/Houngst20001/8exj9Q7FFed3B3va/3412
-#EXTINF:-1,RS: Zadruga 4
-http://quality-restream.com:8080/Houngst20001/8exj9Q7FFed3B3va/80321
 #EXTINF:-1,iptvtools_1Aragontv
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1,iptvtools_11 24H
