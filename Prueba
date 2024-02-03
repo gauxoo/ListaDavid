@@ -263,9 +263,6 @@ http://41551769680307911.nicetin.xyz:80/live/vc08197/8584224789/307911.ts
 http://41551769680307912.nicetin.xyz:80/live/vc08197/8584224789/307912.ts
 #EXTINF:-1,PT: TVI REALITY CAMARA 4 HD
 http://41551769680307913.nicetin.xyz:80/live/vc08197/8584224789/307913.ts
-
-
-
 #EXTINF:-1,iptvtools_MOGAN
 https://cloudvideo.servers10.com:8081/8028/index.m3u8
 #EXTINF:-1,iptvtools_23LANCELOT
@@ -381,3 +378,7 @@ http://91642627681756530.ofd0120.xyz:80/play/fe811671/HsebkXCN7ax/756530.ts
 http://91642627681764683.ofd0120.xyz:80/play/fe811671/HsebkXCN7ax/764683.ts
 #EXTINF:-1 tvg-id="" tvg-name="EX-YU: SRB | ZADRUGA 4 HD" tvg-logo="" group-title="EX-YU",EX-YU: SRB | ZADRUGA 4 HD
 http://91642627681771682.ofd0120.xyz:80/play/fe811671/HsebkXCN7ax/771682.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: SRB | ZADRUGA 1 FHD" tvg-logo="" group-title="EX-YU",EX-YU: SRB | ZADRUGA 1 FHD
+http://609488079829756529.starxo.xyz:80/play/5S2NYAJPKG/PU@74Jv345/756529.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: SRB | ZADRUGA 2 HD" tvg-logo="" group-title="EX-YU",EX-YU: SRB | ZADRUGA 2 HD
+http://609488079829756530.starxo.xyz:80/play/5S2NYAJPKG/PU@74Jv345/756530.ts
