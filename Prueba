@@ -411,6 +411,28 @@ http://37.49.225.197:8080/F31068/8fd17683/23150
 http://37.49.225.197:8080/F31068/8fd17683/166218
 #EXTINF:-1,Bir TV
 http://37.49.225.197:8
+#EXTINF:-1 group-title="Hispasat 1D/1E",La 1 HD
+http://192.168.1.148:81/6368_0_12672_30000_1_1_301_302_300_301_5.ts
+#EXTINF:-1 group-title="Hispasat 1D/1E",La 2 HD
+http://192.168.1.148:81/6369_0_12672_30000_1_1_401_402_400_401_5.ts
+#EXTINF:-1 group-title="Hispasat 1D/1E",antena3 HD
+http://192.168.1.148:81/6339_0_12549_29600_1_1_101_103_100_101_5.ts
+#EXTINF:-1 group-title="Hispasat 1D/1E",Cuatro HD
+http://192.168.1.148:81/6338_0_12549_29600_1_1_1701_1703_1700_1701_5.ts
+#EXTINF:-1 group-title="Hispasat 1D/1E",Telecinco HD
+http://192.168.1.148:81/6337_0_12549_29600_1_1_1501_1503_1500_1501_5.ts
+#EXTINF:-1 group-title="Hispasat 1D/1E",laSexta HD
+http://192.168.1.148:81/6341_0_12549_29600_1_1_301_303_300_301_5.ts
+#EXTINF:-1 group-title="Hispasat 1D/1E",CyL7
+http://192.168.1.148:81/6019_0_11348_20857_0_0_8000_8001_8020_8000_5.ts
+#EXTINF:-1 group-title="Hispasat 1D/1E",TVG TDT-Sat
+http://192.168.1.148:81/6020_0_11348_20857_0_0_3001_3002_3000_3001_5.ts
+#EXTINF:-1 group-title="Hispasat 1D/1E",A7
+http://192.168.1.148:81/6021_0_11348_20857_0_0_1010_1011_1019_1010_5.ts
+#EXTINF:-1 group-title="Hispasat 1D/1E",Canal Extremadur
+http://192.168.1.148:81/6022_0_11348_20857_0_0_101_103_100_101_5.ts
+#EXTINF:-1 group-title="Hispasat 1D/1E",FDF
+
 #EXTINF:-1 tvg-id="" tvg-name="ES: GRAN HERMANO VIP 24H HD" tvg-logo="https://up6.cc/2023/11/170109897695831.png" group-title="ES   MOVISTAR+",ES: GRAN HERMANO VIP 24H HD
 http://404816549362693489.ofd112.xyz:80/play/hu1218442/Dn6@K6CC3K/693489.ts
 #EXTINF:-1 tvg-id="" tvg-name="EX-YU: SRB | ZADRUGA 1 HD" tvg-logo="" group-title="EX-YU",EX-YU: SRB | ZADRUGA 1 HD
