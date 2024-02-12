@@ -1,9 +1,7 @@
-#EXTM3U#EXTINF:-1,LA 1_TVE
-https://ztnr.rtve.es/ztnr/5190066.m3u8
-#EXTM3U#EXTINF:-1,LA 1_TVE
-https://ztnr.rtve.es/ztnr/5190066.m3u8
-#EXTINF:-1,LA 2_TVE
-https://ztnr.rtve.es/ztnr/5468585.m3u8
+#EXTM3U##EXTINF:-1 tvg-id="LA 1" tvg-name="ES: LA 1" tvg-logo="https://docdog.top/logo/countries/spain/la1.png" group-title="ES | GENERAL",ES: LA 1
+http://molla.top:8080/86170179588591/01701795885850/5622
+#EXTINF:-1 tvg-id="LA 2" tvg-name="ES: LA 2" tvg-logo="https://docdog.top/logo/countries/spain/la2.png" group-title="ES | GENERAL",ES: LA 2
+http://molla.top:8080/86170179588591/01701795885850/5623
 #EXTINF:-1,ES: ANTENA 3 HD
 http://454430253409321106.of1124.xyz:80/play/vi727097/kYmKfGDMmS/321106.ts
 #EXTINF:-1,ES: CUATRO HD
