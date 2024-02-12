@@ -1,18 +1,20 @@
-#EXTM3U##EXTINF:-1,ES: LA 1 FHD
-http://454430253409321276.of1124.xyz:80/play/vi727097/kYmKfGDMmS/321276.ts
-#EXTINF:-1,ES: LA 1 HD
-http://454430253409321277.of1124.xyz:80/play/vi727097/kYmKfGDMmS/321277.ts
-#EXTINF:-1 tvg-id="LA 2" tvg-name="ES: LA 2" tvg-logo="https://docdog.top/logo/countries/spain/la2.png" group-title="ES | GENERAL",ES: LA 2
+#EXTM3U#EXTINF:-1,LA 1_TVE
+https://ztnr.rtve.es/ztnr/5190066.m3u8
+#EXTINF:-1,LA 2_TVE
+https://ztnr.rtve.es/ztnr/5468585.m3u8
 #EXTINF:-1,ES: ANTENA 3 HD
 http://454430253409321106.of1124.xyz:80/play/vi727097/kYmKfGDMmS/321106.ts
 #EXTINF:-1,ES: CUATRO HD
 http://454430253409321197.of1124.xyz:80/play/vi727097/kYmKfGDMmS/321197.ts
 #EXTINF:-1,ES: TELECINCO HD
 http://454430253409321430.of1124.xyz:80/play/vi727097/kYmKfGDMmS/321430.ts
-#EXTINF:-1 tvg-id="La Sexta" tvg-name="ES: LA SEXTA" tvg-logo="https://docdog.top/logo/countries/spain/lasexta-es.png" group-title="ES | GENERAL",ES: LA SEXTA
-#EXTINF:-1,TV_Mirame
+#EXTINF:-1 tvg-id="LA SEXTA HD" tvg-name="ES: LA SEXTA HD" tvg-logo="https://miguia.tv/channels/big_100.png" group-title="ES   MOVISTAR+",ES: LA SEXTA HD
+http://907425520917321289.ofip231209.xyz:80/play/vi74353/Ua3A5WNyBY/321289.ts
+#EXTINF:-1,24H_TVE
+https://ztnr.rtve.es/ztnr/5473142.m3u8
+#EXTINF:-1,iptvtools_Mirame
 https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
-#EXTINF:-1,iptvtools_Canal 4 Tenerife
+#EXTINF:-1,CANAL 4_Tenerife
 https://5940924978228.streamlock.net/Directo2/Directo2/playlist.m3u8
 #EXTINF:-1,TV_Noroeste
 http://amaru.dyndns.org:8870/0.m3u8
@@ -20,7 +22,7 @@ http://amaru.dyndns.org:8870/0.m3u8
 https://cloudvideo.servers10.com:8081/8028/index.m3u8
 #EXTINF:-1,TV_Lancelot
 https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8
-#EXTINF:-1,TV_Este canal
+#EXTINF:-1,ESTE CANAL_TV
 http://synclosdragos1.syncsolutions.es:8008/live3/emision/index.m3u8
 #EXTINF:-1,Fuerteventura_FTV
 https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8
@@ -28,7 +30,7 @@ https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8
 https://eu1.servers10.com:8081/8116/index.m3u8
 #EXTINF:-1,TV_Afortunadas
 https://cloudvideo.servers10.com:8081/8108/index.m3u8
-#EXTINF:-1,TV_EL TORO
+#EXTINF:-1,TV_ELTORO
 https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8
 #EXTINF:-1,ES: ANTENA 3 FHD
 http://454430253409321105.of1124.xyz:80/play/vi727097/kYmKfGDMmS/321105.ts
@@ -40,10 +42,6 @@ http://454430253409321429.of1124.xyz:80/play/vi727097/kYmKfGDMmS/321429.ts
 http://454430253409321431.of1124.xyz:80/play/vi727097/kYmKfGDMmS/321431.ts
 #EXTINF:-1,ES: CUATRO FHD
 http://454430253409321196.of1124.xyz:80/play/vi727097/kYmKfGDMmS/321196.ts
-#EXTINF:-1,iptvtools_TVC
-https://www.youtube.com/channel/UCTQrUTmzCWIfG6h4EVCdOCQ/live
-#EXTINF:-1,iptvtools_24 h
-https://ztnr.rtve.es/ztnr/5473142.m3u8
 #EXTINF:-1,ES: CUATRO SD
 http://454430253409321198.of1124.xyz:80/play/vi727097/kYmKfGDMmS/321198.ts
 #EXTINF:-1,ES: BABY TV SD
@@ -188,24 +186,6 @@ http://454430253409237737.of1124.xyz:80/play/vi727097/kYmKfGDMmS/237737.ts
 http://454430253409237738.of1124.xyz:80/play/vi727097/kYmKfGDMmS/237738.ts
 #EXTINF:-1,ES: M LALIGA MULTI 10 SD
 http://454430253409237739.of1124.xyz:80/play/vi727097/kYmKfGDMmS/237739.ts
-#EXTINF:-1,ES: ALQUILER 1 FHD
-http://454430253409267808.of1124.xyz:80/play/vi727097/kYmKfGDMmS/267808.ts
-#EXTINF:-1,ES: ALQUILER 2 FHD
-http://454430253409267809.of1124.xyz:80/play/vi727097/kYmKfGDMmS/267809.ts
-#EXTINF:-1,ES: ALQUILER 3 FHD
-http://454430253409267810.of1124.xyz:80/play/vi727097/kYmKfGDMmS/267810.ts
-#EXTINF:-1,ES: ALQUILER 4 FHD
-http://454430253409267811.of1124.xyz:80/play/vi727097/kYmKfGDMmS/267811.ts
-#EXTINF:-1,ES: ALQUILER 5 FHD
-http://454430253409267812.of1124.xyz:80/play/vi727097/kYmKfGDMmS/267812.ts
-#EXTINF:-1,ES: ALQUILER 10 FHD
-http://454430253409267837.of1124.xyz:80/play/vi727097/kYmKfGDMmS/267837.ts
-#EXTINF:-1,ES: ALQUILER 6 HD
-http://454430253409267842.of1124.xyz:80/play/vi727097/kYmKfGDMmS/267842.ts
-#EXTINF:-1,ES: ALQUILER 7 HD
-http://454430253409267845.of1124.xyz:80/play/vi727097/kYmKfGDMmS/267845.ts
-#EXTINF:-1,ES: ALQUILER 9 FHD
-http://454430253409267848.of1124.xyz:80/play/vi727097/kYmKfGDMmS/267848.ts
 #EXTINF:-1,ES: LALIGA TV BAR FHD
 http://454430253409268042.of1124.xyz:80/play/vi727097/kYmKfGDMmS/268042.ts
 #EXTINF:-1,ES: M+ GOLF FHD
@@ -281,14 +261,6 @@ http://41551769680307911.nicetin.xyz:80/live/vc08197/8584224789/307911.ts
 http://41551769680307912.nicetin.xyz:80/live/vc08197/8584224789/307912.ts
 #EXTINF:-1,PT: TVI REALITY CAMARA 4 HD
 http://41551769680307913.nicetin.xyz:80/live/vc08197/8584224789/307913.ts
-#EXTINF:-1,iptvtools_MOGAN
-https://cloudvideo.servers10.com:8081/8028/index.m3u8
-#EXTINF:-1,iptvtools_23LANCELOT
-https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8
-#EXTINF:-1,iptvtools_27AFORTUNADAS
-https://cloudvideo.servers10.com:8081/8108/index.m3u8
-#EXTINF:-1,iptvtools_29ptvcantabria
-https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
 #EXTINF:-1,ES: M+ Supercopa (LALIGA 3)
 http://iloon.top:8080/71170619170927/51706191709290/5652
 #EXTINF:-1,ES: (HD) DAZN LALIGA
@@ -355,41 +327,8 @@ http://iloon.top:8080/71170619170927/51706191709290/5663
 http://iloon.top:8080/71170619170927/51706191709290/5664
 #EXTINF:-1,ES: M+ LIGA DE CAMPEONES 4
 http://iloon.top:8080/71170619170927/51706191709290/5665
-#EXTINF:-1,ES: M+ DEPORTES
-http://iloon.top:8080/71170619170927/51706191709290/5643
-#EXTINF:-1,ES: M+ DEPORTES 2
-http://iloon.top:8080/71170619170927/51706191709290/5639
-#EXTINF:-1,ES: M+ DEPORTES 3
-http://iloon.top:8080/71170619170927/51706191709290/5640
-#EXTINF:-1,ES: M+ DEPORTES 4
-http://iloon.top:8080/71170619170927/51706191709290/5641
-#EXTINF:-1,ES: M+ DEPORTES 5
-http://iloon.top:8080/71170619170927/51706191709290/5681
-#EXTINF:-1,ES: M+ DEPORTES 6
-http://iloon.top:8080/71170619170927/51706191709290/5682
-#EXTINF:-1,ES: M+ DEPORTES 7
-http://iloon.top:8080/71170619170927/51706191709290/5683
-#EXTINF:-1,ES: EUROSPORT 1
-http://iloon.top:8080/71170619170927/51706191709290/5607
-#EXTINF:-1,ES: EUROSPORT 2
-http://iloon.top:8080/71170619170927/51706191709290/5608
 #EXTINF:-1,ES: M+ #VAMOS
 http://iloon.top:8080/71170619170927/51706191709290/5630
-http://graph.facebook.com/MirameTVCanarias/picture?width=320&height=320
-https://graph.facebook.com/radiotelevisionmogan/picture?width=200&height=200
-http://89420613914275910.eurencode.xyz:80/452PH2BG5R/5517499056/275910
-#EXTINF:-1,BIOESFERA
-https://tvdatta.com:3785/live/biosferatvlive.m3u8
-#EXTINF:-1,MORTEVISION
-http://amaru.dyndns.org:8870/0.m3u8
-#EXTINF:-1,EL TORO
-http://217.182.77.27/live/alcarriatv-livestream.m3u8
-#EXTINF:-1,MOGAN
-https://cloudvideo.servers10.com:8081/8028/index.m3u8
-#EXTINF:-1,LANCELOT
-https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8
-#EXTINF:-1,NOROESTE
-https://cloudvideo.servers10.com:8081/8032/index.m3u8
 #EXTINF:-1,iptvtools_1
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/noroestetvladesiempre/picture?width=200&height=200" group-title="Canarias" tvg-name="Noroeste TV",Noroeste TV
@@ -403,12 +342,6 @@ http://37.49.225.197:8080/F31068/8fd17683/3411
 http://37.49.225.197:8080/F31068/8fd17683/3412
 #EXTINF:-1,Zadruga 4
 http://37.49.225.197:8080/F31068/8fd17683/80321
-#EXTINF:-1,Zico TV
-http://37.49.225.197:8080/F31068/8fd17683/23150
-#EXTINF:-1,Agro TV
-http://37.49.225.197:8080/F31068/8fd17683/166218
-#EXTINF:-1,Bir TV
-http://37.49.225.197:8
 #EXTINF:-1 group-title="Hispasat 1D/1E",La 1 HD
 http://192.168.1.148:81/6368_0_12672_30000_1_1_301_302_300_301_5.ts
 #EXTINF:-1 group-title="Hispasat 1D/1E",La 2 HD
@@ -430,7 +363,6 @@ http://192.168.1.148:81/6021_0_11348_20857_0_0_1010_1011_1019_1010_5.ts
 #EXTINF:-1 group-title="Hispasat 1D/1E",Canal Extremadur
 http://192.168.1.148:81/6022_0_11348_20857_0_0_101_103_100_101_5.ts
 #EXTINF:-1 group-title="Hispasat 1D/1E",FDF
-
 #EXTINF:-1 tvg-id="" tvg-name="ES: GRAN HERMANO VIP 24H HD" tvg-logo="https://up6.cc/2023/11/170109897695831.png" group-title="ES   MOVISTAR+",ES: GRAN HERMANO VIP 24H HD
 http://404816549362693489.ofd112.xyz:80/play/hu1218442/Dn6@K6CC3K/693489.ts
 #EXTINF:-1 tvg-id="" tvg-name="EX-YU: SRB | ZADRUGA 1 HD" tvg-logo="" group-title="EX-YU",EX-YU: SRB | ZADRUGA 1 HD
