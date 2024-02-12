@@ -2,50 +2,48 @@
 http://454430253409321276.of1124.xyz:80/play/vi727097/kYmKfGDMmS/321276.ts
 #EXTINF:-1,ES: LA 1 HD
 http://454430253409321277.of1124.xyz:80/play/vi727097/kYmKfGDMmS/321277.ts
-#EXTINF:-1,iptvtools_lLA 1TVE
-https://ztnr.rtve.es/ztnr/5190066.m3u8
-#EXTINF:-1,iptvtools_LA 2TVE
-https://ztnr.rtve.es/ztnr/5468585.m3u8
-#EXTINF:-1,iptvtools_TVC
-https://www.youtube.com/channel/UCTQrUTmzCWIfG6h4EVCdOCQ/live
-#EXTINF:-1,iptvtools_24 h
-https://ztnr.rtve.es/ztnr/5473142.m3u8
-#EXTINF:-1,canaltv_Mirame
+#EXTINF:-1 tvg-id="LA 2" tvg-name="ES: LA 2" tvg-logo="https://docdog.top/logo/countries/spain/la2.png" group-title="ES | GENERAL",ES: LA 2
+#EXTINF:-1,ES: ANTENA 3 HD
+http://454430253409321106.of1124.xyz:80/play/vi727097/kYmKfGDMmS/321106.ts
+#EXTINF:-1,ES: CUATRO HD
+http://454430253409321197.of1124.xyz:80/play/vi727097/kYmKfGDMmS/321197.ts
+#EXTINF:-1,ES: TELECINCO HD
+http://454430253409321430.of1124.xyz:80/play/vi727097/kYmKfGDMmS/321430.ts
+#EXTINF:-1 tvg-id="La Sexta" tvg-name="ES: LA SEXTA" tvg-logo="https://docdog.top/logo/countries/spain/lasexta-es.png" group-title="ES | GENERAL",ES: LA SEXTA
+#EXTINF:-1,TV_Mirame
 https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
-#EXTINF:-1,iptvtools_canal 4 Tenerife
+#EXTINF:-1,iptvtools_Canal 4 Tenerife
 https://5940924978228.streamlock.net/Directo2/Directo2/playlist.m3u8
-#EXTINF:-1,iptvtools_Noroeste
+#EXTINF:-1,TV_Noroeste
 http://amaru.dyndns.org:8870/0.m3u8
-#EXTINF:-1,iptvtools_Mogan
+#EXTINF:-1,TV_Mogan
 https://cloudvideo.servers10.com:8081/8028/index.m3u8
-#EXTINF:-1,iptvtools_Lancelot
+#EXTINF:-1,TV_Lancelot
 https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8
-#EXTINF:-1,iptvtools_Este canal
+#EXTINF:-1,TV_Este canal
 http://synclosdragos1.syncsolutions.es:8008/live3/emision/index.m3u8
-#EXTINF:-1,iptvtools_FTV
+#EXTINF:-1,Fuerteventura_FTV
 https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8
-#EXTINF:-1,iptvtools_Factoria
+#EXTINF:-1,TV_Factoria
 https://eu1.servers10.com:8081/8116/index.m3u8
-#EXTINF:-1,iptvtools_Afortunadas
+#EXTINF:-1,TV_Afortunadas
 https://cloudvideo.servers10.com:8081/8108/index.m3u8
-#EXTINF:-1,iptvtools_EL TORO
+#EXTINF:-1,TV_EL TORO
 https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8
 #EXTINF:-1,ES: ANTENA 3 FHD
 http://454430253409321105.of1124.xyz:80/play/vi727097/kYmKfGDMmS/321105.ts
-#EXTINF:-1,ES: ANTENA 3 HD
-http://454430253409321106.of1124.xyz:80/play/vi727097/kYmKfGDMmS/321106.ts
 #EXTINF:-1,ES: ANTENA 3 SD
 http://454430253409321107.of1124.xyz:80/play/vi727097/kYmKfGDMmS/321107.ts
 #EXTINF:-1,ES: TELECINCO FHD
 http://454430253409321429.of1124.xyz:80/play/vi727097/kYmKfGDMmS/321429.ts
-#EXTINF:-1,ES: TELECINCO HD
-http://454430253409321430.of1124.xyz:80/play/vi727097/kYmKfGDMmS/321430.ts
 #EXTINF:-1,ES: TELECINCO SD
 http://454430253409321431.of1124.xyz:80/play/vi727097/kYmKfGDMmS/321431.ts
 #EXTINF:-1,ES: CUATRO FHD
 http://454430253409321196.of1124.xyz:80/play/vi727097/kYmKfGDMmS/321196.ts
-#EXTINF:-1,ES: CUATRO HD
-http://454430253409321197.of1124.xyz:80/play/vi727097/kYmKfGDMmS/321197.ts
+#EXTINF:-1,iptvtools_TVC
+https://www.youtube.com/channel/UCTQrUTmzCWIfG6h4EVCdOCQ/live
+#EXTINF:-1,iptvtools_24 h
+https://ztnr.rtve.es/ztnr/5473142.m3u8
 #EXTINF:-1,ES: CUATRO SD
 http://454430253409321198.of1124.xyz:80/play/vi727097/kYmKfGDMmS/321198.ts
 #EXTINF:-1,ES: BABY TV SD
