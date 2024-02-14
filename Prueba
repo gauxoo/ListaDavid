@@ -10,6 +10,10 @@ http://454430253409321197.of1124.xyz:80/play/vi727097/kYmKfGDMmS/321197.ts
 http://454430253409321430.of1124.xyz:80/play/vi727097/kYmKfGDMmS/321430.ts
 #EXTINF:-1 tvg-id="LA SEXTA HD" tvg-name="ES: LA SEXTA HD" tvg-logo="https://miguia.tv/channels/big_100.png" group-title="ES   MOVISTAR+",ES: LA SEXTA HD
 http://907425520917321289.ofip231209.xyz:80/play/vi74353/Ua3A5WNyBY/321289.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV CANARIAS SD" tvg-logo="https://rtvc.es/archivos/2021/03/RTVC272.png" group-title="ES   MOVISTAR+",ES: TV CANARIAS SD
+http://91642627681449590.ofd0120.xyz:80/play/fe811671/HsebkXCN7ax/449590.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TDT TV CANARIAS FHD" tvg-logo="" group-title="ES   MOVISTAR+",ES: TDT TV CANARIAS FHD
+http://91642627681543749.ofd0120.xyz:80/play/fe811671/HsebkXCN7ax/543749.ts
 #EXTINF:-1,24H_TVE
 https://ztnr.rtve.es/ztnr/5473142.m3u8
 #EXTINF:-1,TV_Mirame
@@ -62,20 +66,6 @@ http://454430253409321070.of1124.xyz:80/play/vi727097/kYmKfGDMmS/321070.ts
 http://454430253409321072.of1124.xyz:80/play/vi727097/kYmKfGDMmS/321072.ts
 #EXTINF:-1,ES: #VAMOS SD
 http://454430253409321073.of1124.xyz:80/play/vi727097/kYmKfGDMmS/321073.ts
-#EXTINF:-1,ES: ETB 3 SD
-http://454430253409165332.of1124.xyz:80/play/vi727097/kYmKfGDMmS/165332.ts
-#EXTINF:-1,ES: ETB 4 SD
-http://454430253409165333.of1124.xyz:80/play/vi727097/kYmKfGDMmS/165333.ts
-#EXTINF:-1,ES: LA 7 HD
-http://454430253409165298.of1124.xyz:80/play/vi727097/kYmKfGDMmS/165298.ts
-#EXTINF:-1,ES: MELILLA TV SD
-http://454430253409165328.of1124.xyz:80/play/vi727097/kYmKfGDMmS/165328.ts
-#EXTINF:-1,ES: DAZN FORMULA 1 SD
-http://454430253409165257.of1124.xyz:80/play/vi727097/kYmKfGDMmS/165257.ts
-#EXTINF:-1,ES: RTVCE FHD
-http://454430253409165312.of1124.xyz:80/play/vi727097/kYmKfGDMmS/165312.ts
-#EXTINF:-1,ES: TELEMADRID SD
-http://454430253409165351.of1124.xyz:80/play/vi727097/kYmKfGDMmS/165351.ts
 #EXTINF:-1,ES: LIGA DE CAMPEONES FHD
 http://454430253409246282.of1124.xyz:80/play/vi727097/kYmKfGDMmS/246282.ts
 #EXTINF:-1,ES: LIGA DE CAMPEONES HD
@@ -220,38 +210,7 @@ http://454430253409272446.of1124.xyz:80/play/vi727097/kYmKfGDMmS/272446.ts
 http://454430253409272447.of1124.xyz:80/play/vi727097/kYmKfGDMmS/272447.ts
 #EXTINF:-1,ES: CANAL SUR SD
 http://454430253409272448.of1124.xyz:80/play/vi727097/kYmKfGDMmS/272448.ts
-#EXTINF:-1,ES: CANAL TARONJA OSONA I MOIANï¿½S HD
-http://454430253409272449.of1124.xyz:80/play/vi727097/kYmKfGDMmS/272449.ts
-#EXTINF:-1,ES: CCMA EXCLUSIU 1 HD
-http://454430253409272450.of1124.xyz:80/play/vi727097/kYmKfGDMmS/272450.ts
-#EXTINF:-1,ES: CCMA EXCLUSIU 2 HD
-http://454430253409272451.of1124.xyz:80/play/vi727097/kYmKfGDMmS/272451.ts
-#EXTINF:-1,ES: ERLO TELEBISTA HD
-http://454430253409272454.of1124.xyz:80/play/vi727097/kYmKfGDMmS/272454.ts
-#EXTINF:-1,ES: LEVANTE TV SD
-http://454430253409272458.of1124.xyz:80/play/vi727097/kYmKfGDMmS/272458.ts
-#EXTINF:-1,ES: LOGOS TV FHD
-http://454430253409272459.of1124.xyz:80/play/vi727097/kYmKfGDMmS/272459.ts
-#EXTINF:-1,ES: MARBELLA TV SD
-http://454430253409272460.of1124.xyz:80/play/vi727097/kYmKfGDMmS/272460.ts
-#EXTINF:-1,ES: MOLA TV HD
-http://454430253409272461.of1124.xyz:80/play/vi727097/kYmKfGDMmS/272461.ts
-#EXTINF:-1,ES: NOROESTE TV FHD
-http://454430253409272462.of1124.xyz:80/play/vi727097/kYmKfGDMmS/272462.ts
-#EXTINF:-1,ES: ONDA CADIZ HD
-http://454430253409272463.of1124.xyz:80/play/vi727097/kYmKfGDMmS/272463.ts
-#EXTINF:-1,ES: POPULAR TV MELILLA FHD
-http://454430253409272465.of1124.xyz:80/play/vi727097/kYmKfGDMmS/272465.ts
-#EXTINF:-1,ES: SOLIDARIA TV HD
-http://454430253409272469.of1124.xyz:80/play/vi727097/kYmKfGDMmS/272469.ts
-#EXTINF:-1,ES: TELEONUBA FHD
-http://454430253409272471.of1124.xyz:80/play/vi727097/kYmKfGDMmS/272471.ts
-#EXTINF:-1,ES: TENERIFE 2030 HD
-http://454430253409272473.of1124.xyz:80/play/vi727097/kYmKfGDMmS/272473.ts
-#EXTINF:-1,ES: TV3 CAMERES FHD
-http://454430253409272478.of1124.xyz:80/play/vi727097/kYmKfGDMmS/272478.ts
-#EXTINF:-1,ES: TV3 FHD
-http://454430253409272479.of1124.xyz:80/play/vi727097/kYmKfGDMmS/272479.tsV",ES | UDTV Las Palmas? FHD
+V Las Palmas? FHD
 http://teeveetv.one:2052/alanrestreamtest/YZz6eZvW84/999854
 #EXTINF:-1,PT: TVI REALITY CAMARA 1 HD
 http://41551769680307910.nicetin.xyz:80/live/vc08197/8584224789/307910.ts
@@ -405,14 +364,6 @@ http://91642627681769735.ofd0120.xyz:80/play/fe811671/HsebkXCN7ax/769735.ts
 http://91642627681769736.ofd0120.xyz:80/play/fe811671/HsebkXCN7ax/769736.ts
 #EXTINF:-1 tvg-id="" tvg-name="AL: BIG BROTHER ALBANIA 2 FHD" tvg-logo="" group-title="Albania",AL: BIG BROTHER ALBANIA 2 FHD
 http://91642627681769737.ofd0120.xyz:80/play/fe811671/HsebkXCN7ax/769737.ts
-#EXTINF:-1 tvg-id="" tvg-name="AL: BIG BROTHER KOSOVA 2 HD" tvg-logo="" group-title="Albania",AL: BIG BROTHER KOSOVA 2 HD
-http://91642627681769738.ofd0120.xyz:80/play/fe811671/HsebkXCN7ax/769738.ts
-#EXTINF:-1 tvg-id="" tvg-name="AL: BIG BROTHER KOSOVA HD" tvg-logo="" group-title="Albania",AL: BIG BROTHER KOSOVA HD
-http://91642627681769739.ofd0120.xyz:80/play/fe811671/HsebkXCN7ax/769739.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: GRAN HERMANO VIP 24H HD" tvg-logo="https://up6.cc/2023/11/170109897695831.png" group-title="ES   MOVISTAR+",ES: GRAN HERMANO VIP 24H HD
-http://91642627681693489.ofd0120.xyz:80/play/fe811671/HsebkXCN7ax/693489.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: GRAN HERMANO VIP 8 HD" tvg-logo="" group-title="ES OTRAS PLATAFORMAS",ES: GRAN HERMANO VIP 8 HD
-http://91642627681766219.ofd0120.xyz:80/play/fe811671/HsebkXCN7ax/766219.ts
 #EXTINF:-1 tvg-id="" tvg-name="EX-YU: SRB | ZADRUGA 1 FHD" tvg-logo="" group-title="EX-YU",EX-YU: SRB | ZADRUGA 1 FHD
 http://609488079829756529.starxo.xyz:80/play/5S2NYAJPKG/PU@74Jv345/756529.ts
 #EXTINF:-1 tvg-id="" tvg-name="EX-YU: SRB | ZADRUGA 2 HD" tvg-logo="" group-title="EX-YU",EX-YU: SRB | ZADRUGA 2 HD
@@ -431,4 +382,42 @@ http://iloon.top:8080/71170619170927/51706191709290/51362
 http://iloon.top:8080/71170619170927/51706191709290/51363
 #EXTINF:-1,PT: TVI REALITY CAMARA 3
 http://iloon.top:8080/71170619170927/51706191709290/51364
+#EXTINF:-1 tvg-id="" tvg-name="ES: GRAN HERMANO VIP 8 HD" tvg-logo="" group-title="ES OTRAS PLATAFORMAS",ES: GRAN HERMANO VIP 8 HD
+http://610947114193774280.ofd0208.xyz:80/play/David1008B/662382505M121/774280.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: BIG BROTHER 1 FHD" tvg-logo="" group-title="Albania",AL: BIG BROTHER 1 FHD
+http://610947114193769735.ofd0208.xyz:80/play/David1008B/662382505M121/769735.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: BIG BROTHER 2 FHD" tvg-logo="" group-title="Albania",AL: BIG BROTHER 2 FHD
+http://610947114193769736.ofd0208.xyz:80/play/David1008B/662382505M121/769736.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: BIG BROTHER ALBANIA 2 HD" tvg-logo="" group-title="Albania",AL: BIG BROTHER ALBANIA 2 HD
+http://610947114193769737.ofd0208.xyz:80/play/David1008B/662382505M121/769737.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: BIG BROTHER KOSOVA 2 HD" tvg-logo="" group-title="Albania",AL: BIG BROTHER KOSOVA 2 HD
+http://610947114193769738.ofd0208.xyz:80/play/David1008B/662382505M121/769738.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: BIG BROTHER KOSOVA HD" tvg-logo="" group-title="Albania",AL: BIG BROTHER KOSOVA HD
+http://610947114193769739.ofd0208.xyz:80/play/David1008B/662382505M121/769739.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Big Brother" tvg-logo="" group-title="24/7 SHOWS (0 - L)",24/7 Big Brother
+http://185.135.157.70:8080/680271/102850/79229
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: ZADRUGA 1" tvg-logo="https://docdog.top/logo/countries/exyu/ZADRUGA.jpg" group-title="EURO | EX-YU",EX-YU: ZADRUGA 1
+http://molla.top:8080/481676762317312069/4151676762317312/51896
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: ZADRUGA 2" tvg-logo="https://docdog.top/logo/countries/exyu/ZADRUGA.jpg" group-title="EURO | EX-YU",EX-YU: ZADRUGA 2
+http://molla.top:8080/481676762317312069/4151676762317312/51897
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: ZADRUGA 3" tvg-logo="https://docdog.top/logo/countries/exyu/ZADRUGA.jpg" group-title="EURO | EX-YU",EX-YU: ZADRUGA 3
+http://molla.top:8080/481676762317312069/4151676762317312/51898
+#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother VIP Albania 1" tvg-logo="https://docdog.top/logo/countries/albania/AlbaniaVIP1.png" group-title="EURO | ALBANIA",AL: Big Brother VIP Albania 1
+http://molla.top:8080/481676762317312069/4151676762317312/53843
+#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother VIP Albania 2" tvg-logo="https://docdog.top/logo/countries/albania/AlbaniaVIP1.png" group-title="EURO | ALBANIA",AL: Big Brother VIP Albania 2
+http://molla.top:8080/481676762317312069/4151676762317312/53844
+#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother VIP Kosova 1" tvg-logo="https://docdog.top/logo/countries/albania/Big_Brother_VIP_Kosova_1.png" group-title="EURO | ALBANIA",AL: Big Brother VIP Kosova 1
+http://molla.top:8080/481676762317312069/4151676762317312/50341
+#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother VIP Kosova 2" tvg-logo="https://docdog.top/logo/countries/albania/Big_Brother_VIP_Kosova_1.png" group-title="EURO | ALBANIA",AL: Big Brother VIP Kosova 2
+http://molla.top:8080/481676762317312069/4151676762317312/50342
+#EXTINF:-1 tvg-id="" tvg-name="ES: GRAN HERMANO VIP 24H HD" tvg-logo="https://up6.cc/2023/11/170109897695831.png" group-title="ES   MOVISTAR+",ES: GRAN HERMANO VIP 24H HD
+http://200588101477693489.ofd0208.xyz:80/play/fran23/Iptv29092023/693489.ts
+#EXTINF:-1 ,RS: Zadruga 1
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/3410
+#EXTINF:-1 ,RS: Zadruga 2
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/3411
+#EXTINF:-1 ,RS: Zadruga 3
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/3412
+#EXTINF:-1 ,RS: Zadruga 4
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/80321
 
