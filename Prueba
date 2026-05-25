@@ -1,21 +1,40 @@
 #EXTM3U##EXTINF:-1 tvg-id="LA 1" tvg-name="ES: LA 1" tvg-logo="https://docdog.top/logo/countries/spain/la1.png" group-title="ES | GENERAL",ES: LA 1
 http://molla.top:8080/86170179588591/01701795885850/5622
-#EXTINF:-1 tvg-id="LA 2" tvg-name="ES: LA 2" tvg-logo="https://docdog.top/logo/countries/spain/la2.png" group-title="ES | GENERAL",ES: LA 2
-http://molla.top:8080/86170179588591/01701795885850/5623
-#EXTINF:-1,ES: ANTENA 3 HD
-http://454430253409321106.of1124.xyz:80/play/vi727097/kYmKfGDMmS/321106.ts
-#EXTINF:-1,ES: CUATRO HD
-http://454430253409321197.of1124.xyz:80/play/vi727097/kYmKfGDMmS/321197.ts
-#EXTINF:-1,ES: TELECINCO HD
-http://454430253409321430.of1124.xyz:80/play/vi727097/kYmKfGDMmS/321430.ts
-#EXTINF:-1 tvg-id="LA SEXTA HD" tvg-name="ES: LA SEXTA HD" tvg-logo="https://miguia.tv/channels/big_100.png" group-title="ES   MOVISTAR+",ES: LA SEXTA HD
-http://907425520917321289.ofip231209.xyz:80/play/vi74353/Ua3A5WNyBY/321289.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: TV CANARIAS SD" tvg-logo="https://rtvc.es/archivos/2021/03/RTVC272.png" group-title="ES   MOVISTAR+",ES: TV CANARIAS SD
-http://91642627681449590.ofd0120.xyz:80/play/fe811671/HsebkXCN7ax/449590.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: TDT TV CANARIAS FHD" tvg-logo="" group-title="ES   MOVISTAR+",ES: TDT TV CANARIAS FHD
-http://91642627681543749.ofd0120.xyz:80/play/fe811671/HsebkXCN7ax/543749.ts
-#EXTINF:-1,24H_TVE
-https://ztnr.rtve.es/ztnr/5473142.m3u8
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31865/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Vamos HD ES
+#EXTGRP:спорт
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31867/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Deportes 6 HD ES
+#EXTGRP:спорт
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31874/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Golf 2 HD ES
+#EXTGRP:HD
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/6088/index.m3u8
+#EXTINF:0 tvg-rec="3",M+ Deportes ES
+#EXTGRP:HD
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/6070/index.m3u8
+#EXTINF:0 tvg-rec="3",DAZN F1 ES
+#EXTGRP:HD
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/6071/index.m3u8
+#EXTINF:0 tvg-rec="3",M+ Estrenos ES
+#EXTGRP:HD
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/6078/index.m3u8
+#EXTINF:0 tvg-rec="3",M+ Golf ES
+#EXTGRP:HD
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/6075/index.m3u8
+#EXTINF:0 tvg-rec="3",M+ LaLiga ES
+#EXTGRP:HD
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/6073/index.m3u8
+#EXTINF:0 tvg-rec="3",M+ Liga de Campeones ES
+#EXTGRP:кино
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/6396/index.m3u8
+#EXTINF:0 tvg-rec="3",M+ Acción ES
+#EXTGRP:кино
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/7065/index.m3u8
+#EXTINF:0 tvg-rec="3",M+ Comedia ES
+#EXTGRP:кино
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/7066/index.m3u8
+#EXTINF:0 tvg-rec="3",M+ Drama ES
 #EXTINF:-1,TV_Mirame
 https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
 #EXTINF:-1,CANAL 4_Tenerife
