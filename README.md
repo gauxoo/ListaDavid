@@ -9,6 +9,8 @@ http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/321278.ts
 http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/321279.ts
 #EXTINF:-1 tvg-id="antena3.es" tvg-name="ES: ANTENA 3 HD" tvg-logo="http://astrill.today:80/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwsRPfVyVbQIuM9ODYTe6nZCckr0fF1G95Xp9UdaQfZI5Q.png" group-title="ES   MOVISTAR+",ES: ANTENA 3 HD
 http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/321105.ts
+#EXTINF:-1 tvg-id="TV Canaria" tvg-name="ES: TV CANARIAS FHD" tvg-logo="https://rtvc.es/archivos/2021/03/RTVC272.png" group-title="ES   MOVISTAR+",ES: TV CANARIAS FHD
+http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/1066638.ts
 #EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES: TELECINCO SD" tvg-logo="https://miguia.tv/channels/big_161.png" group-title="ES   MOVISTAR+",ES: TELECINCO SD
 http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/321429.ts
 #EXTINF:-1 tvg-id="cuatro.es" tvg-name="ES: CUATRO HD" tvg-logo="http://fanc.tmsimg.com/assets/s91199_ll_h3_aa.png" group-title="ES   MOVISTAR+",ES: CUATRO HD
