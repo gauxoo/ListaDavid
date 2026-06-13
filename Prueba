@@ -278,26 +278,14 @@ http://kb87.eshofrcep.top:8080/es3451767213006/cce12be6306f/121
 http://kb87.eshofrcep.top:8080/es3451767213006/cce12be6306f/26612
 #EXTINF:-1,ES: (HD) M+ VAMOS
 http://kb87.eshofrcep.top:8080/es3451767213006/cce12be6306f/123
-#EXTINF:-1,ES: (FHD) M+ VAMOS
-http://kb87.eshofrcep.top:8080/es3451767213006/cce12be6306f/122
-#EXTINF:-1,ES: (FHD) M+ VAMOS 2
-http://kb87.eshofrcep.top:8080/es3451767213006/cce12be6306f/76209
-#EXTINF:-1,ES: M+ ELLAS V
-http://kb87.eshofrcep.top:8080/es3451767213006/cce12be6306f/124
-#EXTINF:-1,ES: M+ GOLF
-http://kb87.eshofrcep.top:8080/es3451767213006/cce12be6306f/126
-#EXTINF:-1,ES: M+ GOLF 2
-http://kb87.eshofrcep.top:8080/es3451767213006/cce12be6306f/127
-#EXTINF:-1,ES: EUROSPORT 1
-http://kb87.eshofrcep.top:8080/es3451767213006/cce12be6306f/128
-#EXTINF:-1,ES: EUROSPORT 2
-http://kb87.eshofrcep.top:8080/es3451767213006/cce12be6306f/129
-#EXTINF:-1,ES: GOL PLAY
-http://kb87.eshofrcep.top:8080/es3451767213006/cce12be6306f/130
-#EXTINF:-1,ES: TELEDEPORTE
-http://kb87.eshofrcep.top:8080/es3451767213006/cce12be6306f/131
-#EXTINF:-1,ES: REAL MADRID TV
-http://kb87.eshofrcep.top:8080/es3451767213006/cce12be6306f/132
+#EXTINF:-1 tvg-id="" tvg-name="SRB: ELITA8 LIVE 1" tvg-logo="https://docdog.top/logo/countries/SRB/ELITA8_LIVE_1.png" group-title="EXYU | SRB VIP",SRB: ELITA8 LIVE 1
+http://31.43.191.125:8080/VIP01491703168785003/91703168785015/144626
+#EXTINF:-1 tvg-id="" tvg-name="SRB: ELITA8 LIVE 2" tvg-logo="https://docdog.top/logo/countries/SRB/ELITA8_LIVE_2.png" group-title="EXYU | SRB VIP",SRB: ELITA8 LIVE 2
+http://31.43.191.125:8080/VIP01491703168785003/91703168785015/144627
+#EXTINF:-1 tvg-id="" tvg-name="SRB: ELITA8 LIVE 3" tvg-logo="https://docdog.top/logo/countries/SRB/ELITA8_LIVE_3.png" group-title="EXYU | SRB VIP",SRB: ELITA8 LIVE 3
+http://31.43.191.125:8080/VIP01491703168785003/91703168785015/144628
+#EXTINF:-1 tvg-id="" tvg-name="SRB: ELITA8 LIVE 4" tvg-logo="https://docdog.top/logo/countries/SRB/ELITA8_LIVE_4.png" group-title="EXYU | SRB VIP",SRB: ELITA8 LIVE 4
+http://31.43.191.125:8080/VIP01491703168785003/91703168785015/144629
 
 
 
