@@ -174,6 +174,190 @@ http://31.43.191.125:8080/VIP01491703168785003/91703168785015/144627
 http://31.43.191.125:8080/VIP01491703168785003/91703168785015/144628
 #EXTINF:-1 tvg-id="" tvg-name="SRB: ELITA8 LIVE 4" tvg-logo="https://docdog.top/logo/countries/SRB/ELITA8_LIVE_4.png" group-title="EXYU | SRB VIP",SRB: ELITA8 LIVE 4
 http://31.43.191.125:8080/VIP01491703168785003/91703168785015/144629
+#EXTINF:0 tvg-rec="0",Calle 13 HD ES
+#EXTGRP:кино
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31836/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Drama HD ES
+#EXTGRP:кино
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31866/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Acción HD ES
+#EXTGRP:кино
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31868/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Comedia HD ES
+#EXTGRP:кино
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31869/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Cine Español HD ES
+#EXTGRP:кино
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31870/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Estrenos HD ES
+#EXTGRP:кино
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31872/index.m3u8
+#EXTINF:0 tvg-rec="0",Warner TV HD ES
+#EXTGRP:кино
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31873/index.m3u8
+#EXTINF:0 tvg-rec="0",AXN HD ES
+#EXTGRP:кино
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31877/index.m3u8
+#EXTINF:0 tvg-rec="0",SYFY HD ES
+#EXTGRP:кино
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31880/index.m3u8
+#EXTINF:0 tvg-rec="0",Atreseries HD ES
+#EXTGRP:кино
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31882/index.m3u8
+#EXTINF:0 tvg-rec="0",TCM HD ES
+#EXTGRP:кино
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31883/index.m3u8
+#EXTINF:0 tvg-rec="0",КиноСезон HD
+#EXTGRP:кино
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31889/index.m3u8
+#EXTINF:0 tvg-rec="0",Suspenso HD ES
+#EXTINF:0 tvg-rec="0",Antena 3 HD ES
+#EXTGRP:другие
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31825/index.m3u8
+#EXTINF:0 tvg-rec="0",La 1 HD ES
+#EXTGRP:другие
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31826/index.m3u8
+#EXTINF:0 tvg-rec="0",Cuatro HD ES
+#EXTGRP:другие
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31827/index.m3u8
+#EXTINF:0 tvg-rec="0",Telecinco HD ES
+#EXTGRP:другие
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31828/index.m3u8
+#EXTINF:0 tvg-rec="0",La 2 HD ES
+#EXTGRP:другие
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31829/index.m3u8
+#EXTINF:0 tvg-rec="0",LaSexta HD ES
+#EXTGRP:другие
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31833/index.m3u8
+#EXTINF:0 tvg-rec="0",Trece HD ES
+#EXTINF:0 tvg-rec="0",Суспільне Спорт HD UA
+#EXTGRP:спорт
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31750/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Liga de Campeones 3 HD ES
+#EXTGRP:спорт
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31820/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Liga de Campeones 5 HD ES
+#EXTGRP:спорт
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31821/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ LaLiga 4 HD ES
+#EXTGRP:спорт
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31822/index.m3u8
+#EXTINF:0 tvg-rec="0",LaLiga TV Hypermotion HD ES
+#EXTGRP:спорт
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31823/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Deportes HD ES
+#EXTGRP:спорт
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31830/index.m3u8
+#EXTINF:0 tvg-rec="0",DAZN 1 Bar HD ES
+#EXTGRP:спорт
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31831/index.m3u8
+#EXTINF:0 tvg-rec="0",DAZN 2 Bar HD ES
+#EXTGRP:спорт
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31832/index.m3u8
+#EXTINF:0 tvg-rec="0",DAZN F1 HD ES
+#EXTGRP:спорт
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31834/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Deportes 2 HD ES
+#EXTGRP:спорт
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31835/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Liga de Campeones HD ES
+#EXTGRP:спорт
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31842/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Golf HD ES
+#EXTGRP:спорт
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31844/index.m3u8
+#EXTINF:0 tvg-rec="0",Eurosport 1 HD ES
+#EXTGRP:спорт
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31845/index.m3u8
+#EXTINF:0 tvg-rec="0",Real Madrid TV FHD ES
+#EXTGRP:спорт
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31847/index.m3u8
+#EXTINF:0 tvg-rec="0",Eurosport 2 HD ES
+#EXTGRP:спорт
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31848/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Deportes 3 HD ES
+#EXTGRP:спорт
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31849/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Deportes 4 HD ES
+#EXTGRP:спорт
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31850/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Deportes 5 HD ES
+#EXTGRP:спорт
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31851/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ LaLiga HD ES
+#EXTGRP:спорт
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31853/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ LaLiga 2 HD ES
+#EXTGRP:спорт
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31854/index.m3u8
+#EXTINF:0 tvg-rec="0",DAZN LaLiga 2 HD ES
+#EXTGRP:спорт
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31855/index.m3u8
+#EXTINF:0 tvg-rec="0",DAZN LaLiga HD ES
+#EXTGRP:спорт
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31856/index.m3u8
+#EXTINF:0 tvg-rec="0",Teledeporte HD ES
+#EXTGRP:спорт
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31857/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ LaLiga 3 HD ES
+#EXTGRP:спорт
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31858/index.m3u8
+#EXTINF:0 tvg-rec="0",LaLiga TV Hypermotion 2 HD ES
+#EXTGRP:спорт
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31859/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Liga de Campeones 2 HD ES
+#EXTGRP:спорт
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31860/index.m3u8
+#EXTINF:0 tvg-rec="0",DAZN 3 Bar HD ES
+#EXTGRP:спорт
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31861/index.m3u8
+#EXTINF:0 tvg-rec="0",DAZN 4 Bar HD ES
+#EXTGRP:спорт
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31862/index.m3u8
+#EXTINF:0 tvg-rec="0",Gol HD ES
+#EXTGRP:спорт
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31863/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Liga de Campeones 4 HD ES
+#EXTGRP:спорт
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31864/index.m3u8
+#EXTINF:0 tvg-rec="0",LaLiga TV Hypermotion 3 HD ES
+#EXTGRP:спорт
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31865/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Vamos HD ES
+#EXTGRP:спорт
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31867/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Deportes 6 HD ES
+#EXTGRP:спорт
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31874/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Golf 2 HD ES
+#EXTGRP:HD
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/6088/index.m3u8
+#EXTINF:0 tvg-rec="3",M+ Deportes ES
+#EXTGRP:HD
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/6070/index.m3u8
+#EXTINF:0 tvg-rec="3",DAZN F1 ES
+#EXTGRP:HD
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/6071/index.m3u8
+#EXTINF:0 tvg-rec="3",M+ Estrenos ES
+#EXTGRP:HD
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/6078/index.m3u8
+#EXTINF:0 tvg-rec="3",M+ Golf ES
+#EXTGRP:HD
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/6075/index.m3u8
+#EXTINF:0 tvg-rec="3",M+ LaLiga ES
+#EXTGRP:HD
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/6073/index.m3u8
+#EXTINF:0 tvg-rec="3",M+ Liga de Campeones ES
+#EXTGRP:кино
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/6396/index.m3u8
+#EXTINF:0 tvg-rec="3",M+ Acción ES
+#EXTGRP:кино
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/7065/index.m3u8
+#EXTINF:0 tvg-rec="3",M+ Comedia ES
+#EXTGRP:кино
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/7066/index.m3u8
+
+
 
 
 
