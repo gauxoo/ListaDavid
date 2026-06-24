@@ -1,6 +1,29 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="la1.es" tvg-name="ES: LA 1 FHD" tvg-logo="https://miguia.tv/channels/big_157.png" group-title="ES   MOVISTAR+",ES: LA 1 FHD
 http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/321276.ts
+#EXTGRP:кино
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31889/index.m3u8
+#EXTINF:0 tvg-rec="0",Suspenso HD ES
+#EXTINF:0 tvg-rec="0",Antena 3 HD ES
+#EXTGRP:другие
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31825/index.m3u8
+#EXTINF:0 tvg-rec="0",La 1 HD ES
+#EXTGRP:другие
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31826/index.m3u8
+#EXTINF:0 tvg-rec="0",Cuatro HD ES
+#EXTGRP:другие
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31827/index.m3u8
+#EXTINF:0 tvg-rec="0",Telecinco HD ES
+#EXTGRP:другие
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31828/index.m3u8
+#EXTINF:0 tvg-rec="0",La 2 HD ES
+#EXTGRP:другие
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31829/index.m3u8
+#EXTINF:0 tvg-rec="0",LaSexta HD ES
+#EXTGRP:другие
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31833/index.m3u8
+#EXTINF:0 tvg-rec="0",Trece HD ES
+#EXTINF:0 tvg-rec="0",Суспільне Спорт HD UA
 #EXTINF:-1 tvg-id="la1.es" tvg-name="ES: LA 1 HD" tvg-logo="https://miguia.tv/channels/big_157.png" group-title="ES   MOVISTAR+",ES: LA 1 HD
 http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/321277.ts
 #EXTINF:-1 tvg-id="la1.es" tvg-name="ES: LA 1 SD" tvg-logo="https://miguia.tv/channels/big_157.png" group-title="ES   MOVISTAR+",ES: LA 1 SD
